@@ -11,3 +11,7 @@ http://upm-es.academia.edu/EmersonCastaneda
 
 
 http://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigador=11800
+
+
+Installing PHP on MAC OS X 1.8
+http://php-osx.liip.ch/
