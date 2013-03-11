@@ -14,4 +14,21 @@ http://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigad
 
 
 Installing PHP on MAC OS X 1.8
+http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x
 http://php-osx.liip.ch/
+
+
+
+
+Short, Self Contained, Correct Example
+http://sscce.org/
+
+Foreman
+The Foreman is a complete lifecycle management tool for physical and virtual servers.
+http://theforeman.org/
+GitHub repo: https://github.com/theforeman
+Includes repot of website, and API in Ruby
+
+
+Curso Android (ESP)
+http://www.androidcurso.com
