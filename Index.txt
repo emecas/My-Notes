@@ -88,3 +88,9 @@ CodePlexProject Hosting for Open Source Software
 http://www.codeplex.com/
 emecas
 
+
+Cucumber
+http://cukes.info/
+Cucumber is a tool that executes plain-text functional descriptions as automated tests. The language that Cucumber understands is called Gherkin. Here is an example:
+https://github.com/cucumber/cucumber/wiki
+
