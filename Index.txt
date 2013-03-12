@@ -32,3 +32,11 @@ Includes repot of website, and API in Ruby
 
 Curso Android (ESP)
 http://www.androidcurso.com
+
+
+
+What have you tried?
+http://mattgemmell.com/2008/12/08/what-have-you-tried/
+http://whathaveyoutried.com 
+
+
