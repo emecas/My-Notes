@@ -40,3 +40,20 @@ http://mattgemmell.com/2008/12/08/what-have-you-tried/
 http://whathaveyoutried.com 
 
 
+
+
+ Java Code Coverage for Eclipse 
+http://www.eclemma.org/
+
+ EclEmma is a free Java code coverage tool for Eclipse, available under the Eclipse Public License. It brings code coverage analysis directly into the Eclipse workbench:
+
+    Fast develop/test cycle: Launches from within the workbench like JUnit test runs can directly be analyzed for code coverage.
+    Rich coverage analysis: Coverage results are immediately summarized and highlighted in the Java source code editors.
+    Non-invasive: EclEmma does not require modifying your projects or performing any other setup.
+
+http://stackoverflow.com/questions/15356878/eclipse-tool-that-shows-which-lines-of-code-were-hit-throughout-an-execution
+
+http://en.wikipedia.org/wiki/Code_coverage
+
+
+
