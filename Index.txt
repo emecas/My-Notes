@@ -63,3 +63,28 @@ FasterXML
 http://stackoverflow.com/tags/fasterxml/info
 http://stackoverflow.com/questions/15357514/failed-to-parse-list-of-elements-with-attributes
 
+
+
+Stack Overflow reputation display
+[Firefox status bar showing reputation score and badge counts] This add-on allows you to keep track of your reputation scores and badge count on Stack Overflow and many other related sites. Once the extension has established the details of your user accounts, your current score will be displayed in the statusbar and updated periodically. Optional sound effects will notify you of any changes. 
+http://www.twistedlip.org/extensions/sorepdisplay/
+
+
+Joda Time - Java date and time API
+Joda-Time provides a quality replacement for the Java date and time classes. The design allows for multiple calendar systems, while still providing a simple API. The 'default' calendar is the ISO8601 standard which is used by XML. The Gregorian, Julian, Buddhist, Coptic, Ethiopic and Islamic systems are also included, and we welcome further additions. Supporting classes include time zone, duration, format and parsing. 
+http://joda-time.sourceforge.net/
+
+
+
+YouTrack Stand-Alone
+YouTrack stand-alone is a web application ready to be installed on your own server. You get full control over your YouTrack server, including upgrades and maintenance.
+http://www.jetbrains.com/youtrack/download/get_youtrack.html
+Start with a free 10-user pack 
+
+
+
+
+CodePlexProject Hosting for Open Source Software
+http://www.codeplex.com/
+emecas
+
