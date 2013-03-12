@@ -56,4 +56,10 @@ http://stackoverflow.com/questions/15356878/eclipse-tool-that-shows-which-lines-
 http://en.wikipedia.org/wiki/Code_coverage
 
 
+Look for FasterXML y Jackson
+Jackson
+http://stackoverflow.com/tags/jackson/info
+FasterXML
+http://stackoverflow.com/tags/fasterxml/info
+http://stackoverflow.com/questions/15357514/failed-to-parse-list-of-elements-with-attributes
 
