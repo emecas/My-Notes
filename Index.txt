@@ -119,6 +119,7 @@ KDE Necessitas project
 http://necessitas.kde.org/
 Necessitas is a KDE community project aimed to provide an easy way to develop Qt apps on Android platform. 
 
+
 Chocolat
 http://www.chocolatapp.com/
 A tasty new text editor for Mac.
@@ -133,6 +134,6 @@ CURSOS CARTOGRAFIA
 http://www.dmsgroup.es/services.php
 http://shop.dmsgroup.es/
 
-CULTURELAB
+CURSOS MOVIL - CULTURELAB
 Profesionales en el sector de las Aplicaciones Móviles
 http://culture-lab.es/
