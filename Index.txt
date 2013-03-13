@@ -94,3 +94,18 @@ http://cukes.info/
 Cucumber is a tool that executes plain-text functional descriptions as automated tests. The language that Cucumber understands is called Gherkin. Here is an example:
 https://github.com/cucumber/cucumber/wiki
 
+
+
+firebug says "debugger not activated" even when script panel is activated...
+FIREBUG - FIREFOX PROBLEM
+
+https://groups.google.com/forum/?fromgroups=#!topic/firebug/HW1uNT-VwSQ
+Quick and easy fix that worked for me:
+
+* Go to configuration (with about:config in location bar. details
+here: http://kb.mozillazine.org/About:config).
+* Search for "FINDDEBUGGER".
+* Double-click the entry to change "value" to "true"
+* Close the window / tab and reload your page.  Debugger should
+appear. 
+
