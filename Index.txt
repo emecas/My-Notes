@@ -118,3 +118,8 @@ What is ANTLR?
 KDE Necessitas project
 http://necessitas.kde.org/
 Necessitas is a KDE community project aimed to provide an easy way to develop Qt apps on Android platform. 
+
+Chocolat
+http://www.chocolatapp.com/
+A tasty new text editor for Mac.
+Chocolat is a new text editor for Mac OS X, that combines native Cocoa with powerful text editing tools.
