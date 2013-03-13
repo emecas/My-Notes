@@ -123,3 +123,8 @@ Chocolat
 http://www.chocolatapp.com/
 A tasty new text editor for Mac.
 Chocolat is a new text editor for Mac OS X, that combines native Cocoa with powerful text editing tools.
+
+
+OpenRefine
+A free, open source, power tool for working with messy data
+http://openrefine.org/
