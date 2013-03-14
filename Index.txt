@@ -137,3 +137,12 @@ http://shop.dmsgroup.es/
 CURSOS MOVIL - CULTURELAB
 Profesionales en el sector de las Aplicaciones Móviles
 http://culture-lab.es/
+
+
+
+
+Clusterfck
+
+JavaScript agglomerative hierarchical clustering
+clusterfck is a JavaScript library for hierarchical clustering. Clustering is used to group similar items together. Hierarchical clustering in particular is used when a hierarchy of items is needed or when the number of clusters isn't known ahead of time. An example use, clustering similar colors based on their rgb values: 
+http://harthur.github.com/clusterfck/
