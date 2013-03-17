@@ -161,3 +161,16 @@ MongoDB
 MongoDB Installation on Mac OS X as Service
 http://www.joyceleong.com/log/mongodb-installation-on-mac-os-x/
 
+
+Homebrew
+Homebrew installs the stuff you need that Apple didn’t.
+http://mxcl.github.com/homebrew/
+Instalation
+
+
+Neo4j
+Neo4j is an open-source, high-performance, enterprise-grade NOSQL graph database.
+http://www.neo4j.org/
+http://www.neo4j.org/install
+
+
