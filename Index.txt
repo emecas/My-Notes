@@ -180,3 +180,9 @@ DokuWiki is a simple to use and highly versatile Open Source wiki software that 
 https://www.dokuwiki.org/dokuwiki
 
 
+Scratch
+http://scratch.mit.edu
+Scratch is a programming language that makes it easy to create your own interactive stories, animations, games, music, and art -- and share your creations on the web.
+As young people create and share Scratch projects, they learn important mathematical and computational ideas, while also learning to think creatively, reason systematically, and work collaboratively.
+
+
