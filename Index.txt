@@ -190,4 +190,18 @@ The next generation of lightweight collaborative online editing.
 http://plnkr.co
 https://github.com/filearts/plunker
 
+JAVA + DLLs sample (ActiveXComponent)
+Using iMacros with JAVA via JACOB (64bit support)
+http://forum.iopus.com/viewtopic.php?f=6&t=10899
+http://stackoverflow.com/questions/14530840/java-and-imacros
+
+
+Sublime Text
+Sublime Text is a sophisticated text editor for code, markup and prose.
+You'll love the slick user interface, extraordinary features and amazing performance.
+http://www.sublimetext.com/
+http://stackoverflow.com/questions/692885/cross-platform-c-ides
+
+
+
 
