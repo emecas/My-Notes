@@ -211,6 +211,23 @@ Dia 3
 
 
 
+inSSIDer: buscando el mejor canal WiFi para maximizar la velocidad inalámbrica
+http://bandaancha.eu/articulos/inssider-buscando-mejor-canal-wifi-7370
+
+
+
+
+
+Xuggler
+http://www.xuggle.com/xuggler
+
+Xuggler is the easy way to uncompress, modify, and re-compress any media file (or stream) from Java. See licensing for licensing information.
+
+http://stackoverflow.com/questions/15609963/how-to-get-each-and-every-frame-of-a-video-using-java
+
+
+
+
 
 
 
