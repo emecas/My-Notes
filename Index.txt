@@ -226,7 +226,30 @@ Xuggler is the easy way to uncompress, modify, and re-compress any media file (o
 http://stackoverflow.com/questions/15609963/how-to-get-each-and-every-frame-of-a-video-using-java
 
 
+Android Airplane mode activate
+How to Enable/Disable flight mode in android?
+http://dustinbreese.blogspot.com.es/2009/04/andoid-controlling-airplane-mode.html
+http://stackoverflow.com/questions/9587210/how-to-enable-disable-flight-mode-in-android
 
+
+
+Tasker 
+Total Automation for Android
+http://tasker.dinglisch.net/history.html
+http://androidforums.com/android-applications/396726-automatically-activate-portable-wi-fi-hotspot-when-charging-android-2-3-a.html
+
+
+MigLayout
+MigLayout - Java Layout Manager for Swing, SWT and JavaFX 2!
+"MiG Layout makes complex layouts easy and normal layouts zero-liners."
+http://www.miglayout.com/
+MAVEN
+http://mvnrepository.com/artifact/com.miglayout
+http://mvnrepository.com/artifact/com.miglayout/miglayout-swing/4.2
+
+TodoMVC http://todomvc.com
+Helping you select an MV* framework
+http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/
 
 
 
