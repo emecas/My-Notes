@@ -270,5 +270,15 @@ reports innovation and catalogues projects, tools and platforms at the intersect
 http://www.creativeapplications.net/
 
 
+HtmlUnit
+HtmlUnit is a "GUI-Less browser for Java programs". It models HTML documents and provides an API that allows you to invoke pages, fill out forms, click links, etc... just like you do in your "normal" browser. 
+It has fairly good JavaScript support (which is constantly improving) and is able to work even with quite complex AJAX libraries, simulating either Firefox or Internet Explorer depending on the configuration you want to use.
+http://htmlunit.sourceforge.net/
+
+
+
+Selenium
+Selenium automates browsers. That's it. What you do with that power is entirely up to you. Primarily it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
+http://docs.seleniumhq.org/
 
 
