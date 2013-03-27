@@ -252,6 +252,23 @@ Helping you select an MV* framework
 http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/
 
 
+httpfox
+An HTTP analyzer addon for Firefox 
+http://code.google.com/p/httpfox/
+
+KODING (before https://kodingen.com/)
+https://koding.com/
+A new way for developers to work
+
+
+openFrameworks
+www.openframeworks.cc
+openFrameworks is an open source C++ toolkit designed to assist the creative process by providing a simple and intuitive framework for experimentation. The toolkit is designed to work as a general purpose glue, and wraps together several commonly used libraries, including:
+
+CreativeApplications.Net 
+reports innovation and catalogues projects, tools and platforms at the intersection of art, media and technology.
+http://www.creativeapplications.net/
+
 
 
 
