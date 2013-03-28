@@ -282,3 +282,36 @@ Selenium automates browsers. That's it. What you do with that power is entirely 
 http://docs.seleniumhq.org/
 
 
+code4reference
+http://code4reference.com/
+A List of How to do:
+This page contains the list of “how to do” stuff.
+
+    Android
+    Blog
+    C
+    commond
+    git
+    gradle
+    How to do
+    java
+    news
+    Python
+    shell
+    source code
+    sql
+    Tutorial
+    Uncategorized
+    webapp
+
+sample: http://code4reference.com/2012/07/tutorial-on-android-alarmmanager/
+
+
+
+Jenkins CI
+Welcome to Jenkins CI, formerly known as "Hudson Labs", a community-driven site for and by the Jenkins CI community.
+There's more to be said about Jenkins CI, and this site which we'll get to soon!
+An extendable open source continuous integration server
+http://jenkins-ci.org/
+
+
