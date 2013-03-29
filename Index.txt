@@ -315,3 +315,10 @@ An extendable open source continuous integration server
 http://jenkins-ci.org/
 
 
+SQLFiddle.com
+A tool for easy online testing and sharing of database problems and their solutions. 
+http://www.sqlfiddle.com
+from: 
+http://stackoverflow.com/questions/15680774/select-data-from-different-columns-and-two-tables   http://stackoverflow.com/a/15680849/833336 http://www.sqlfiddle.com/#!2/27b6d/1
+
+
