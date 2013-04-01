@@ -322,3 +322,7 @@ from:
 http://stackoverflow.com/questions/15680774/select-data-from-different-columns-and-two-tables   http://stackoverflow.com/a/15680849/833336 http://www.sqlfiddle.com/#!2/27b6d/1
 
 
+MongoDB Vs SQL
+SQL to Aggregation Framework Mapping Chart
+http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
+
