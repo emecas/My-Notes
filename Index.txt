@@ -326,3 +326,8 @@ MongoDB Vs SQL
 SQL to Aggregation Framework Mapping Chart
 http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
 
+
+XStream
+XStream is a simple library to serialize objects to XML and back again.
+http://xstream.codehaus.org/index.html
+
