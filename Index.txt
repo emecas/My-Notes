@@ -327,7 +327,14 @@ SQL to Aggregation Framework Mapping Chart
 http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
 
 
+<<<<<<< HEAD
 XStream
 XStream is a simple library to serialize objects to XML and back again.
 http://xstream.codehaus.org/index.html
+=======
+Optimizing MongoDB Compound Indexes
+http://emptysquare.net/blog/optimizing-mongodb-compound-indexes/
+author
+http://emptysquare.net/blog/about/
+>>>>>>> Optimizing MongoDB Compound Indexes
 
