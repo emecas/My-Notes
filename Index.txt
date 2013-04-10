@@ -190,6 +190,10 @@ The next generation of lightweight collaborative online editing.
 http://plnkr.co
 https://github.com/filearts/plunker
 
+JSFiddle
+http://jsfiddle.net/
+JSFiddle is a non-profit educational platform, maintained by a team of two (Piotr and Oskar), who also work full-time.
+
 
 
 My new external Mac drive is read-only. How can I fix it?
