@@ -333,3 +333,11 @@ author
 http://emptysquare.net/blog/about/
 
 
+JXDatePicker 
+A component that combines a button, an editable field and a JXMonthView component. The user can select a date from the calendar component, which appears when the button is pressed. The selection from the calendar component will be displayed in editable field. Values may also be modified manually by entering a date into the editable field using one of the supported date formats.
+DOC: http://www.jdocs.com/swingx/1.0/org/jdesktop/swingx/JXDatePicker.html
+
+Knapsack problem
+http://en.wikipedia.org/wiki/Knapsack_problem
+http://es.wikipedia.org/wiki/Problema_de_la_mochila
+
