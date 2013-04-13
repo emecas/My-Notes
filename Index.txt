@@ -352,3 +352,7 @@ iTextSharp is a C# port of iText, and open source Java library for PDF generatio
 
 Several iText engineers are actively supporting the project on the iText mailing-list itext-questions@lists.sourceforge.net and on StackOverflow: http://stackoverflow.com/questions/tagged/itextsharp
 
+
+FOG Project
+http://www.fogproject.org/
+FOG is a Linux-based, free and open source computer imaging solution for Windows XP, Vista and 7 that ties together a few open-source tools with a php-based web interface. FOG doesn't use any boot disks, or CDs; everything is done via TFTP and PXE. Also with fog many drivers are built into the kernel, so you don't really need to worry about drivers (unless there isn't a linux kernel driver for it). FOG also supports putting an image that came from a computer with a 80GB partition onto a machine with a 40GB hard drive as long as the data is less than 40GB.
