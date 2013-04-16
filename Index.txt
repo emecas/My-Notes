@@ -331,3 +331,12 @@ XStream
 XStream is a simple library to serialize objects to XML and back again.
 http://xstream.codehaus.org/index.html
 
+
+http://www.change.org
+La plataforma de peticiones 
+REF:
+Petición dirigida a: Ministerio de Economía y Competitividad
+Ministerio de Economía y Competitividad: Trato igualitario a Ingenierías en Informática en la futura LSP
+http://www.change.org/es/peticiones/ministerio-de-econom%C3%ADa-y-competitividad-trato-igualitario-a-ingenier%C3%ADas-en-inform%C3%A1tica-en-la-futura-lsp?utm_campaign=share_button_mobile&utm_medium=facebook&utm_source=share_petition
+
+
