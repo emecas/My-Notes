@@ -190,6 +190,10 @@ The next generation of lightweight collaborative online editing.
 http://plnkr.co
 https://github.com/filearts/plunker
 
+JSFiddle
+http://jsfiddle.net/
+JSFiddle is a non-profit educational platform, maintained by a team of two (Piotr and Oskar), who also work full-time.
+
 
 
 My new external Mac drive is read-only. How can I fix it?
@@ -327,9 +331,36 @@ SQL to Aggregation Framework Mapping Chart
 http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/
 
 
-XStream
-XStream is a simple library to serialize objects to XML and back again.
-http://xstream.codehaus.org/index.html
+Optimizing MongoDB Compound Indexes
+http://emptysquare.net/blog/optimizing-mongodb-compound-indexes/
+author
+http://emptysquare.net/blog/about/
+
+
+JXDatePicker 
+A component that combines a button, an editable field and a JXMonthView component. The user can select a date from the calendar component, which appears when the button is pressed. The selection from the calendar component will be displayed in editable field. Values may also be modified manually by entering a date into the editable field using one of the supported date formats.
+DOC: http://www.jdocs.com/swingx/1.0/org/jdesktop/swingx/JXDatePicker.html
+
+Knapsack problem
+http://en.wikipedia.org/wiki/Knapsack_problem
+http://es.wikipedia.org/wiki/Problema_de_la_mochila
+
+
+itextSharp
+http://sourceforge.net/projects/itextsharp/
+iTextSharp is a C# port of iText, and open source Java library for PDF generation and manipulation. It can be used to create PDF documents from scratch, to convert XML to PDF (using the extra XFA Worker DLL), to fill out interactive PDF forms, to stamp new content on existing PDF documents, to split and merge existing PDF documents, and much more.
+
+Several iText engineers are actively supporting the project on the iText mailing-list itext-questions@lists.sourceforge.net and on StackOverflow: http://stackoverflow.com/questions/tagged/itextsharp
+
+
+FOG Project
+http://www.fogproject.org/
+FOG is a Linux-based, free and open source computer imaging solution for Windows XP, Vista and 7 that ties together a few open-source tools with a php-based web interface. FOG doesn't use any boot disks, or CDs; everything is done via TFTP and PXE. Also with fog many drivers are built into the kernel, so you don't really need to worry about drivers (unless there isn't a linux kernel driver for it). FOG also supports putting an image that came from a computer with a 80GB partition onto a machine with a 40GB hard drive as long as the data is less than 40GB.
+
+
+operator precedence - 
+"please excuse my dear aunt sallie" = (), **, *, /, +,-
+http://www.codeskulptor.org/#examples-arithmetic_expressions.py
 
 
 http://www.change.org
