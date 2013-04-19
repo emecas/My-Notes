@@ -363,6 +363,7 @@ operator precedence -
 http://www.codeskulptor.org/#examples-arithmetic_expressions.py
 
 
+<<<<<<< HEAD
 http://www.change.org
 La plataforma de peticiones 
 REF:
@@ -370,4 +371,9 @@ Petición dirigida a: Ministerio de Economía y Competitividad
 Ministerio de Economía y Competitividad: Trato igualitario a Ingenierías en Informática en la futura LSP
 http://www.change.org/es/peticiones/ministerio-de-econom%C3%ADa-y-competitividad-trato-igualitario-a-ingenier%C3%ADas-en-inform%C3%A1tica-en-la-futura-lsp?utm_campaign=share_button_mobile&utm_medium=facebook&utm_source=share_petition
 
+=======
+Proyecto Clone Wars
+http://www.reprap.org/wiki/Proyecto_Clone_Wars
+Clone Wars es un grupo dentro de la comunidad RepRap, que trata de documentar en español todo lo necesario para que puedas construir tu propia impresora 3D. Además recopilamos información como ubicación de comercios locales, miembros del grupo que tienen una impresora cerca de tí..., datos en general que te pueden ayudar con tu proyecto. 
+>>>>>>> Proyecto Clone Wars
 
