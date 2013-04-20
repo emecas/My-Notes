@@ -377,3 +377,12 @@ http://www.reprap.org/wiki/Proyecto_Clone_Wars
 Clone Wars es un grupo dentro de la comunidad RepRap, que trata de documentar en español todo lo necesario para que puedas construir tu propia impresora 3D. Además recopilamos información como ubicación de comercios locales, miembros del grupo que tienen una impresora cerca de tí..., datos en general que te pueden ayudar con tu proyecto. 
 >>>>>>> Proyecto Clone Wars
 
+
+opencore multimédia framework
+OpenCORE is the multimedia framework of Android 
+originally contributed by PacketVideo.  It provides 
+an extensible framework for multimedia rendering and 
+authoring and video telephony (3G-324M).
+
+https://android.googlesource.com/platform/external/opencore.git
+https://github.com/android/platform_external_opencore
