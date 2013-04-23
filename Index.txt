@@ -386,3 +386,22 @@ authoring and video telephony (3G-324M).
 
 https://android.googlesource.com/platform/external/opencore.git
 https://github.com/android/platform_external_opencore
+
+
+
+SkySQL
+http://www.skysql.com/
+SkySQL is the trusted provider of open source database solutions for MySQL and MariaDB users – in the enterprise and cloud, providing over 350 enterprise customers including Canal+, ClubMed, Constant Contact, Deutsche Telekom, La Poste, Virgin Mobile, Western Digital, Harvard University and XING with database deployment and management solutions.
+
+
+MariaDB
+https://mariadb.org/
+MariaDB is a drop-in replacement for MySQL.
+MariaDB strives to be the logical choice for database professionals looking for a robust, scalable, and reliable SQL server. To accomplish this, Monty Program works to hire the best and brightest developers in the industry, work closely and cooperatively with the larger community of users and developers in the true spirit of Free and open source software, and release software in a manner that balances predictability with reliability. 
+
+
+Ref: SkySQL Merges With MariaDB Creator Monty Program To Solidify Its Open Source Database Position
+http://techcrunch.com/2013/04/23/skysql-merges-with-mariadb-to-solidify-its-open-source-database-position/
+
+
+
