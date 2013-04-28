@@ -417,3 +417,7 @@ Your Ultimate Guide to the
 Non - Relational Universe!
 
 
+
+Python - Intermezzo: Coding Style
+http://docs.python.org/release/2.6.8/tutorial/controlflow.html#intermezzo-coding-style
+
