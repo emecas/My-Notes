@@ -411,6 +411,7 @@ http://hadoop.apache.org/
 The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-avaiability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-availabile service on top of a cluster of computers, each of which may be prone to failures. 
 
 
+
 NoSQL Index
 http://nosql-database.org/
 Your Ultimate Guide to the
@@ -433,4 +434,11 @@ local and remote Windows systems.
 http://www.dimensionit.tv/powershell-quick-reference/
 
 
+
+
+Vertica Database
+http://www.vertica.com/
+Vertica Systems is an analytic database management software company.Vertica was founded in 2005 by database researcher Michael Stonebraker, and Andrew Palmer. Former CEOs include Ralph Breslauer and Christopher P. Lynch.
+
+Vertica was acquired by Hewlett Packard on March 22, 2011. The acquisition expands the Enterprise software division of HP – HP Software’s information optimization, business intelligence and analytics portfolio for enterprise companies and the public sector.
 
