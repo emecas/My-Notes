@@ -442,3 +442,20 @@ Vertica Systems is an analytic database management software company.Vertica was 
 
 Vertica was acquired by Hewlett Packard on March 22, 2011. The acquisition expands the Enterprise software division of HP – HP Software’s information optimization, business intelligence and analytics portfolio for enterprise companies and the public sector.
 
+
+
+Digital Units of Measure
+http://simple.be/tech/reference/bit
+yottabyte = 1 yottabyte
+          = 1024 zettabytes
+          = 1048576 exabytes
+          = 1073741824 petabytes
+          = 1099511627776 terabytes
+          = 1125899906842624 gigabytes
+          = 1152921504606846976 megabytes
+          = 9223372036854775808 Megabits
+          = 1180591620717411303424 kilobytes
+          = 9444732965739290427392 Kilobits
+          = 1208925819614629174706176 bytes
+          = 2417851639229258349412352 nibbles
+          = 9671406556917033397649408 bits
