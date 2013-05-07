@@ -1,4 +1,4 @@
-mongodb
+﻿mongodb
 cayenne
 
 
@@ -420,4 +420,17 @@ Non - Relational Universe!
 
 Python - Intermezzo: Coding Style
 http://docs.python.org/release/2.6.8/tutorial/controlflow.html#intermezzo-coding-style
+
+
+
+PowerShell Quick Reference
+
+Windows PowerShell is Microsoft's task automation framework, consisting of a command-line shell and
+ associated scripting language built on .NET Framework. 
+PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both 
+local and remote Windows systems.
+
+http://www.dimensionit.tv/powershell-quick-reference/
+
+
 
