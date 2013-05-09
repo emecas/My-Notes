@@ -459,3 +459,14 @@ yottabyte = 1 yottabyte
           = 1208925819614629174706176 bytes
           = 2417851639229258349412352 nibbles
           = 9671406556917033397649408 bits
+
+
+LibreSoft - We study libre software, too
+http://libresoft.es/
+Libresoft is a research group based at University Rey Juan Carlos (Madrid). We investigate libre software and open collaboration in different areas such as software engineering, mobile technologies, virtual communities and e-learning.
+
+
+PlanetUbuntu
+http://planetubuntu.es/
+La idea principal de PlanetUbuntu.es es crear una página web en la que pueda disponerse de forma rápida y eficaz de toda la actualidad en español sobre el mundo de Ubuntu, puedes ver la definición de planeta en la wikipedia. 
+
