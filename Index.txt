@@ -470,3 +470,22 @@ PlanetUbuntu
 http://planetubuntu.es/
 La idea principal de PlanetUbuntu.es es crear una página web en la que pueda disponerse de forma rápida y eficaz de toda la actualidad en español sobre el mundo de Ubuntu, puedes ver la definición de planeta en la wikipedia. 
 
+
+
+http://www.pawfal.org/
+
+mi
+Music Intellegence is a collection of plugins for SSM that use artificial life to create patterns for generating innovative music.
+Built with 0.1.0b2 version of SSM. 
+http://www.pawfal.org/Software/mi/
+
+Spiral Synth 2
+Note: SpiralSynth isn't being supported any more due to lack of time, and the existance of SpiralSynth Modular. Which is much better featured and developed.
+http://www.pawfal.org/Software/SpiralSynth/
+
+dave's blog of art and programming
+games, magic, livecoding, free software
+
+http://www.pawfal.org/dave/blog/about/
+
+
