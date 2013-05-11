@@ -486,6 +486,11 @@ http://www.pawfal.org/Software/SpiralSynth/
 dave's blog of art and programming
 games, magic, livecoding, free software
 
+
+
+A Windows Phone 8 Run Tracking App in 100 Lines of Code!
+http://www.developer.nokia.com/Community/Wiki/A_Windows_Phone_8_Run_Tracking_App_in_100_Lines_of_Code!
+
 http://www.pawfal.org/dave/blog/about/
 
 
