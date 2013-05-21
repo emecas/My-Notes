@@ -1,4 +1,4 @@
-mongodb
+﻿mongodb
 cayenne
 
 
@@ -507,6 +507,20 @@ Welcome to high quality USA based Free VPN!
 Feel free to use the US PPTP VPN in Windows, OSX, iPhone, iPad, Android Phones, Tablets & Routers!
 PPTP Server: getusvpn.com
 PPTP Username: free
+
+
+
+Infobright Community Edition (ICE)
+The Open-Source Database for Ad hoc Analytics
+http://www.infobright.org/
+Forums
+http://www.infobright.org/Forums
+
+A Interesting Entry:
+Hadoop & Distributed Load Processor (DLP)
+http://www.infobright.org/Forums/viewthread/3298/
+
+
 
 
 
