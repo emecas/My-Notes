@@ -522,5 +522,19 @@ http://www.infobright.org/Forums/viewthread/3298/
 
 
 
+Python Remove from List
+Never Remove anything from a List that you are iterating on instead mark it and remove later
 
+# define event handler for mouse click, draw
+def click(pos):
+    remove = []
+    for ball in ball_list:
+        if distance(ball, pos) < ball_radius:
+            remove.append(ball)
+
+    if remove == []:
+        ball_list.append(pos)
+    else:
+        for ball in remove:
+            ball_list.pop(ball_list.index(ball))
 
