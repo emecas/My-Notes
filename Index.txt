@@ -510,6 +510,7 @@ PPTP Username: free
 
 
 
+
 Infobright Community Edition (ICE)
 The Open-Source Database for Ad hoc Analytics
 http://www.infobright.org/
@@ -538,3 +539,8 @@ def click(pos):
         for ball in remove:
             ball_list.pop(ball_list.index(ball))
 
+
+
+Scholarpedia
+Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world. Scholarpedia is inspired by Wikipedia and aims to complement it by providing in-depth scholarly treatments of academic topics. 
+http://www.scholarpedia.org
