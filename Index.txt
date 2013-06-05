@@ -561,3 +561,15 @@ https://www.pivotaltracker.com/
 
 Correlation database
 http://en.wikipedia.org/wiki/Correlation_database
+
+
+
+Tropos
+http://www.troposproject.org/
+Tropos is a software development methodology, where concepts of the agent paradigm are used along the whole software development process. Notions of agent, goal, task and (social) dependency are used to model and analyze early and late software requirements, architectural and detailed design, and (possibly) to implement the final system. In this web site, you can find details of ongoing research, developed tools, industrial projects and Tropos related events. Tropos is derived from the Greek τροποσ, which means "way of doing things"; also τροπή, which means "turn" or "change".
+
+
+gource 
+software version control visualization
+http://code.google.com/p/gource/
+Ref from : https://github.com/shussekaido/gourcelog
