@@ -573,3 +573,23 @@ gource
 software version control visualization
 http://code.google.com/p/gource/
 Ref from : https://github.com/shussekaido/gourcelog
+
+
+Apache Pig Philosophy
+http://pig.apache.org/philosophy.html
+
+What does it mean to be a pig?
+The Apache Pig Project has some founding principles that help pig developers decide how the system should grow over time. This page presents those principles. 
+
+Pigs Eat Anything
+Pig can operate on data whether it has metadata or not. It can operate on data that is relational, nested, or unstructured. And it can easily be extended to operate on data beyond files, including key/value stores, databases, etc. 
+
+Pigs Live Anywhere
+Pig is intended to be a language for parallel data processing. It is not tied to one particular parallel framework. It has been implemented first on Hadoop, but we do not intend that to be only on Hadoop. 
+
+Pigs Are Domestic Animals
+Pig is designed to be easily controlled and modified by its users. 
+
+Pig allows integration of user code where ever possible, so it currently supports user defined field transformation functions, user defined aggregates, and user defined conditionals. These functions can be written in Java or scripting languages that can compile down to Java (e.g. Jython). Pig supports user provided load and store functions. It supports external executables via its stream command and Map Reduce jars via its mapreduce command. It allows users to provide a custom partitioner for their jobs in some circumstances and to set the level of reduce parallelism for their jobs. command. It allows users to set the level of reduce parallelism for their jobs and in some circumstances to provide a custom partitioner. 
+
+Pig has an optimizer that rearranges some operations in Pig Latin scripts to give better performance, combines Map Reduce jobs together, etc. However, users can easily turn this optimizer off to prevent it from making changes that do not make sense in their situation.
