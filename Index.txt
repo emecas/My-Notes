@@ -654,3 +654,9 @@ def keydown(key):
     for i in inputs:
         if key == simplegui.KEY_MAP[i]:
             paddle_vel[inputs[i][0]] += inputs[i][1]
+
+
+
+Backing Up Subversion Automatically
+http://blog.markshead.com/101/backing-up-subversion-automatically/
+http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/
