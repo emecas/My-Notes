@@ -686,3 +686,12 @@ LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size
 Processing & Open Data
 http://freeartbureau.org/fab_activity/processing-open-data/
 This tutorial is the result of work done during the Processing Workshop which took place in Rennes 4th and 5th November 2011. The original French version is available here. This English version is an adaptation of Julien’s tutorial using data from the Barclays Cycle Hire docking station.
+
+
+Launchpad
+The Ableton Live Controller
+http://global.novationmusic.com/midi-controllers-digital-dj/launchpad
+
+Launchpad S
+The number one Live controller
+http://global.novationmusic.com/midi-controllers-digital-dj/launchpad-s
