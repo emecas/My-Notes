@@ -512,9 +512,12 @@ PPTP Username: free
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
+=======
+>>>>>>> 6d8e47bb5d357d356e6243d001907691e7413b8e
 Infobright Community Edition (ICE)
 The Open-Source Database for Ad hoc Analytics
 http://www.infobright.org/
@@ -663,5 +666,9 @@ def keydown(key):
 
 Backing Up Subversion Automatically
 http://blog.markshead.com/101/backing-up-subversion-automatically/
+<<<<<<< HEAD
+http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/
+>>>>>>> 6d8e47bb5d357d356e6243d001907691e7413b8e
+=======
 http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/
 >>>>>>> 6d8e47bb5d357d356e6243d001907691e7413b8e
