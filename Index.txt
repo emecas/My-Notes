@@ -675,3 +675,9 @@ http://blog.nextgenetics.net/
 Ref:
 Method: Data visualization with D3.js and python - part 1
 introduction to D3.js with a simple bar chart
+
+
+
+Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3
+http://almossawi.com/firefox/
+LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size  - Defect density  - Resident memory  - Speed
