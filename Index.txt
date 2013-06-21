@@ -511,6 +511,13 @@ PPTP Username: free
 
 
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+=======
+=======
+>>>>>>> 6d8e47bb5d357d356e6243d001907691e7413b8e
 Infobright Community Edition (ICE)
 The Open-Source Database for Ad hoc Analytics
 http://www.infobright.org/
@@ -661,3 +668,73 @@ Backing Up Subversion Automatically
 http://blog.markshead.com/101/backing-up-subversion-automatically/
 http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/
 
+<<<<<<< HEAD
+=======
+
+
+Blog
+http://blog.nextgenetics.net/
+Ref:
+Method: Data visualization with D3.js and python - part 1
+introduction to D3.js with a simple bar chart
+
+
+
+Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3
+http://almossawi.com/firefox/
+LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size  - Defect density  - Resident memory  - Speed
+
+
+Processing & Open Data
+http://freeartbureau.org/fab_activity/processing-open-data/
+This tutorial is the result of work done during the Processing Workshop which took place in Rennes 4th and 5th November 2011. The original French version is available here. This English version is an adaptation of Julien’s tutorial using data from the Barclays Cycle Hire docking station.
+
+
+Launchpad
+The Ableton Live Controller
+http://global.novationmusic.com/midi-controllers-digital-dj/launchpad
+
+Launchpad S
+The number one Live controller
+http://global.novationmusic.com/midi-controllers-digital-dj/launchpad-s
+
+
+IGNITE for M-Audio49 
+http://www.m-audio.com/products/en_us/AxiomPro49.html
+http://www.airmusictech.com/product/ignite
+http://www.airmusictech.com/download-ignite
+>>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
+
+
+
+
+
+LDAP on Windows (standalone)
+
+REF: http://stackoverflow.com/questions/2299279/local-ldap-server-for-development-on-windows-7
+
+1)
+Active Directory Lightweight Directory Services (AD LDS) for Windows7 
+http://www.microsoft.com/en-us/download/details.aspx?id=14683
+Active Directory Lightweight Directory Services (AD LDS) provides directory services for directory-enabled application. This download pertains to AD LDS for Windows® 7 operating system. 
+
+2)
+ApacheDS
+http://directory.apache.org/apacheds/
+ApacheDS is an extensible and embeddable directory server entirely written in Java, which has been certified LDAPv3 compatible by the Open Group. Besides LDAP it supports Kerberos 5 and the Change Password Protocol. It has been designed to introduce triggers, stored procedures, queues and views to the world of LDAP which has lacked these rich constructs.
+
+3)
+OpenLDAP
+http://www.openldap.org/
+OpenLDAP Software is an open source implementation of the Lightweight Directory Access Protocol.
+The suite includes:
+
+    slapd - stand-alone LDAP daemon (server)
+    libraries implementing the LDAP protocol, and
+    utilities, tools, and sample clients. 
+
+Also available from the OpenLDAP Project:
+
+    Fortress - Role-based identity access management Java SDK
+    JLDAP - LDAP Class Libraries for Java
+    JDBC-LDAP - Java JDBC - LDAP Bridge Driver 
