@@ -1,4 +1,4 @@
-﻿mongodb
+mongodb
 cayenne
 
 
@@ -669,7 +669,10 @@ http://blog.markshead.com/101/backing-up-subversion-automatically/
 http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
 
 
 Blog
@@ -703,6 +706,7 @@ IGNITE for M-Audio49
 http://www.m-audio.com/products/en_us/AxiomPro49.html
 http://www.airmusictech.com/product/ignite
 http://www.airmusictech.com/download-ignite
+<<<<<<< HEAD
 >>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
 
 
@@ -738,3 +742,5 @@ Also available from the OpenLDAP Project:
     Fortress - Role-based identity access management Java SDK
     JLDAP - LDAP Class Libraries for Java
     JDBC-LDAP - Java JDBC - LDAP Bridge Driver 
+=======
+>>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
