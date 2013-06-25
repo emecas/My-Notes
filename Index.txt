@@ -1,4 +1,4 @@
-mongodb
+﻿mongodb
 cayenne
 
 
@@ -744,3 +744,28 @@ Also available from the OpenLDAP Project:
     JDBC-LDAP - Java JDBC - LDAP Bridge Driver 
 =======
 >>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
+
+
+
+
+TABLEAU PUBLIC HOMEWORK
+
+Link:
+
+http://public.tableausoftware.com/views/VisualizationAssignment_2180/6_CustomDashboardB?:embed=y&:display_count=no
+http://public.tableausoftware.com/views/VisualizationAssignment_2180/6_CustomDashboardB?:embed=y&:display_count=no
+
+Embed the Viz in your website:
+
+<script type="text/javascript" src="http://public.tableausoftware.com/javascripts/api/viz_v1.js"></script><div class="tableauPlaceholder" style="width:1004px; height:869px;"><noscript><a href="#"><img alt="6. Custom DashboardB " src="http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Vi&#47;VisualizationAssignment_2180&#47;6_CustomDashboardB&#47;1_rss.png" style="border: none" /></a></noscript><object class="tableauViz" width="1004" height="869" style="display:none;"><param name="host_url" value="http%3A%2F%2Fpublic.tableausoftware.com%2F" /><param name="site_root" value="" /><param name="name" value="VisualizationAssignment_2180&#47;6_CustomDashboardB" /><param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="static_image" value="http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Vi&#47;VisualizationAssignment_2180&#47;6_CustomDashboardB&#47;1.png" /><param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /></object></div><div style="width:1004px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;"><div style="float:right; padding-right:8px;"><a href="http://www.tableausoftware.com/public/about-tableau-products?ref=http://public.tableausoftware.com/views/VisualizationAssignment_2180/6_CustomDashboardB" target="_blank">Learn About Tableau</a></div></div>
+
+
+
+UDEMY
+Learn real skills from real experts!
+
+Some Free COurses
+TEchnology
+https://www.udemy.com/courses/Technology?price=free
+Music
+https://www.udemy.com/courses/Music?price=free
