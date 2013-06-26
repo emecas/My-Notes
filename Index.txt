@@ -769,3 +769,18 @@ TEchnology
 https://www.udemy.com/courses/Technology?price=free
 Music
 https://www.udemy.com/courses/Music?price=free
+
+
+
+
+Presentacion Antena 3:
+Experiencia real: "REST para móviles en tiempo real: Trabajando al milisegundo"
+Link Evento: https://plus.google.com/u/0/events/c45184gfm6qlq9fai5ah2cf3s44
+VIDEO: https://www.youtube.com/watch?feature=player_embedded&v=gyF0tF7W6bA
+
+
+
+POPCORNJS
+http://popcornjs.org/
+The HTML5 Media Framework
+Popcorn.js is an HTML5 media framework written in JavaScript for filmmakers, web developers, and anyone who wants to create time-based interactive media on the web. Popcorn.js is part of Mozilla's Popcorn project.
