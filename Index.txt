@@ -784,3 +784,12 @@ POPCORNJS
 http://popcornjs.org/
 The HTML5 Media Framework
 Popcorn.js is an HTML5 media framework written in JavaScript for filmmakers, web developers, and anyone who wants to create time-based interactive media on the web. Popcorn.js is part of Mozilla's Popcorn project.
+
+
+
+Openpaths 
+https://openpaths.cc/
+OpenPaths is a private, secure data locker for personal location information.
+
+<blockquote class="twitter-tweet"><p>&quot;Openpaths gives people the experience of data ownership. For the first time people can own their data&quot;. Ugh. Gong time <a href="https://twitter.com/search?q=%23hadoopsummit&amp;src=hash">#hadoopsummit</a></p>&mdash; davi  <a href="https://twitter.com/daviottenheimer/statuses/350296741570031616">June 27, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
