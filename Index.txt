@@ -793,3 +793,24 @@ OpenPaths is a private, secure data locker for personal location information.
 
 <blockquote class="twitter-tweet"><p>&quot;Openpaths gives people the experience of data ownership. For the first time people can own their data&quot;. Ugh. Gong time <a href="https://twitter.com/search?q=%23hadoopsummit&amp;src=hash">#hadoopsummit</a></p>&mdash; davi  <a href="https://twitter.com/daviottenheimer/statuses/350296741570031616">June 27, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+Project Falcon
+Tackling Hadoop Data Lifecycle Management via Community Driven Open Source
+http://hortonworks.com/blog/project-falcon-tackling-hadoop-data-lifecycle-management-via-community-driven-open-source/
+
+Falcon Proposal
+Abstract: Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters. 
+http://wiki.apache.org/incubator/FalconProposal
+
+
+
+
+Gephi
+https://gephi.org/
+The Open Graph Viz Platform
+Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs.
+
+Runs on Windows, Linux and Mac OS X. Gephi is open-source and free.
