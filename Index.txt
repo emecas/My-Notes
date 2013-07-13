@@ -1,4 +1,4 @@
-﻿mongodb
+mongodb
 cayenne
 
 
@@ -814,3 +814,102 @@ The Open Graph Viz Platform
 Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs.
 
 Runs on Windows, Linux and Mac OS X. Gephi is open-source and free.
+
+
+
+
+Meetup API
+
+Java client:
+code.google.com/p/meetup-java-client/
+Python Client
+https://github.com/meetup/python-api-client
+
+
+
+
+Tizen
+
+Intel App Porter Tool
+IOS to HTML5
+
+Event Injector Concept (IDE Option)
+
+Ludei : demo html5 phone 5000 drops (multitasking)
+http://www.ludei.com/
+http://cocoonjsservice.ludei.com/cocoonjslaunchersvr/demo-list/
+
+Stories:
+http://www.linuxadictos.com/tizen-se-despide-samsung-de-android.html
+http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android
+   --> http://openmobile.co/pdf/Data_Sheet_ACL_for_Tizen_8.pdf
+
+To solve memory problem on mac to star emulator!!!:
+sudo sysctl -w kern.sysv.shmall=393216 && sudo sysctl -w kern.sysv.shmmax=1610612736
+
+
+To check Linux compatibility:
+
+
+Generar el Certificado
+
+Admins-MacBook-Pro-2:certificate-generator ecastaneda$ pwd
+/Users/ecastaneda/tizen-sdk/tools/certificate-generator
+Admins-MacBook-Pro-2:certificate-generator ecastaneda$ ./certificate-generator.sh 
+(tizen)
+
+
+
+
+
+CasperJS
+http://casperjs.org
+CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript
+
+CasperJS is an open source navigation scripting & testing utility written in Javascript and based on PhantomJS — the scriptable headless WebKit engine. It eases the process of defining a full navigation scenario and provides useful high-level functions, methods & syntactic sugar for doing common tasks such as:
+
+defining & ordering browsing navigation steps
+filling & submitting forms
+clicking & following links
+capturing screenshots of a page (or part of it)
+testing remote DOM
+logging events
+downloading resources, including binary ones
+writing functional test suites, saving results as JUnit XML
+scraping Web contents
+
+WorkShop CasperJS SpainJS
+@vgaltes
+presentation and examples : http://github.com/vgaltes/spainjs
+Sample: Submiting a Form
+https://github.com/vgaltes/spainjs/blob/master/samples/fillForm.js
+
+
+PhantomJS
+http://phantomjs.org
+Full web stack - No browser required
+PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
