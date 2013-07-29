@@ -1,4 +1,4 @@
-mongodb
+﻿mongodb
 cayenne
 
 
@@ -889,6 +889,51 @@ PhantomJS
 http://phantomjs.org
 Full web stack - No browser required
 PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
+
+
+
+
+
+
+
+
+
+Android Lock Screen 
+
+
+Android Screen Saver Sample Code
+http://stackoverflow.com/questions/5261388/android-screen-saver-sample-code/5261452#5261452
+
+Custom Android Screensaver (or sleep screen)
+http://stackoverflow.com/questions/2134458/custom-android-screensaver-or-sleep-screen
+
+
+Active Lock screen
+https://play.google.com/store/apps/details?id=com.celltick.lockscreen
+author: http://www.celltick.com/active/
+
+
+Customize your Android lock screen
+http://blogs.computerworld.com/17264/android_lock_screen
+
+
+WidgetLocker is a highly customizable lock screen
+http://teslacoilsw.com/widgetlocker/
+https://play.google.com/store/apps/details?id=com.teslacoilsw.widgetlocker&feature=teslacoilsw.com
+
+Android Lock Screen Widget
+http://stackoverflow.com/questions/4116001/android-lock-screen-widget
+
+mylockforandroid
+http://code.google.com/p/mylockforandroid/
+http://mylockandroid.blogspot.com.es/2010/03/widget-lockscreen-beta-11-r2.html
+
+
+
+
+
+
+
 
 
 
