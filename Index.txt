@@ -929,6 +929,18 @@ http://code.google.com/p/mylockforandroid/
 http://mylockandroid.blogspot.com.es/2010/03/widget-lockscreen-beta-11-r2.html
 
 
+HTC Lock Screen API Sample Code
+http://www.htcdev.com/devcenter/opensense-sdk/lock-screen/lock-sample-code/
+
+
+
+
+
+
+
+ 	
+PowerBlue - Multi SIM Bluetooth Adapter & Power Bank
+http://www.simore.ch/en/two_sim_cards_in_one_mobile/dual_sim_card_powerblue.php#11
 
 
 
