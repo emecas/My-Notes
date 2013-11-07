@@ -903,7 +903,9 @@ This tutorial explains how to develop RESTful web services in Java with the JAX-
 In this tutorial Eclipse 4.2 (Juno), Java 1.6, Tomcat 6.0 and JAX-RS 1.1. (Jersey 1.5) is used. 
 
 
-
+Old Thread about Jersey and Cayenne 
+Help with Jersey Rest Services and Cayenne
+http://comments.gmane.org/gmane.comp.java.cayenne.user/13326
 
 
 
