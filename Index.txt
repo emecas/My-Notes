@@ -908,6 +908,27 @@ Help with Jersey Rest Services and Cayenne
 http://comments.gmane.org/gmane.comp.java.cayenne.user/13326
 
 
+How to install webmin on ubuntu 12.04 (Precise) server
+http://www.ubuntugeek.com/how-to-install-webmin-on-ubuntu-12-04-precise-server.html
+
+
+Startup Ranking
+http://www.startupranking.com
+This ranking is updated daily
+
+
+StartupCTO
+http://www.startupcto.com/
+StartupCTO is a collection of 'notes from the trenches' on the technical aspects of building a successful Internet startup: everything from finding good engineers to creating HTML emails. It's a collaborative effort: if you have something to add, please either leave a comment or ask me (David Ordal) for a login (david -at- ordal.com).
+
+
+Setting up a Java Tomcat7 Production Server on Amazon EC2
+http://developer24hours.blogspot.com/2013/01/setting-up-java-tomcat7-production.html
+This tutorial will demonstrate how to build a Tomcat7 server running a Java application on Amazon EC2.
+
+Install Java OpenJDK 7 on Amazon EC2 Ubuntu 
+http://developer24hours.blogspot.ca/2012/12/install-java-openjdk-7-on-amazon-ec2.html
+
 
 
 
