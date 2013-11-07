@@ -1,4 +1,4 @@
-﻿mongodb
+mongodb
 cayenne
 
 
@@ -897,61 +897,10 @@ http://www.cyberciti.biz/tips/recover-mysql-root-password.html
 You can recover MySQL database server password with following five easy steps.
 
 
-
-
-
-Android Lock Screen 
-
-
-Android Screen Saver Sample Code
-http://stackoverflow.com/questions/5261388/android-screen-saver-sample-code/5261452#5261452
-
-Custom Android Screensaver (or sleep screen)
-http://stackoverflow.com/questions/2134458/custom-android-screensaver-or-sleep-screen
-
-
-Active Lock screen
-https://play.google.com/store/apps/details?id=com.celltick.lockscreen
-author: http://www.celltick.com/active/
-
-
-Customize your Android lock screen
-http://blogs.computerworld.com/17264/android_lock_screen
-
-
-WidgetLocker is a highly customizable lock screen
-http://teslacoilsw.com/widgetlocker/
-https://play.google.com/store/apps/details?id=com.teslacoilsw.widgetlocker&feature=teslacoilsw.com
-
-Android Lock Screen Widget
-http://stackoverflow.com/questions/4116001/android-lock-screen-widget
-
-mylockforandroid
-http://code.google.com/p/mylockforandroid/
-http://mylockandroid.blogspot.com.es/2010/03/widget-lockscreen-beta-11-r2.html
-
-
-HTC Lock Screen API Sample Code
-http://www.htcdev.com/devcenter/opensense-sdk/lock-screen/lock-sample-code/
-
-
-
-
-
-
-
- 	
-PowerBlue - Multi SIM Bluetooth Adapter & Power Bank
-http://www.simore.ch/en/two_sim_cards_in_one_mobile/dual_sim_card_powerblue.php#11
-
-
-
-
-
-
-
-
-
+REST with Java (JAX-RS) using Jersey - Tutorial
+http://www.vogella.com/articles/REST/article.html
+This tutorial explains how to develop RESTful web services in Java with the JAX-RS reference implementation Jersey.
+In this tutorial Eclipse 4.2 (Juno), Java 1.6, Tomcat 6.0 and JAX-RS 1.1. (Jersey 1.5) is used. 
 
 
 
