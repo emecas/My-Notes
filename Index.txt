@@ -930,6 +930,12 @@ Install Java OpenJDK 7 on Amazon EC2 Ubuntu
 http://developer24hours.blogspot.ca/2012/12/install-java-openjdk-7-on-amazon-ec2.html
 
 
+Social Media Icons
+http://paulrobertlloyd.com/2009/06/social_media_icons/
+https://github.com/paulrobertlloyd/socialmediaicons
+by Komodo media, I’ve created a selection of different icons each available in four different sizes (48×48, 32×32, 24×24 and 16×16).
+
+
 
 
 
