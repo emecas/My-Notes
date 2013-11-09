@@ -937,6 +937,39 @@ by Komodo media, I’ve created a selection of different icons each available in
 
 
 
+Apache Cayenne Advances Topics at WOWODC2013
+http://www.mail-archive.com/webobjects-dev@lists.apple.com/msg53823.html
+Slides
+http://www.slideshare.net/wocommunity/
+
+	Life outside WO
+	http://www.slideshare.net/wocommunity/1-life-outsidewo	
+	4 months ago,
+	327 views
+
+	Apache Cayenne for WO Devs
+	http://www.slideshare.net/wocommunity/2-apache-cayenneforwebobjectsdevelopers
+	4 months ago,
+	362 views
+ 
+	Apache Cayenne in a Web App
+	http://www.slideshare.net/wocommunity/3-apache-cayenneinwebapp
+	4 months ago,
+	329 views
+ 
+	Advanced Apache Cayenne
+	http://www.slideshare.net/wocommunity/4-advanced-cayenne
+	4 months ago,
+	263 views
+
+
+Code for Cayenne and Tapestry demos presented at WOWODC2013
+https://github.com/andrus/wowodc13
+
+
+RELATED:
+Script to  Download Videos and Slides from WWDC 2013
+http://blog.manbolo.com/2013/06/18/download-videos-and-slides-from-wwdc-2013
 
 
 
