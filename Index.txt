@@ -975,6 +975,38 @@ http://blog.manbolo.com/2013/06/18/download-videos-and-slides-from-wwdc-2013
 
 
 
+Uninstalling/enable or disable Apache APC
+
+How to uninstall APC from a dedicated cpanel server using ssh
+http://stackoverflow.com/questions/8946432/how-to-uninstall-apc-from-a-dedicated-cpanel-server-using-ssh
+
+Linux: enable or disable PHP APC opcode cache for virtual host
+http://www.shkodenko.com/linux-enable-or-disable-php-apc-opcode-cache-for-virtual-host/
+
+Disable or remove apc
+http://stackoverflow.com/questions/11309987/disable-or-remove-apc
+
+
+
+
+
+Testing HTTP performance 
+
+Staying Out of Deep Water: Performance Testing Using HTTPD-Test's Flood Page 3
+http://www.serverwatch.com/tutorials/article.php/10825_2216741_3/Staying-Out-of-Deep-Water-Performance-Testing-Using-HTTPDTests-Flood.htm
+
+
+
+
+MySQL Tuning
+
+2 Linux MySQL Tuning Scripts you must have
+http://crivera.com/developer/2-linux-mysql-tuning-scripts-you-must-have
+
+MySQL Performance Tuning Scripts and Know-How
+http://www.askapache.com/mysql/performance-tuning-mysql.html
+
+
 
 
 
