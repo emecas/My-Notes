@@ -1015,6 +1015,16 @@ Cloud Backup Service -  Includes Mobile APPs
 
 
 
+Grive
+http://www.lbreda.com/grive/start
+The purpose of this project is to provide an independent open source implementation of Google Drive client for GNU/Linux. It uses the Google Document List API to talk to the servers in Google. The code is written in standard C++. 
+
+Related:
+Backup script on Google Drive for Linux
+http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/
+
+
+
 
 
 
