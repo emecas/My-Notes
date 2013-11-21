@@ -1053,6 +1053,24 @@ import javax.xml.bind.annotation.XmlSeeAlso;
 http://fusesource.com/docs/esb/4.2/jaxws/JAXWSDataMappingOverMoreClasses.html
 
 
+Related S.O.answers:
+Is it possible using Jersey/JAX-RS annotations to skip a class member when marshalling to XML/JSON?
+http://stackoverflow.com/questions/13069729/is-it-possible-using-jersey-jax-rs-annotations-to-skip-a-class-member-when-marsh
+
+Jersey on Jetty on Android throws ContainerException: The ResourceConfig instance does not contain any root resource classes
+http://stackoverflow.com/questions/11210734/jersey-on-jetty-on-android-throws-containerexception-the-resourceconfig-instanc
+
+javax.xml.bind.JAXBException: Class *** nor any of its super class is known to this context
+http://stackoverflow.com/questions/14057932/javax-xml-bind-jaxbexception-class-nor-any-of-its-super-class-is-known-to-t
+
+
+
+Ref related: Java XML and JSON Binding
+http://blog.bdoughan.com/
+Blog entry: 
+http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html
+
+
 
 
 
