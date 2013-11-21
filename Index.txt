@@ -1043,6 +1043,16 @@ RebelMouse organizes your online presence into a beautiful, dynamic and social s
 
 
 
+Adding Classes to the Runtime Marshaller
+
+import javax.xml.bind.annotation.XmlSeeAlso;
+@WebService()
+@XmlSeeAlso({Class1.class, 
+                Class2.class,
+
+http://fusesource.com/docs/esb/4.2/jaxws/JAXWSDataMappingOverMoreClasses.html
+
+
 
 
 
