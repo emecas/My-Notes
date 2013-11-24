@@ -1111,6 +1111,15 @@ PLAY link:https://play.google.com/store/apps/details?id=com.lookout.addetector
 
 
 
+Xtend
+http://www.eclipse.org/xtend/index.html 
+Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 5 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
+
+Get productive and write beautiful code with powerful macros, lambdas, operator overloading and many more modern language features.
+
+Android Development
+Xtend works great on Android, as it doesn't produce additional runtime overhead. The very thin lib and the advanced support for code generation are increasing productivity while helping to keep your Android apps small.
+
 
 
 
