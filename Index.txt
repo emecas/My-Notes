@@ -1142,4 +1142,16 @@ http://stackoverflow.com/questions/8982714/is-there-any-examples-of-how-to-imple
 
 
 
+LaTex Transparencies - Slides & Python Material
+A real good sample how to do it
+https://github.com/vterron/PyConES-2013
+
+
+
+Play With Your Music
+http://www.playwithyourmusic.org
+A Mechanical MOOC Production
+The next course starts January 15
+
+
 
