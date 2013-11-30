@@ -1183,3 +1183,12 @@ DataNucleus provide a series of products to cover the whole data access, analysi
 http://www.datanucleus.org/products/index.html
 
 
+
+Template for Jenkins Jobs for PHP Projects
+http://jenkins-php.org/
+Book:Integrating PHP Projects with Jenkins
+Continuous Integration for Robust Building and Testing 
+http://shop.oreilly.com/product/0636920021353.do
+
+
+
