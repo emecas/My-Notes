@@ -1165,3 +1165,21 @@ UrbanFonts features an amazing collection of free fonts, premium fonts and free 
 
 
 
+Secure copy and transfer files
+https://help.ubuntu.com/community/SSH/TransferFiles
+
+
+
+Photo Blog Bogota/Colombia
+http://photographypaspur.tumblr.com
+
+
+
+DataNucleus
+http://www.datanucleus.org/
+The DataNucleus AccessPlatform provides persistence and retrieval of data to a range of datastores using a range of APIs, with a range of query languages. We provide a FactSheet for DataNucleus AccessPlatform in PDF and ODF formats.
+Products
+DataNucleus provide a series of products to cover the whole data access, analysis, management and governance domain. We build our products using a plugin-based architecture leading to shorter time to market and improved testability of components.
+http://www.datanucleus.org/products/index.html
+
+
