@@ -1192,3 +1192,16 @@ http://shop.oreilly.com/product/0636920021353.do
 
 
 
+Fiscalidad para Javascripters
+http://www.appson.es/Singles/MadridJS.php
+
+
+JavaCV
+https://code.google.com/p/javacv/
+JavaCV first provides wrappers to commonly used libraries by researchers in the field of computer vision: OpenCV, FFmpeg, libdc1394, PGR FlyCapture, OpenKinect, videoInput, and ARToolKitPlus. The classes found under the com.googlecode.javacv.cpp package namespace expose their complete APIs. Moreover, utility classes make their functionality easier to use on the Java platform, including Android.
+
+
+
+
+
+
