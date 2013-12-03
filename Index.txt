@@ -1202,6 +1202,16 @@ JavaCV first provides wrappers to commonly used libraries by researchers in the 
 
 
 
+Digital Advertising Alliance's (DAA) 
+Self-Regulatory Program for Online Behavioral Advertising.
+http://www.aboutads.info
+DAA Announces Guidance for
+Self-Reg Principles in Mobile Environment
+
+
+
+
+
 
 
 
