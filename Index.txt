@@ -1217,3 +1217,14 @@ Solution: (changing the "my.cnf")
 Related: 
 Why does this MySQL trigger cause a stack overflow?
 http://stackoverflow.com/questions/5021945/why-does-this-mysql-trigger-cause-a-stack-overflow
+
+
+
+MySQL : "The user specified as a definer ('root'@'%') does not exist"
+http://www.lynnnayko.com/2010/07/mysql-user-specified-as-definer-root.html
+Solution:
+If you've found following error while using mysql database
+The user specified as a definer ('root'@'%') does not exist
+Then you can solve it by using following :
+grant all on *.* to 'root'@'%' identified by 'password' with grant option
+
