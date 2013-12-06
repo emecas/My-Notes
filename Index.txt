@@ -1210,8 +1210,10 @@ Self-Reg Principles in Mobile Environment
 
 
 
+MySql: Thread stack overrun on XAMPP for Mac OS X
+http://www.apachefriends.org/f/viewtopic.php?p=144638
+Solution: (changing the "my.cnf")
 
-
-
-
-
+Related: 
+Why does this MySQL trigger cause a stack overflow?
+http://stackoverflow.com/questions/5021945/why-does-this-mysql-trigger-cause-a-stack-overflow
