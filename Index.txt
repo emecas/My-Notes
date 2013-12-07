@@ -1228,3 +1228,14 @@ The user specified as a definer ('root'@'%') does not exist
 Then you can solve it by using following :
 grant all on *.* to 'root'@'%' identified by 'password' with grant option
 
+
+
+DAA
+Digital Analytics Association
+http://www.digitalanalyticsassociation.org
+The Digital Analytics Association exists to help organizations illuminate and overcome the challenges of data acquisition, exploration, deduction and application. The DAA is a not-for-profit, volunteer-powered association, and strives to help individuals become more valuable through education, community, research and advocacy.
+
+
+Bootstrap
+http://getbootstrap.com/
+Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
