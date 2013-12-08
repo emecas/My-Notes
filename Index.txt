@@ -1239,3 +1239,22 @@ The Digital Analytics Association exists to help organizations illuminate and ov
 Bootstrap
 http://getbootstrap.com/
 Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
+
+
+
+Apache Bloodhound (alternative to JIRA)
+http://bloodhound.apache.org
+Manage software products Keep track of features, tasks and bugs
+
+Redmine
+http://www.redmine.org
+Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
+
+
+
+
+Java Caching System
+http://commons.apache.org/proper/commons-jcs/
+JCS is a distributed caching system written in java. It is intended to speed up applications by providing a means to manage cached data of various dynamic natures. Like any caching system, JCS is most useful for high read, low put applications. Latency times drop sharply and bottlenecks move away from the database in an effectively cached system. Learn how to start using JCS.
+
+The JCS goes beyond simply caching objects in memory. It provides numerous additional features
