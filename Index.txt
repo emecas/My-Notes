@@ -1258,3 +1258,20 @@ http://commons.apache.org/proper/commons-jcs/
 JCS is a distributed caching system written in java. It is intended to speed up applications by providing a means to manage cached data of various dynamic natures. Like any caching system, JCS is most useful for high read, low put applications. Latency times drop sharply and bottlenecks move away from the database in an effectively cached system. Learn how to start using JCS.
 
 The JCS goes beyond simply caching objects in memory. It provides numerous additional features
+
+
+
+
+Java Instrumentation
+java.lang.instrument Interface Instrumentation
+http://docs.oracle.com/javase/7/docs/api/java/lang/instrument/Instrumentation.html
+
+Related Q&A:
+Calculate memory of a Map Entry
+http://stackoverflow.com/questions/20458456/calculate-memory-of-a-map-entry
+
+
+
+HowtoForge 
+http://www.howtoforge.com
+provides user-friendly Linux tutorials about almost every topic.
