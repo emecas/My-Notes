@@ -1275,3 +1275,17 @@ http://stackoverflow.com/questions/20458456/calculate-memory-of-a-map-entry
 HowtoForge 
 http://www.howtoforge.com
 provides user-friendly Linux tutorials about almost every topic.
+
+
+
+
+Ujorm
+http://ujorm.org
+The Ujorm is an open source Java small library which provides non-traditional objects based on the key-value architecture to open up new exciting opportunities for writing efficient code. This library offers a unique ORM module designed for rapid Java development with great performance and a small footprint. The key features are type safe database queries, relation mapping by Java code, no entity states and a memory overloading protection cache. Try it
+
+http://sourceforge.net/projects/ujoframework/
+Ujorm framework provides powerful objects based on the key-value architecture to common use. A part of the framework is the persistence module Ujorm designed for rapid Java development with great performance and a small footprint. Main features are type safe queries and no entity state.
+
+
+
+
