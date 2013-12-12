@@ -1305,4 +1305,9 @@ https://www.frozentux.net/documents/iptables-tutorial/iptables-tutorial-spanish-
 
 
 
+Docker
+https://www.docker.io
+An open source project to pack, ship and run any application as a lightweight container
+
+Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more.
 
