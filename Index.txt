@@ -1311,3 +1311,13 @@ An open source project to pack, ship and run any application as a lightweight co
 
 Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more.
 
+
+
+
+Android System Info
+An app that extracts info from your android device and let you export it 
+
+ASI provides a lot of technical infos(Hardware, System, Telephony...),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more
+* WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*
+
+https://play.google.com/store/apps/details?id=com.electricsheep.asi
