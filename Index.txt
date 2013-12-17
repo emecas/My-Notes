@@ -1321,3 +1321,8 @@ ASI provides a lot of technical infos(Hardware, System, Telephony...),Task Manag
 * WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*
 
 https://play.google.com/store/apps/details?id=com.electricsheep.asi
+
+
+Trip Cost Calculator
+Save money on your trip! We show you the cheapest gas for each fill-up.
+http://www.gasbuddy.com/Trip_Calculator.aspx
