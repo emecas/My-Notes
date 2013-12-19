@@ -1326,3 +1326,23 @@ https://play.google.com/store/apps/details?id=com.electricsheep.asi
 Trip Cost Calculator
 Save money on your trip! We show you the cheapest gas for each fill-up.
 http://www.gasbuddy.com/Trip_Calculator.aspx
+
+
+
+Dark
+https://www.dartlang.org/
+Dart is a new language for scalable web app engineering.
+
+
+
+Guacamayo
+http://guacamayo-project.org/info.html
+  --  The Multimedia Appliance Platform
+Guacamayo is an Open Source software platform for creating multimedia appliances, including multimedia UPnP/DLNA servers, audio players, and full-featured multimedia centres.
+
+
+
+The Yocto Project
+https://www.yoctoproject.org
+The Yocto Project is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture.
+
