@@ -1346,3 +1346,9 @@ The Yocto Project
 https://www.yoctoproject.org
 The Yocto Project is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture.
 
+
+
+
+Coursera Alternatives
+http://m.alternativeto.net/software/stanford-university-coursera/
+http://www.similarsitesearch.com/alternatives-to/coursera.org
