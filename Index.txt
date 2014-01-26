@@ -1333,6 +1333,10 @@ Dark
 https://www.dartlang.org/
 Dart is a new language for scalable web app engineering.
 
+Related:
+Is it possible to embed Dart into Java app?
+http://stackoverflow.com/questions/21358982/is-it-possible-to-embed-dart-into-java-app
+
 
 
 Guacamayo
