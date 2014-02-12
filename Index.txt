@@ -1403,3 +1403,33 @@ https://itunes.apple.com/us/app/momentcam/id687624831?mt=8
 
 Learning Theory interactive Map
 http://blog.richardmillwood.net/2013/05/10/learning-theory/
+
+
+
+BandCamp
+http://bandcamp.com
+Discover amazing new music and directly support the artists who make it.
+
+
+Refs:
+http://iamjamar.com
+
+
+
+
+The Association for Computational Creativity
+http://computationalcreativity.net
+Here you can find information about conferences, books and journals on Computational Creativity, as well as keep up with the latest news and events.
+
+
+
+
+
+http://tlk.io
+A simple web chat
+tlk.io [talk·eeo] is a web chat that is open to anyone and channels are owner-free. To create a new chat channel, just enter a name in the channel field above. Then, after joining, you can share the URL to invite more people.
+
+Refs: 
+Codecrew
+Meetup NYC - Study Group (AngularJS and Similars - Jamal)
+http://tlk.io/codecrew
