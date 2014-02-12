@@ -1441,3 +1441,11 @@ http://tlk.io/codecrew
 Nice indicators for progress in a Github Readme File
 https://raw.github.com/FastFeed/FastFeed/master/README.md
 
+
+
+
+
+Recruiting Advice No One Tells You
+"What I learned from Tristan Walker" 
+https://medium.com/better-humans/5ae6fb285d1
+
