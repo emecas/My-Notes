@@ -1433,3 +1433,11 @@ Refs:
 Codecrew
 Meetup NYC - Study Group (AngularJS and Similars - Jamal)
 http://tlk.io/codecrew
+
+
+
+
+
+Nice indicators for progress in a Github Readme File
+https://raw.github.com/FastFeed/FastFeed/master/README.md
+
