@@ -1455,3 +1455,17 @@ Tutoriales/Libros Web -  English/Spanish
 http://www.w3schools.com
 http://librosweb.es
 
+
+
+
+
+
+Sprite Kit 
+http://www.sprite-kit.com/
+Sprite Kit is a powerful iOS/Mac graphics framework for 2D games (side-scrolling shooters, puzzle games, and platformers) introduced by Apple targetting games on iOS 7, OS X Mavericks and potentially Applet TV:
+
+A flexible API lets developers control sprite attributes such as position, size, rotation, gravity, and mass without requiring advanced knowledge of the underlying OpenGL code
+
+Built-in support for physics to depict the force of gravity and inertia
+
+Built-in support for particle systems for creating essential game effects such as fire, explosions, and smoke
