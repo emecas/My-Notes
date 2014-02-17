@@ -1469,3 +1469,9 @@ A flexible API lets developers control sprite attributes such as position, size,
 Built-in support for physics to depict the force of gravity and inertia
 
 Built-in support for particle systems for creating essential game effects such as fire, explosions, and smoke
+
+
+
+LINQ
+Language Integrated Query
+http://en.wikipedia.org/wiki/Language_Integrated_Query
