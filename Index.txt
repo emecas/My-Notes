@@ -1475,3 +1475,27 @@ Built-in support for particle systems for creating essential game effects such a
 LINQ
 Language Integrated Query
 http://en.wikipedia.org/wiki/Language_Integrated_Query
+
+
+
+WALLWATCHER 
+Collect, View, and Analyze Router Logs
+http://www.wallwatcher1.com
+Version 3.3.37 (Final)	 January 1, 2011
+
+Ref: SO http://stackoverflow.com/review/first-posts/4082993
+
+
+
+
+
+How to count lines of Java code using IntelliJ IDEA?
+ref: SO http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea
+
+Command line ->>  find . -type f -name '*.java' | xargs cat | wc -l
+Plugin ->> http://plugins.jetbrains.com/plugin/?idea&id=4509
+
+
+
+
+
