@@ -1499,3 +1499,31 @@ Plugin ->> http://plugins.jetbrains.com/plugin/?idea&id=4509
 
 
 
+DARKCOIN
+http://darkcoin.io
+Will be the only Privacy-Centric Cryptographic Currency with fully encrypted transactions and anonymous block transactions.
+
+Repo: https://github.com/evan82/darkcoin
+SubReddit: http://www.reddit.com/r/DRKCoin/
+
+ABOUT
+0.00000% Pre-mined
+Super secure hashing algorithm: 11 rounds of scientific hashing functions (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo)
+Block reward is controlled by Moore's law: (11111 / (((Difficulty+51)/6) ^ 2))
+CPU only mining
+Block generation: 2.5 minutes
+Difficulty Retargets based on Kimoto's Gravity Well
+84 Million Coins Max
+Block reward halving every 2 years
+Encrypted transaction network: Work In Progress
+Anonymous blockchain using coinjoin technology: Work In Progress
+
+
+
+
+Litecoin
+https://litecoin.org
+
+What is Litecoin?
+
+Litecoin is a peer-to-peer Internet currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. Litecoin provides faster transaction confirmations (2.5 minutes on average) and uses a memory-hard, scrypt-based mining proof-of-work algorithm to target the regular computers and GPUs most people already have. The Litecoin network is scheduled to produce 84 million currency units.
