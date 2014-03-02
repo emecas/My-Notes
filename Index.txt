@@ -1550,3 +1550,14 @@ for the 21st Century
 At GitHub, we're building the text editor we've always wanted. A tool you can customize to do anything, but also use productively on the first day without ever touching a config file. Atom is modern, approachable, and hackable to the core. We can't wait to see what you build with it.
 
 
+
+
+Lynx on Mac
+Installing Lynx 2.8.7 on Mac OS X 10.6 Snow Leopard
+https://wincent.com/wiki/Installing_Lynx_2.8.7_on_Mac_OS_X_10.6_Snow_Leopard
+Last Stable Release: http://lynx.isc.org/lynx2.8.8/index.html
+
+REF: SO extensio
+http://stackapps.com/questions/542/column-80-plain-text-optimised-sofu
+
+
