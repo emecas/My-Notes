@@ -1579,3 +1579,13 @@ Ohloh
 https://www.ohloh.net/
 Ohloh is a free, public directory of Free and Open Source Software and the contributors who create and maintain it. Ohloh Code is a publicly available, free code search site that indexes most of the projects in Ohloh.
 
+
+
+Epoch Converter
+Epoch & Unix Timestamp Conversion Tools
+http://www.epochconverter.com
+It includes multiplex references to convert ions
+PostgreSQL:
+SELECT extract(epoch FROM date('2000-01-01 12:34'));
+ 
+
