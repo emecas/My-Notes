@@ -1587,5 +1587,16 @@ http://www.epochconverter.com
 It includes multiplex references to convert ions
 PostgreSQL:
 SELECT extract(epoch FROM date('2000-01-01 12:34'));
+
+
+
+These 5 Pillars Will Help You Make Serious Career Progress This Year
+http://blog.brazencareerist.com/2014/02/17/these-5-pillars-will-help-you-make-serious-career-progress-this-year/
+1. Mentoring
+2. Mastermind
+3. Microeconomy
+4. Missions
+5. Miles
+
  
 
