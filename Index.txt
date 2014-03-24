@@ -1663,5 +1663,15 @@ http://project-open-data.github.io/
 Data Catalog Vocabulary (DCAT)
 W3C Recommendation 16 January 2014
 http://www.w3.org/TR/vocab-dcat/
- 
 
+
+
+
+
+Modeling the Semantics of Contextual and Content-specific Research Metadata using Ontology Languages: issues on combining CERIF and OWL
+http://www.sciencedirect.com/science/article/pii/S187705091200292X
+Procedia Computer Science
+Volume 9, 2012, Pages 1563–1570
+Proceedings of the International Conference on Computational Science, ICCS 2012 
+Brigitte Jšrga, Jaakko Lappalainenb, Kostas Kastrantasc
+http://dx.doi.org/10.1016/j.procs.2012.04.171
