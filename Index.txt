@@ -1656,5 +1656,12 @@ A collection of internet companies made with ♥ in NYC
 Project Open Data
 Open Data Policy — Managing Information as an Asset
 http://project-open-data.github.io/
+
+
+
+
+Data Catalog Vocabulary (DCAT)
+W3C Recommendation 16 January 2014
+http://www.w3.org/TR/vocab-dcat/
  
 
