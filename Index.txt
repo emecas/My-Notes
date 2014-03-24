@@ -1650,5 +1650,11 @@ The pickle module implements a fundamental, but powerful algorithm for serializi
 Made in NYC
 http://nytm.org/made-in-nyc
 A collection of internet companies made with ♥ in NYC
+
+
+
+Project Open Data
+Open Data Policy — Managing Information as an Asset
+http://project-open-data.github.io/
  
 
