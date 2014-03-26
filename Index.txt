@@ -1675,3 +1675,21 @@ Volume 9, 2012, Pages 1563–1570
 Proceedings of the International Conference on Computational Science, ICCS 2012 
 Brigitte Jšrga, Jaakko Lappalainenb, Kostas Kastrantasc
 http://dx.doi.org/10.1016/j.procs.2012.04.171
+
+
+
+
+
+The Nix project
+http://nixos.org
+Welcome to the homepage of the Nix project, which consists of a number of related open source subprojects:
+
+Nix is a purely functional package manager. This means that it can ensure that an upgrade to one package cannot break others, that you can always roll back to previous version, that multiple versions of a package can coexist on the same system, and much more.
+
+Nixpkgs is a large collection of packages that can be installed with the Nix package manager.
+
+NixOS is a Nix-based Linux distribution. Thanks to Nix, it supports atomic upgrades, rollbacks and multi-user package management, and it has a declarative approach to system configuration management that makes it easy to reproduce a configuration on another machine.
+
+Hydra is a Nix-based continuous build system.
+
+Disnix is a Nix-based distributed service deployment system.
