@@ -1701,3 +1701,17 @@ PROJECTS
 Spring Data Neo4J  
 Enables POJO based development for the Neo4j Graph Database and with Spring's familiar template programming model.
 http://projects.spring.io/spring-data-neo4j/
+
+
+
+
+sigmajs
+http://sigmajs.org
+Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.
+
+REF:
+http://thewhyaxis.info/hairball/
+Sigma.js Cleans up Hairball Network Visualizations
+Network visualization is a topic as complex as many of the hairballs it produces but Sigma.JS is designed to break through the clutter and graph networks that are more readable and user-friendly.
+REF:
+http://stackoverflow.com/a/14879782/833336
