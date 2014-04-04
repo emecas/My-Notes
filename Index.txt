@@ -173,6 +173,13 @@ Neo4j is an open-source, high-performance, enterprise-grade NOSQL graph database
 http://www.neo4j.org/
 http://www.neo4j.org/install
 
+Tutorials Neo4J
+1:
+Neo4j: Making implicit relationships explicit & bidirectional relationships
+http://www.javacodegeeks.com/2013/10/neo4j-making-implicit-relationships-explicit-bidirectional-relationships.html
+
+
+
 
 DokuWiki (PHP)
 It's better when it's simple
