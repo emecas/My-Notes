@@ -1722,3 +1722,9 @@ Sigma.js Cleans up Hairball Network Visualizations
 Network visualization is a topic as complex as many of the hairballs it produces but Sigma.JS is designed to break through the clutter and graph networks that are more readable and user-friendly.
 REF:
 http://stackoverflow.com/a/14879782/833336
+
+
+
+Pasos para darse de alta como autónomo
+Todos los trámites, explicados punto por punto.
+http://www.emprendedores.es/crear-una-empresa/darse-de-alta-como-autonomo
