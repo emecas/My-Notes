@@ -1728,3 +1728,11 @@ http://stackoverflow.com/a/14879782/833336
 Pasos para darse de alta como autónomo
 Todos los trámites, explicados punto por punto.
 http://www.emprendedores.es/crear-una-empresa/darse-de-alta-como-autonomo
+
+
+
+
+IndoorOSM
+http://wiki.openstreetmap.org/wiki/IndoorOSM#The_Model_.2F_Tagging_Schema
+IndoorOSM is a proposed tagging schema for Indoor Mapping (One of several possible schemes. See Indoor Mapping#Tagging proposals for a list of other possibilities)
+You might be looking for IndoorOSM on Android.
