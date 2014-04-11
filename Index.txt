@@ -1736,3 +1736,12 @@ IndoorOSM
 http://wiki.openstreetmap.org/wiki/IndoorOSM#The_Model_.2F_Tagging_Schema
 IndoorOSM is a proposed tagging schema for Indoor Mapping (One of several possible schemes. See Indoor Mapping#Tagging proposals for a list of other possibilities)
 You might be looking for IndoorOSM on Android.
+
+
+
+
+
+Neo4J and  Maps (OSM)
+https://github.com/neo4j/spatial
+Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial operations on the data like searching for data within specified regions or within a specified distance of a point of interest. In addition classes are…
+
