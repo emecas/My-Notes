@@ -1765,3 +1765,13 @@ Automation Evolved
 - Strong yet flexible conventions
 - Enterprise level control capabilities
 - Manageable and understandable builds
+
+
+
+
+
+
+KML Interactive Sampler
+https://kml-samples.googlecode.com/svn/trunk/interactive/index.html
+Explore the samples below or enter your own KML to get started. You can then make changes and see them in action by clicking 'Update Earth'!
+This sampler requires the Google Earth Plug-in.
