@@ -1775,3 +1775,11 @@ KML Interactive Sampler
 https://kml-samples.googlecode.com/svn/trunk/interactive/index.html
 Explore the samples below or enter your own KML to get started. You can then make changes and see them in action by clicking 'Update Earth'!
 This sampler requires the Google Earth Plug-in.
+
+
+
+
+TransferWise
+https://transferwise.com/
+The clever new way to beat bank fees
+Banks charge huge hidden fees when you send money abroad. Now you can avoid them completely with TransferWise. Problem solved.
