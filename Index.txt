@@ -1790,3 +1790,19 @@ Cropti
 http://cropti.com
 Bienvenido a la agricultura inteligente
 Cropti ofrece al agricultor toda la información necesaria para una toma de decisiones eficaz. Aumenta la productividad, ahorra tiempo y optimiza costes: gestión integral de agricultura en cualquier momento y en cualquier lugar.
+
+
+
+
+Using Neo4j to Manage and Calculate Hierarchies
+http://blog.bruggen.com/2014/03/using-neo4j-to-manage-and-calculate.html
+I recently had a number of extremely interesting conversations with a company that wants to use Neo4j for managing hierarchical data. This use case is so common, that I decided to write up my findings and experiments and share over here. Hierarchical data is extremely common in many different situations - let's just mention a few:
+
+
+
+How to import large graphs to Neo4j with Spring Data, fast
+http://iordanis.com/post/22677357894/import-large-graphs-to-neo4j-with-spring-data-fast
+
+
+Cypher: Integer division should maybe result in Float, if appropriate? #493 
+https://github.com/neo4j/neo4j/issues/493
