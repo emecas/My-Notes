@@ -1806,3 +1806,20 @@ http://iordanis.com/post/22677357894/import-large-graphs-to-neo4j-with-spring-da
 
 Cypher: Integer division should maybe result in Float, if appropriate? #493 
 https://github.com/neo4j/neo4j/issues/493
+
+
+
+
+
+
+
+XQL (XML Query Language)
+http://www.ibiblio.org/xql/xql-proposal.html
+Abstract
+
+As more and more information is either stored in XML, exchanged in XML, or presented as XML through various interfaces, the ability to intelligently query our XML data sources becomes increasingly important. XML documents are structured documents – they blur the distinction between data and documents, allowing documents to be treated as data sources, and traditional data sources to be treated as documents.
+
+
+XML Query Languages:
+Experiences and Exemplars
+http://www.w3.org/1999/09/ql/docs/xquery.html#xql99
