@@ -1823,3 +1823,15 @@ As more and more information is either stored in XML, exchanged in XML, or prese
 XML Query Languages:
 Experiences and Exemplars
 http://www.w3.org/1999/09/ql/docs/xquery.html#xql99
+
+
+
+
+tefacturamos.com
+Es el soporte y aplicación para la facturación a terceros de los socios de tefacturamos.com si aún no eres socio infórmate de sus ventajas y te convencerás.
+
+Alternativa
+
+La sociedad nace como alternativa a la problemática que supone la aventura empresarial, donde además de inversiones hay que cumplir con una serie de obligaciones legales, fiscales, mercantiles y de Seguridad Social que merma la posibilidad del negocio.
+http://www.tefacturamos.com
+http://www.tefacturamos.com/ventajas
