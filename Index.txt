@@ -1835,3 +1835,9 @@ Alternativa
 La sociedad nace como alternativa a la problemática que supone la aventura empresarial, donde además de inversiones hay que cumplir con una serie de obligaciones legales, fiscales, mercantiles y de Seguridad Social que merma la posibilidad del negocio.
 http://www.tefacturamos.com
 http://www.tefacturamos.com/ventajas
+
+
+
+Apache Jena
+A free and open source Java framework for building Semantic Web and Linked Data applications.
+http://jena.apache.org/index.html
