@@ -1841,3 +1841,15 @@ http://www.tefacturamos.com/ventajas
 Apache Jena
 A free and open source Java framework for building Semantic Web and Linked Data applications.
 http://jena.apache.org/index.html
+
+
+
+
+winPenPack
+Portable Software Collection
+Everything you need, completely free, open source and portable! 
+
+www.winpenpack.com
+http://sourceforge.net/projects/winpenpack
+
+winPenPack is a project that aims at collecting the most frequently used and most popular open source applications made portable, so that they can be executed without installation from any USB Flash Drive or Hard Disk. The winPenPack suites offer a wide range of portable applications like office tools, internet tools, multimedia tools, development tools, security applications and other frequently used utilities. Everything you need, completely free, open source and portable!
