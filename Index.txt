@@ -34,7 +34,6 @@ Curso Android (ESP)
 http://www.androidcurso.com
 
 
-
 What have you tried?
 http://mattgemmell.com/2008/12/08/what-have-you-tried/
 http://whathaveyoutried.com 
@@ -1856,3 +1855,31 @@ winPenPack is a project that aims at collecting the most frequently used and mos
 RegexTester
 RegexTester is an Eclipse plugin which can be used to easily test regular expressions.
 https://github.com/sbrosinski/RegexTester
+
+
+
+
+Spark-java
+A sinatra inspired framework for java 
+https://code.google.com/p/spark-java/
+Download 	spark-0.9.9.4-SNAPSHOT.zip 	Spark 0.9.9.4 (including source and javadocs)   Featured 	Nov 2012 	Nov 2012 	213 KB 	6661 	 
+Download 	spark-0.9.9.3-SNAPSHOT.zip 	Spark 0.9.9.3 (including source and javadocs) 	Sep 2011 	Sep 2011 	191 KB 	2511 	 
+Download 	spark-dependencies_0.9.9.3_and_newer.zip 	Spark third-party dependencies needed for spark 0.9.9.3 and newer to work properly (REQUIRED)   Featured 	Sep 2011 	Sep 2011 	1.3 MB 	4693 	 
+Download 	spark-0.9.9.1-SNAPSHOT.zip 	Spark 0.9.9.1 (including source and javadocs) 	May 2011 	May 2011 	254 KB 	978 	 
+Download 	spark-dependencies_0.9.9.1_and_newer.zip 	Spark third-party dependencies needed for spark 0.9.9.1 and newer to work properly (REQUIRED) 	May 2011 	May 2011 	1.5 MB 	768 	 
+Download 	spark-0.9.9-SNAPSHOT.zip 	Spark 0.9.9 (including source and javadocs) 	May 2011 	May 2011 	252 KB 	945 	 
+Download 	spark-0.9.8-SNAPSHOT.zip 	Spark 0.9.8 (including source and javadocs) 	May 2011 	May 2011 	246 KB 	783 	 
+Download 	spark-0.9.7-SNAPSHOT.zip 	Spark 0.9.7 (including source and javadocs) 	May 2011 	May 2011 	242 KB 	844 	 
+Download 	spark-dependencies.zip 	Spark third-party dependencies needed for spark to work properly (REQUIRED) 	May 2011 	May 2011 	890 KB 	1490 	
+
+New Web and Repo --> GitHub
+Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort
+
+http://sparkjava.com/
+https://github.com/perwendel/spark
+
+<dependency>
+    <groupId>com.sparkjava</groupId>
+    <artifactId>spark-core</artifactId>
+    <version>2.2</version>
+</dependency>
