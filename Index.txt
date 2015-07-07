@@ -1872,7 +1872,7 @@ Download 	spark-0.9.8-SNAPSHOT.zip 	Spark 0.9.8 (including source and javadocs) 
 Download 	spark-0.9.7-SNAPSHOT.zip 	Spark 0.9.7 (including source and javadocs) 	May 2011 	May 2011 	242 KB 	844 	 
 Download 	spark-dependencies.zip 	Spark third-party dependencies needed for spark to work properly (REQUIRED) 	May 2011 	May 2011 	890 KB 	1490 	
 
-New Web and Repo --> GitHub
+New Web and Repo --> GitHub 
 Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort
 
 http://sparkjava.com/
@@ -1883,3 +1883,19 @@ https://github.com/perwendel/spark
     <artifactId>spark-core</artifactId>
     <version>2.2</version>
 </dependency>
+
+
+
+
+Sticky Bit 
+https://en.wikipedia.org/wiki/Sticky_bit
+How can I remove Sticky Bit bit on a file/folder?
+chmod o-t /opt/dump/
+https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-hdfs/HdfsPermissionsGuide.html
+The Sticky bit can be set on directories, preventing anyone except the superuser, directory owner or file owner from deleting or moving the files within the directory. 
+
+
+
+
+
+
