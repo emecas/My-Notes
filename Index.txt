@@ -1896,6 +1896,20 @@ The Sticky bit can be set on directories, preventing anyone except the superuser
 
 
 
+Web Framework Benchmarks
+Introduction
+This is a performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition. Each framework is operating in a realistic production configuration. Results are captured on Amazon EC2 and on physical hardware. The test implementations are largely community-contributed and all source is available at the GitHub repository.
+http://www.techempower.com/benchmarks/#section=intro&hw=peak&test=plaintext
+http://www.techempower.com/benchmarks/#section=data-r10&hw=peak&test=plaintext
+
+
+
+SonarQube™ software (previously known as “Sonar”) is an open source project. 
+Download and install your own copy. Version: 5.1.1 (Jun 5, 2015) distributed under license LGPL v3.
+All in one
+SonarQube is an open platform to manage code quality. As such, it covers the 7 axes of code quality:
+Comments, Coding Rules, Architecture & Design, Duplications, Unit Tests, Potential Bug, Complexity
+http://www.sonarqube.org/
 
 
 
