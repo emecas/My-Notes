@@ -1913,3 +1913,9 @@ http://www.sonarqube.org/
 
 
 
+
+Visual Studio Code
+Code Editing. Redefined.
+Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows. 
+https://code.visualstudio.com/
+
