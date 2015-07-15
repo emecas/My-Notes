@@ -1948,3 +1948,20 @@ https://startupxplore.com/
 The startup funding community.
 get found. get funded.
 Join 5,776 outstanding companies.
+
+
+The Code of the Geeks v3.12 
+http://www.geekcode.com/geek.html
+Sample:
+
+GeekCodeBlock
+http://www.geekcode.com/
+http://www.geekcode.com/geek.html
+
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+
+GCS$ d- s+++ a C+++ UL++$ P+ L+++ E++ W++ N-
+PS++ PE- K- w-- Y+ t5 X+ R- tv-- b++ DI++
+D+ G e+++ r+++ z+++
+------END GEEK CODE BLOCK------
