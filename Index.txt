@@ -1,4 +1,4 @@
-mongodb
+﻿mongodb
 cayenne
 
 
@@ -1972,4 +1972,29 @@ System Rules
 A collection of JUnit rules for testing code that uses java.lang.System.
 Command-Line Applications - System.exit - System Properties - Security Managers
 http://stefanbirkner.github.io/system-rules/
+https://github.com/stefanbirkner/system-rules
 REF: http://stackoverflow.com/a/309427/833336
+
+
+
+
+
+Jar Comparators -  Identifying Delta To Deply
+
+
+Ref: http://stackoverflow.com/questions/3868803/comparing-two-jar-files
+
+CLIRR
+Clirr is a tool that checks Java libraries for binary and source compatibility with older releases
+http://clirr.sourceforge.net
+
+
+pkgdiff
+A tool for visualizing changes in Linux software packages
+http://lvc.github.io/pkgdiff/
+
+
+japi-compliance-checker
+A tool for checking backward API/ABI compatibility of a Java library http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker
+https://github.com/lvc/japi-compliance-checker
+
