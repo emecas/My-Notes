@@ -2017,3 +2017,13 @@ http://jsoneditoronline.org.
 ORION
 https://orionhub.org/
 A modern, open source software development environment that runs in the cloud.
+
+
+
+
+thebackroomtech
+http://thebackroomtech.com
+serving up the info back room techs everywhere find interesting
+
+Ref: Determine IP Address From a MAC Address
+http://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/
