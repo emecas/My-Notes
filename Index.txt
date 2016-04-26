@@ -2027,3 +2027,38 @@ serving up the info back room techs everywhere find interesting
 
 Ref: Determine IP Address From a MAC Address
 http://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/
+
+
+
+
+Groovy Saving Objects Stuff
+
+
+1.	JSON approach 
+
+Groovy. Write objects to file (json) and read them back
+https://gist.github.com/keyle/723181f3a9a59a3f7652
+
+2.	Groovy and files References
+
+Groovy File Examples
+http://grails.asia/groovy-file-examples 
+
+Groovy Goodness: Working with Files
+http://mrhaki.blogspot.in/2009/08/groovy-goodness-working-with-files.html 
+
+
+3.	Serialization Key Concepts
+
+Object Persistence Made Easy
+http://www.javacoffeebreak.com/articles/serialization/ 
+
+
+4.	Utilities
+
+GORM is Grails' object relational mapping (ORM) implementation.
+https://grails.github.io/grails-doc/latest/guide/GORM.html 
+
+
+GORM Tutorial: Recipes for using GORM with Grails
+http://timsporcic.github.io/GORM-Recipes/# 
