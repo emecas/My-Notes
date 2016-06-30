@@ -1947,3 +1947,13 @@ Vert.x
 http://vertx.io/
 Vert.x is a tool-kit for building reactive applications on the JVM.
 
+
+Datamill
+https://github.com/rchodava/datamill
+A Java framework for web applications using a functional reactive style built on RxJava
+
+
+RxJava
+https://github.com/ReactiveX/RxJava
+RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+
