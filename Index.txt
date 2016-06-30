@@ -1925,13 +1925,13 @@ The Netty project
 http://netty.io/
 Netty is an asynchronous event-driven network application framework
 for rapid development of maintainable high performance protocol servers & clients. 
+Resources:
+NetBeans: https://netbeans.org/downloads/zip.html
 
 
 
 FerriEnvironment for Development
 
-Resources:
-NetBeans: https://netbeans.org/downloads/zip.html
 
 
 Swift
@@ -1940,3 +1940,10 @@ Welcome to Swift.org
 Swift is now open source!
 
 We are excited by this new chapter in the story of Swift. After Apple unveiled the Swift programming language, it quickly became one of the fastest growing languages in history. Swift makes it easy to write software that is incredibly fast and safe by design. Now that Swift is open source, you can help make the best general purpose programming language available everywhere.
+
+
+
+Vert.x
+http://vertx.io/
+Vert.x is a tool-kit for building reactive applications on the JVM.
+
