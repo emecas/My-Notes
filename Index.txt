@@ -1976,12 +1976,16 @@ http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/
 
 
 JAS-mine
+Java Agent-based Simulation Library - Modelling In a Networked Environment
 www.jas-mine.net.
 
 JAS-mine is a Java platform that aims at providing a unique simulation tool for discrete-event simulations, including agent-based and microsimulation models. With the aim to develop large-scale, data-driven models, the main architectural choice of JAS-mine is to use whenever possible standard, open-source tools already available in the software development community.
 
 Plugin for Eclipse: http://marketplace.eclipse.org/content/jas-mine-plugin-eclipse-ide
 
+People: Matteo G. Richiardi 
+http://www.personalweb.unito.it/matteo.richiardi
+https://ideas.repec.org/e/pri114.html
 
 
 
