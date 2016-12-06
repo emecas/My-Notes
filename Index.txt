@@ -1983,3 +1983,11 @@ JAS-mine is a Java platform that aims at providing a unique simulation tool for 
 Plugin for Eclipse: http://marketplace.eclipse.org/content/jas-mine-plugin-eclipse-ide
 
 
+
+
+BrightScript
+
+Pluging for Visual Studio
+https://marketplace.visualstudio.com/items?itemName=MattDuffield.BrightScript
+
+
