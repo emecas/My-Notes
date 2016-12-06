@@ -1995,3 +1995,20 @@ Pluging for Visual Studio
 https://marketplace.visualstudio.com/items?itemName=MattDuffield.BrightScript
 
 
+
+IDEAS
+https://ideas.repec.org/
+
+What is IDEAS?
+IDEAS the largest bibliographic database dedicated to Economics and available freely on the Internet. Based on RePEc, it indexes over 2,200,000 items of research, including over 2,000,000 that can be downloaded in full text.
+
+This site is part of a large volunteer effort to enhance the free dissemination of research in Economics, RePEc, which includes bibliographic metadata from over 1,800 participating archives, including all the major publishers and research outlets. IDEAS is just one of several services that use RePEc data.
+
+Authors are invited to register with RePEc to create an online profile. Then, anyone finding some of their research here can find your latest contact details and a listing of their other research. They will also receive a monthly mailing about the popularity of their works, their ranking and newly found citations. 
+
+
+
+
+RePEc
+http://repec.org/
+RePEc (Research Papers in Economics) is a collaborative effort of hundreds of volunteers in 89 countries to enhance the dissemination of research in Economics and related sciences. The heart of the project is a decentralized bibliographic database of working papers, journal articles, books, books chapters and software components, all maintained by volunteers. The collected data are then used in various services that serve the collected metadata to users or enhance it. 
