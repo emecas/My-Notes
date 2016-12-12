@@ -1644,6 +1644,19 @@ http://ec.europa.eu/food/food/rapidalert/index_en.htm
 Flask
 http://flask.pocoo.org/
 Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It's BSD licensed! 
+Notes:
+installation: http://flask.pocoo.org/docs/0.11/installation/#installation
+Quickstart: http://flask.pocoo.org/docs/0.11/quickstart/#quickstart
+
+Used for: auth-linking-server repo at ROKU examples https://github.com/rokudev/auth-linking-server with:
+click==6.6
+Flask==0.11.1
+gunicorn==19.6.0
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+Werkzeug==0.11.10
+
 
 
 Pickle
