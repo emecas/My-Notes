@@ -2052,3 +2052,27 @@ GIT-FLOW Cheatsheet
 Efficient branching using git-flow by Vincent Driessen
 http://danielkummer.github.io/git-flow-cheatsheet/
 https://github.com/danielkummer/git-flow-cheatsheet
+
+
+
+CloudSort Benchmark
+http://sortbenchmark.org/
+
+Sort Benchmark Home Page
+
+New: The 2016 records are listed below in green. Thank you to all of the many 2016 entrants!
+Background
+
+Until 2007, the sort benchmarks were primary defined, sponsored and administered by Jim Gray. Following Jim's disappearance at sea in January 2007, the sort benchmarks have been continued by a committee of past colleagues and sort benchmark winners. The Sort Benchmark committee members include:
+
+    Chris Nyberg of Ordinal Technology Corp
+    Mehul Shah of Amazon Web Services
+    Naga Govindaraju of Microsoft 
+
+News: http://spark.apache.org/news/spark-wins-cloudsort-100tb-benchmark.html	
+Blog post about Spark world record--> https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html
+
+Papers ref:
+NTOSort: http://sortbenchmark.org/NTOSort2013.pdf
+NADSort: http://sortbenchmark.org/NADSort2016.pdf
+Tencent Sort: http://sortbenchmark.org/TencentSort2016.pdf
