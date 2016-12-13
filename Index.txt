@@ -2089,3 +2089,11 @@ Papers ref:
 NTOSort: http://sortbenchmark.org/NTOSort2013.pdf
 NADSort: http://sortbenchmark.org/NADSort2016.pdf
 Tencent Sort: http://sortbenchmark.org/TencentSort2016.pdf
+
+
+
+A Television Simulator
+CRT Emulation for the Atari VCS
+http://bogost.com/games/a_television_simulator/
+One of the main themes of Racing the Beam is the strong affinity between the Atari VCS and the CRT television. The system was designed around the TV and it interfaces with that display in an unusual and specific way.
+by Ian Bogost http://bogost.com/
