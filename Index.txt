@@ -2097,3 +2097,9 @@ CRT Emulation for the Atari VCS
 http://bogost.com/games/a_television_simulator/
 One of the main themes of Racing the Beam is the strong affinity between the Atari VCS and the CRT television. The system was designed around the TV and it interfaces with that display in an unusual and specific way.
 by Ian Bogost http://bogost.com/
+
+
+
+Apache Spark: Config Cheatsheets (parts 1 & 2)
+http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/
+http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/
