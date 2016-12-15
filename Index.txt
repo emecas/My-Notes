@@ -2103,3 +2103,10 @@ by Ian Bogost http://bogost.com/
 Apache Spark: Config Cheatsheets (parts 1 & 2)
 http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/
 http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/
+
+
+
+
+OpenSCAD - The Programmers Solid 3D CAD Modeller
+www.openscad.org
+OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
