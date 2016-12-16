@@ -2110,3 +2110,12 @@ http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part
 OpenSCAD - The Programmers Solid 3D CAD Modeller
 www.openscad.org
 OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.
+
+
+
+Spring Boot Reference Guide
+http://docs.spring.io/autorepo/docs/spring-boot/current/reference/html/index.html
+Authors
+Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis, Sébastien Deleuze
+1.4.2.RELEASE
+Copyright © 2013-2016 
