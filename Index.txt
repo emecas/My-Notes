@@ -2119,3 +2119,18 @@ Authors
 Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis, Sébastien Deleuze
 1.4.2.RELEASE
 Copyright © 2013-2016 
+
+
+GECCO 2017 - Call for Papers
+http://gecco-2017.sigevo.org/index.html/Call+for+Papers
+Berlin, Germany
+July 15-19, 2017
+Genetic and Evolutionary
+Computation Conference
+A Recombination of the
+26th International Conference on
+Genetic Algorithms (ICGA) and the
+22nd Annual Genetic Programming Conference (GP)
+
+http://gecco-2017.sigevo.org
+
