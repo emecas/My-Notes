@@ -2173,3 +2173,28 @@ RRCHNM is part of the Department of History and Art History at George Mason Univ
 people: https://rrchnm.org/who-we-are/
 
 
+
+Is Design Dead? (May 2004) - Article
+https://www.martinfowler.com/articles/designDead.html
+by Martin Fowler
+
+Contents:
+
+    Planned and Evolutionary Design
+    The Enabling Practices of XP
+    The Value of Simplicity
+    What on Earth is Simplicity Anyway
+    Does Refactoring Violate YAGNI?
+    Patterns and XP
+    Growing an Architecture
+    UML and XP
+    On Metaphor
+    Do you wanna be an Architect when you grow up?
+    Reversibility
+    The Will to Design
+    Things that are difficult to refactor in
+    Is Design Happening?
+    So is Design Dead?
+
+
+
