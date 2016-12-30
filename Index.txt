@@ -2159,3 +2159,17 @@ InTechOpen is the world's largest Science, Technology and Medicine Open Access b
 
 With a goal to provide free online access to research since 2004, InTechOpen has published 2,843 books and 46,488 scientific works by 97,577 international scientists. 
 
+
+Zotero - Source code (Get Involved)
+https://www.zotero.org/support/dev/source_code
+https://github.com/zotero/zotero
+Zotero Client Coding : https://www.zotero.org/support/dev/client_coding
+
+by
+
+Roy Rosenzweir Center for History and New Media
+https://rrchnm.org
+RRCHNM is part of the Department of History and Art History at George Mason University
+people: https://rrchnm.org/who-we-are/
+
+
