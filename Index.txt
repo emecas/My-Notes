@@ -2216,3 +2216,13 @@ use the Internet anonymously and circumvent censorship;
 all connections to the Internet are forced to go through the Tor network;
 leave no trace on the computer you are using unless you ask it explicitly;
 use state-of-the-art cryptographic tools to encrypt your files, emails and instant messaging.
+
+
+
+
+Double-slit experiment
+https://en.wikipedia.org/wiki/Double-slit_experiment
+With Electrons
+https://www.physicsforums.com/threads/double-slit-experiment-with-electrons.684465/
+
+
