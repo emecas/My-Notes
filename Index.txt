@@ -2233,3 +2233,14 @@ A $10 USB charger with built-in wireless keylogger means more security headaches
 http://www.codejava.net/frameworks/spring/spring-mvc-beginner-tutorial-with-spring-tool-suite-ide
 Author Blog Post: http://samy.pl/keysweeper/
 
+
+
+
+
+PRINCIPLES OF CHAOS ENGINEERING
+principlesofchaos.org
+Chaos Engineering is the discipline of experimenting on a distributed system
+in order to build confidence in the system’s capability
+to withstand turbulent conditions in production
+
+
