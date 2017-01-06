@@ -2244,3 +2244,21 @@ in order to build confidence in the system’s capability
 to withstand turbulent conditions in production
 
 
+
+
+JDK 9 (schedule and features)
+
+http://openjdk.java.net/projects/jdk9/
+The goal of this Project is to produce an open-source reference implementation of the Java SE 9 Platform, to be defined by a forthcoming JSR in the Java Community Process.
+
+The schedule and features of this release are proposed and tracked via the JEP Process, as amended by the JEP 2.0 proposal.
+Schedule
+
+    2016/05/26 		Feature Complete
+    2016/12/22 		Feature Extension Complete
+    2017/01/05 		Rampdown Start
+    2017/02/09 		All Tests Run
+    2017/02/16 		Zero Bug Bounce
+    2017/03/16 		Rampdown Phase 2
+    2017/07/06 		Final Release Candidate
+    2017/07/27 		General Availability
