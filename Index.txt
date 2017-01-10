@@ -2273,3 +2273,8 @@ Autonomous drones are being called the biggest thing in military technology sinc
 
 They are operating autonomously and the Pentagon’s Dr. Will Roper says what you’re seeing is a glimpse into the future of combat.
 
+
+
+Subversion vs. Git: Myths and Facts (by a subversion lover)
+https://svnvsgit.com/
+There are a number of Subversion vs. Git comparisons around the web and most of them are based on myths rather than facts. The list below is intended to bust some of these myths. Although it doesn't tell which version control system is better, it should help you to understand the actual state of affairs. 
