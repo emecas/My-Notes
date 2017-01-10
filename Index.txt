@@ -2278,3 +2278,24 @@ They are operating autonomously and the Pentagon’s Dr. Will Roper says what yo
 Subversion vs. Git: Myths and Facts (by a subversion lover)
 https://svnvsgit.com/
 There are a number of Subversion vs. Git comparisons around the web and most of them are based on myths rather than facts. The list below is intended to bust some of these myths. Although it doesn't tell which version control system is better, it should help you to understand the actual state of affairs. 
+
+
+
+OpenWeatherMap
+http://openweathermap.org
+
+http://owm.io/about
+Our mission is to make geo data open and available through easy to use cloud products and APIs to inspire new innovative applications with imagery, weather data, and other data feeds that are instantly available for you. A lot of new features are coming soon.
+
+We use high-end Big Data IT technologies to automatically process billions of data points every second providing you with RGB and NVDI images, cloudless maps, interactive weather maps and many other products.
+
+We collect data from thousands of remote and ground sensors distributed all around our planet and our network of sensors is permanently expanding.
+
+Your comments, requests and ideas are welcomed. Please, e-mail us
+
+  
+
+
+  
+ 
+
