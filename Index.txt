@@ -2293,7 +2293,15 @@ We collect data from thousands of remote and ground sensors distributed all arou
 
 Your comments, requests and ideas are welcomed. Please, e-mail us
 
-  
+
+
+ 
+Lyme Epidemic
+https://en.wikipedia.org/wiki/Lyme_disease
+http://lymestats.org/
+
+Lyme disease is caused by a spiral shaped bacteria (spirochete) called Borrelia. There are 100 different strains of Borrelia in the USA and 300 worldwide. In the USA, Lyme disease is twice as common as Breast Cancer and six times as common as AIDS.
+Source: ILADS
 
 
   
