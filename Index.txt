@@ -2304,6 +2304,54 @@ Lyme disease is caused by a spiral shaped bacteria (spirochete) called Borrelia.
 Source: ILADS
 
 
+
+
+Open Source Code Coverage Tools in Java
+http://java-source.net/open-source/code-coverage
+-Quilt 
+-NoUnit
+-InsECT
+-Jester
+-JVMDI Code Coverage Analyser
+-GroboCodeCoverage
+-jcoverage/gpl
+-JBlanket
+-Cobertura
+-Coverlipse
+-Hansel
+-CodeCover
+-EMMA [I'VE TESTED 	this one , it'is working ok as a eclipse plugin, nowdays JaCoCo]
+-PIT
+
+
+Java Code Coverage Tools
+https://en.wikipedia.org/wiki/Java_Code_Coverage_Tools#JaCoCo
+1 JCov
+    1.1 Features
+    1.2 Tools using JCov
+2 JaCoCo
+    2.1 Features
+    2.2 Tools using or including JaCoCo
+3 Clover
+4 Cobertura
+5 EMMA
+    5.1 Features
+6 Serenity
+7 Testwell CTC++ for Java
+
+
+Ref paper: 
+A coverage analysis of Java benchmark suites (2005) 
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.106.8389
+
+
+Abstract
+
+The Java programming language provides an almost ideal environment for both static and dynamic analysis, being easy to parse, and supporting a standardised, easily-profiled virtual environment. In this paper we study the relationship between results obtainable from static and dynamic analysis of Java programs, and in particular the difficulties of correlating static and dynamic results. As a foundation for this study, we focus on various criteria related to run-time code coverage, as commonly used in test suite analysis. We have implemented a dynamic coverage analysis tool for Java programs, and we use it to evaluate several standard Java benchmark suites using line, instruction and branch coverage criteria. We present data indicating a considerable variance in static and dynamic analysis results between these suites, and even between programs in these suites.
+
+
+ 
+
   
  
 
