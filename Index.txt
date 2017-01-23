@@ -2351,7 +2351,11 @@ The Java programming language provides an almost ideal environment for both stat
 
 
  
-
+NotePad++ Compare Plugin
+Compare plugin is back! 
+https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back
+https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0
+https://github.com/pnedev/compare-plugin
   
  
 
