@@ -2431,3 +2431,16 @@ https://hyperloop-one.com/
 https://en.wikipedia.org/wiki/Hyperloop
 Hyperloop is a proposed mode of passenger and freight transportation that propels a pod-like vehicle through a near-vacuum tube at more than airline speed.
 
+
+
+Metadata Extraction Tools
+
+- ExifTool by Phil Harvey
+Read, Write and Edit Meta Information!
+http://owl.phy.queensu.ca/~phil/exiftool/
+wiki: https://en.wikipedia.org/wiki/ExifTool
+
+-Metadata Extraction Tool
+Introduction
+The Metadata Extraction Tool was developed by the National Library of New Zealand to programmatically extract preservation metadata from a range of file formats like PDF documents, image files, sound files Microsoft office documents, and many others.
+http://meta-extractor.sourceforge.net/
