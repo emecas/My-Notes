@@ -2444,3 +2444,10 @@ wiki: https://en.wikipedia.org/wiki/ExifTool
 Introduction
 The Metadata Extraction Tool was developed by the National Library of New Zealand to programmatically extract preservation metadata from a range of file formats like PDF documents, image files, sound files Microsoft office documents, and many others.
 http://meta-extractor.sourceforge.net/
+
+
+
+
+Java Lambdas - Course
+Fast introduction in Java functional programming with lambdas 
+http://fruzenshtein-school.usefedora.com/p/java-lambdas
