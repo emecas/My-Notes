@@ -2451,3 +2451,9 @@ http://meta-extractor.sourceforge.net/
 Java Lambdas - Course
 Fast introduction in Java functional programming with lambdas 
 http://fruzenshtein-school.usefedora.com/p/java-lambdas
+
+
+
+CURL
+https://curl.haxx.se/
+command line tool and library for transferring data with URLs
