@@ -2452,8 +2452,19 @@ Java Lambdas - Course
 Fast introduction in Java functional programming with lambdas 
 http://fruzenshtein-school.usefedora.com/p/java-lambdas
 
-
+	
 
 CURL
 https://curl.haxx.se/
 command line tool and library for transferring data with URLs
+
+
+
+BoundedContext 
+https://www.martinfowler.com/bliki/BoundedContext.html
+Bounded Context is a central pattern in Domain-Driven Design. It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.
+
+
+
+
+
