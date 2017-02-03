@@ -2467,4 +2467,9 @@ Bounded Context is a central pattern in Domain-Driven Design. It is the focus of
 
 
 
+Legacy Application Strangulation : Case Studies 
+http://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/
+Strangulation of a legacy or undesirable solution is a safe way to phase one thing our for something better, cheaper, or more expandable. You make something new that obsoletes a small percentage of something old, and put them live together. You do some more work in the same style, and go live again (rinse, repeat). 
 
+StranglerApplication
+https://www.martinfowler.com/bliki/StranglerApplication.html
