@@ -2473,3 +2473,18 @@ Strangulation of a legacy or undesirable solution is a safe way to phase one thi
 
 StranglerApplication
 https://www.martinfowler.com/bliki/StranglerApplication.html
+
+
+
+
+Spock Framework
+http://spockframework.org/
+the enterprise ready specification framework
+
+Examples spockframework/spock-example
+https://github.com/spockframework/spock-example
+
+Ref1: 
+Using Spock to test Groovy AND Java applications
+https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/
+
