@@ -2499,3 +2499,16 @@ Apache Beam is:
 •PORTABLE - Execute pipelines on multiple execution environments, including Apache Apex, Apache Flink, Apache Spark, and Google Cloud Dataflow.
 •EXTENSIBLE - Write and share new SDKs, IO connectors, and transformation libraries.
 
+
+
+JPA Performance Benchmark (JPAB)
+http://www.jpab.org/
+About this Benchmark
+
+This is a comprehensive benchmark that compares the performance of different combinations of JPA providers and Database Management Systems (DBMS). It covers many JPA ORM providers (Hibernate, EclipseLink, OpenJPA and DataNucleus) and DBMS (MySQL, PostgreSQL, Derby, HSQLDB, H2, HSQLite) that are available in Java.
+
+The benchmark is published by ObjectDB Software Ltd., but it should be useful also for anyone that is interested only in RDBMS and ORM (and not in object databases). Please read the FAQ for more details. 
+
+Results:
+http://www.jpab.org/All/All/All.html
+
