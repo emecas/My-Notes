@@ -2564,3 +2564,10 @@ Unidirectional data flow, Real time apps.
 Advantages of monolithic version control 
 By Dan Luu may 2015
 http://danluu.com/monorepo/
+
+
+
+
+Recurse Center 
+https://www.recurse.com/
+Founded in 2011, the Recurse Center is a free, self-directed, educational retreat for people who want to get better at programming, whether they've been coding for three decades or three months. Participants come from around the world for 12-week batches in New York, where they write open source software and grow together as programmers in a friendly, intellectual, and energizing environment.
