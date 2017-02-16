@@ -2602,6 +2602,15 @@ This document contains a list of all of the documentation areas for AD FS for Wi
 •AD FS Technical Reference
 
 
+Layered Architecture Is Good 
+https://dzone.com/articles/layered-architecture-is-good
+By   Grzegorz Ziemoński
+Layered Architecture is about organizing code for separation of concerns and nothing else. See what it implies for a project like Spring Pet Clinic.
+	The presentation layer
+	The application layer 
+	The domain layer 
+	The infrastructure layer (also known as the persistence layer)
+
 
 
 
