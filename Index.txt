@@ -2588,3 +2588,8 @@ Security Assertion Markup Language 2.0 (SAML 2.0) is a version of the SAML stand
 
 SAML 2.0 was ratified as an OASIS Standard in March 2005, replacing SAML 1.1. The critical aspects of SAML 2.0 are covered in detail in the official documents SAMLConform,[2] SAMLCore,[3] SAMLBind,[4] and SAMLProf.[5]
 
+
+
+
+Hexagonal Architecture Is Powerful 
+https://dzone.com/articles/hexagonal-architecture-is-powerful
