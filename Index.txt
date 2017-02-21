@@ -2590,6 +2590,50 @@ SAML 2.0 was ratified as an OASIS Standard in March 2005, replacing SAML 1.1. Th
 
 
 
+Active Directory Federation Services
+https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services
+Applies To: Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 
+This document contains a list of all of the documentation areas for AD FS for Windows Server 2016, 2012 R2, and 2012. This includes the following: 
+•AD FS Overview
+•AD FS Design
+•AD FS Deployment
+•AD FS Development
+•AD FS Operations
+•AD FS Technical Reference
+
+
+
+
 
 Hexagonal Architecture Is Powerful 
 https://dzone.com/articles/hexagonal-architecture-is-powerful
+
+Hexagonal architecture
+Aditional Ref: http://alistair.cockburn.us/Hexagonal+architecture
+By Alistair Cockburn.
+The Pattern: Ports and Adapters (‘’Object Structural’’) 
+	Alternative name: ‘’Ports & Adapters’’ 
+	Alternative name: ‘’Hexagonal Architecture’’ 
+	Intent 
+	Motivation 
+	Nature of the Solution 
+	Structure 
+	Sample Code 
+		Stage 1: FIT  App  constant-as-mock-database
+		Stage 2: UI  App  constant-as-mock-database 
+		Stage 3: (FIT or UI)  App  mock database 
+	Application Notes 
+		The Left-Right Asymmetry 
+		Use Cases And The Application Boundary 
+		How Many Ports? 
+	Known Uses 
+	Distributed, Large-Team Development 
+	Related Patterns 
+		Adapter 
+		Model-View-Controller 
+		Mock Objects and Loopback 
+		Pedestals 
+		Checks 
+	References and Related Reading 
+	
+	
