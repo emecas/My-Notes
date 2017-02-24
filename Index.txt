@@ -2646,3 +2646,15 @@ The Pattern: Ports and Adapters (‘’Object Structural’’)
 	References and Related Reading 
 	
 	
+	
+	
+WebStorm (IDE) 	
+https://www.jetbrains.com/webstorm/
+WebStorm 2016.3.3
+Build #WS-163.12024.17, built on January 31, 2017
+JRE: 1.8.0_112-release-408-b6 x86
+JVM: OpenJDK Server VM by JetBrains s.r.o
+
+Third-Party OpenSource Used by WebStorm:
+https://confluence.jetbrains.com/display/WI/Third-Party+Software+Used+by+WebStorm
+
