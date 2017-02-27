@@ -2658,3 +2658,33 @@ JVM: OpenJDK Server VM by JetBrains s.r.o
 Third-Party OpenSource Used by WebStorm:
 https://confluence.jetbrains.com/display/WI/Third-Party+Software+Used+by+WebStorm
 
+
+
+An easier path to functional programming in Java
+http://www.ibm.com/developerworks/library/j-java8idioms1/index.html
+By Venkat Subramaniam
+Published on February 15, 2017/Updated: February 24, 2017
+Contents
+
+    Introduction
+    The imperative style
+    The declarative style
+    The functional style
+    A functional programming example
+    Conclusion
+    Downloadable resources
+    Related topics
+    Comments
+
+PDF: http://www.ibm.com/developerworks/library/j-java8idioms1/j-java8idioms1-pdf.pdf
+
+Related topics
+
+    Java 8 language changes
+	https://www.ibm.com/developerworks/library/j-java8lambdas/
+    Java 8 concurrency basics
+	http://www.ibm.com/developerworks/library/j-jvmc2/index.html
+    Functional thinking, Part 1: Learn to think like a functional programmer
+	http://www.ibm.com/developerworks/library/j-ft1/
+    Functional Programming in Java: The Pragmatic Bookshelf, 2014
+	https://pragprog.com/book/vsjava8/functional-programming-in-java
