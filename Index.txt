@@ -2710,6 +2710,14 @@ Think you might like to become a teleworker? You're about to find out everything
 
 Telework!VA offers tips and guidelines to help you launch a new teleworking program at your company. Or if you're already teleworking, this is the place to find ideas about how you can benefit even more from your experience.
 
+
+
+
+
+JPad
+http://jpad.io/
+Java Scratchpad - Instantly write java snippets and see nicely formatted results.
+
 For a step-by-step guide on getting management excited about telework, see the E-Learning module, How to sell telework to the decision makers at your organization.
 
 
