@@ -2688,3 +2688,10 @@ Related topics
 	http://www.ibm.com/developerworks/library/j-ft1/
     Functional Programming in Java: The Pragmatic Bookshelf, 2014
 	https://pragprog.com/book/vsjava8/functional-programming-in-java
+	
+	
+	
+	
+Test Project Blog
+http://blog.testproject.io/
+TestProject’s blog is about providing you everything you need to know about test automation. We created this helpful platform in order to share interesting yet informative articles for any test automation enthusiast. Starting today, you can stay updated with news and latest trends, researches and best practice magazine articles on JavaScript, Selenium, Appium, unit testing, API, mobile testing etc.
