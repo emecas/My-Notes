@@ -2688,6 +2688,7 @@ Related topics
 	http://www.ibm.com/developerworks/library/j-ft1/
     Functional Programming in Java: The Pragmatic Bookshelf, 2014
 	https://pragprog.com/book/vsjava8/functional-programming-in-java
+<<<<<<< HEAD
 	
 	
 	
@@ -2695,3 +2696,38 @@ Related topics
 Test Project Blog
 http://blog.testproject.io/
 TestProject’s blog is about providing you everything you need to know about test automation. We created this helpful platform in order to share interesting yet informative articles for any test automation enthusiast. Starting today, you can stay updated with news and latest trends, researches and best practice magazine articles on JavaScript, Selenium, Appium, unit testing, API, mobile testing etc.
+=======
+
+
+
+Telework VA
+http://www.teleworkva.org/
+The most productive workers aren't always at work
+
+For Teleworkers
+
+    Are You a Candidate for Telework?
+	http://teleworkva.org/forTeleworkers/candidate.aspx
+    How to Sell a Telework Program to Your Boss
+	http://teleworkva.org/forTeleworkers/boss.aspx
+    How to Telework Successfully
+	http://teleworkva.org/forTeleworkers/success.aspx
+    Frequently Asked Questions
+	http://teleworkva.org/forTeleworkers/faq.aspx
+
+Think you might like to become a teleworker? You're about to find out everything you need to know to get started.
+
+Telework!VA offers tips and guidelines to help you launch a new teleworking program at your company. Or if you're already teleworking, this is the place to find ideas about how you can benefit even more from your experience.
+
+
+
+
+
+JPad
+http://jpad.io/
+Java Scratchpad - Instantly write java snippets and see nicely formatted results.
+
+For a step-by-step guide on getting management excited about telework, see the E-Learning module, How to sell telework to the decision makers at your organization.
+
+
+>>>>>>> 3d0a140a7d665d042fe420f9ef56558027ed6625
