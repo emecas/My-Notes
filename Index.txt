@@ -2727,3 +2727,8 @@ Java Scratchpad - Instantly write java snippets and see nicely formatted results
 For a step-by-step guide on getting management excited about telework, see the E-Learning module, How to sell telework to the decision makers at your organization.
 
 
+
+
+Windows Symbolic Links
+Using "MKLINK": 
+http://www.howtogeek.com/howto/windows-vista/using-symlinks-in-windows-vista/
