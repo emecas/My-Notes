@@ -2748,3 +2748,41 @@ Running images:
 https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images
 
 
+
+
+Running Git-Jekyll website locally with Docker
+
+Clone the repo and run the following docker container: docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve
+Browser the site by visiting http://localhost:4000
+
+Repo:
+
+$ git clone https://github.com/play-with-docker/play-with-docker.github.io.git
+Cloning into 'play-with-docker.github.io'...
+remote: Counting objects: 586, done.
+remote: Compressing objects: 100% (59/59), done.
+remote: Total 586 (delta 26), reused 0 (delta 0), pack-reused 526
+Receiving objects: 100% (586/586), 18.52 MiB | 1.12 MiB/s, done.
+Resolving deltas: 100% (277/277), done.
+
+
+PS C:\Users\abc\repos\PERSONAL\play-with-docker.github.io> docker run --rm --label=jekyll --volume=C:\Users\abc\repos\PERSONAL\play-with-docker.github.io:/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve
+Unable to find image 'jekyll/jekyll:latest' locally
+latest: Pulling from jekyll/jekyll
+baf40e071063: Pull complete
+70acac711d95: Pull complete
+Digest: sha256:3100e706aded7c33f42db3c29e576d080fe89e9b5c254b29c42d52a17c9365ec
+Status: Downloaded newer image for jekyll/jekyll:latest
+Configuration file: /srv/jekyll/_config.yml
+Configuration file: /srv/jekyll/_config.yml
+            Source: /srv/jekyll
+       Destination: /srv/jekyll/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+                    done in 7.738 seconds.
+ Auto-regeneration: enabled for '/srv/jekyll'
+Configuration file: /srv/jekyll/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+[2017-03-09 22:13:35] ERROR `/favicon.ico' not found.
+[2017-03-09 22:13:35] ERROR `/favicon.ico' not found.
