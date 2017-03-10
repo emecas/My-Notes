@@ -2786,3 +2786,17 @@ Configuration file: /srv/jekyll/_config.yml
   Server running... press ctrl-c to stop.
 [2017-03-09 22:13:35] ERROR `/favicon.ico' not found.
 [2017-03-09 22:13:35] ERROR `/favicon.ico' not found.
+
+
+
+How to be Effective at Working Remotely
+By Brady Voss
+https://medium.com/facebook-design/how-to-be-effective-at-working-remotely-b832a0eaa933
+	Over-communicate
+	Move Quickly
+	Build Trust
+	Openly Voicing Your Opinion
+	Be a Leader
+	Set Expectations
+	Get Physical Face Time
+
