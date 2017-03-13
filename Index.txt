@@ -2799,4 +2799,10 @@ https://medium.com/facebook-design/how-to-be-effective-at-working-remotely-b832a
 	Be a Leader
 	Set Expectations
 	Get Physical Face Time
+	
+	
+
+Aurelia
+http://aurelia.io/
+Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity. 
 
