@@ -2812,3 +2812,83 @@ Get started with Docker for Windows
 https://docs.docker.com/docker-for-windows/
 Welcome to Docker for Windows!
 Docker is a full development platform for creating containerized apps, and Docker for Windows is the best way to get started with Docker on Windows systems.
+
+
+
+
+
+Serverless Architectures
+https://www.martinfowler.com/articles/serverless.html
+By Mike Roberts
+Serverless architectures refer to applications that significantly depend on third-party services (knows as Backend as a Service or "BaaS") or on custom code that's run in ephemeral containers (Function as a Service or "FaaS"), the best known vendor host of which currently is AWS Lambda. By using these ideas, and by moving much behavior to the front end, such architectures remove the need for the traditional 'always on' server system sitting behind an application. Depending on the circumstances, such systems can significantly reduce operational cost and complexity at a cost of vendor dependencies and (at the moment) immaturity of supporting services. 
+
+Contents
+
+    What is Serverless?
+        A couple of examples
+            UI-driven applications
+            Message-driven applications
+        Unpacking ‘Function as a Service’
+            State
+            Execution Duration
+            Startup Latency
+            API Gateway
+            Tooling
+            Open Source
+        What isn’t Serverless?
+            Comparison with PaaS
+            Comparison with containers
+            #NoOps
+            Stored Procedures as a Service
+    Benefits
+        Reduced operational cost
+        BaaS - reduced development cost
+        FaaS - scaling costs
+            Example - occasional requests
+            Example - inconsistent traffic
+            Optimization is the root of some cost savings
+        Easier Operational Management
+            Scaling benefits of FaaS beyond costs
+            Reduced packaging and deployment complexity
+            Time to market / experimentation
+        ‘Greener’ computing?
+    Drawbacks
+        Inherent Drawbacks
+            Vendor control
+            Multitenancy Problems
+            Vendor lock-in
+            Security concerns
+            Repetition of logic across client platforms
+            Loss of Server optimizations
+            No in-server state for Serverless FaaS
+        Implementation Drawbacks
+            Configuration
+            DoS yourself
+            Execution Duration
+            Startup Latency
+            Testing
+            Deployment / packaging / versioning
+            Discovery
+            Monitoring / Debugging
+            API Gateway definition, and over-ambitious API Gateways
+            Deferring of operations
+    The Future of Serverless
+        Mitigating the Drawbacks
+            Tooling
+            State Management
+            Platform Improvements
+            Education
+            Increased transparency / clearer expectations from Vendors
+        The emergence of patterns
+        Beyond ‘FaaSification’
+        Testing
+        Portable implementations
+            Abstractions over Vendor implementations
+            Deployable implementations
+        Community
+    Conclusion
+
+Sidebars
+
+    Origin of ‘Serverless’
+
