@@ -2901,3 +2901,8 @@ VM2Docker: Automating the Conversion from Virtual Machine to Docker Container
 https://dspace.mit.edu/bitstream/handle/1721.1/100683/933231519-MIT.pdf?sequence=1
 by Eric Lubin
 Related repo: https://github.com/ecbtln/vm2docker
+
+shutit_copyserver - Copy a server into a docker container using blueprint 
+github: https://github.com/ianmiell/shutit_copyserver
+Original: https://zwischenzugs.wordpress.com/2015/05/24/convert-any-server-to-a-docker-container/
+
