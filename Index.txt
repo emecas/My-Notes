@@ -2892,3 +2892,12 @@ Sidebars
 
     Origin of ‘Serverless’
 
+
+	
+	
+	
+	
+VM2Docker: Automating the Conversion from Virtual Machine to Docker Container	
+https://dspace.mit.edu/bitstream/handle/1721.1/100683/933231519-MIT.pdf?sequence=1
+by Eric Lubin
+Related repo: https://github.com/ecbtln/vm2docker
