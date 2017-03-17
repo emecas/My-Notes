@@ -2928,4 +2928,19 @@ The following open source components are baked into Apollo core:
 
     Terraform: Terraform allows you to rapidly and consistently spin up resources in the cloud. Think Amazon Cloud Formation / OpenStack Heat but cloud agnostic. We’ve already built terraform plans that allow you to spin up Amazon VPC and Digitalocean public cloud. We’re looking to expand that with support for Rackspace(Openstack) and Microsoft Azure. https://www.terraform.io/
 
+	
+
+	
+	
+Restcomm is the Open Source Cloud Communications platform
+https://www.restcomm.com/product/	
+
+Restcomm is a next generation Cloud Communications Platform to rapidly build voice and text messaging applications, using mainstream web development skills. Restcomm is a turnkey Cloud Communications solution from Telestax, Inc. 
+
+Restcomm is the Open Source Cloud Communications platform.
+
+Developers: Build, test and sell your next telephony app on the Restcomm App Store in a matter of hours. Focus on creating, not babysitting. Let service providers be your sales force.
+
+Businesses: Choose from a rich catalog of telephony apps available in the Restcomm App Store. Don’t reinvent the wheel. Customize it.
+
 
