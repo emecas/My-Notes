@@ -2969,3 +2969,23 @@ Scientists can identify the triggers of photosensitive epileptic seizures, like 
 
 A Man Was Charged for Allegedly Sending Seizure-Inducing GIF via Twitter
 https://www.vice.com/en_uk/article/a-man-was-charged-for-allegedly-sending-seizure-inducing-gif-via-twitter
+
+
+
+Docker Containers on the Desktop
+By  Jessie Frazelle 
+https://blog.jessfraz.com/post/docker-containers-on-the-desktop/
+
+Main idea: "I hate installing things on my host and the files getting everywhere. I wanted the ability to delete an app and know it is gone fully without some random file hanging around. This gave me that. Not only that, I can control how much CPU and Memory the app uses. Yes, the cpu/memory hungry chrome is now perfectly contained!
+
+“What?!?!”, you say. Let me show you.
+
+The following covers a few of my favorite applications I run in containers. Each of the commands written below is actually pulled directly from my bash aliases. So you can have the same user experience as running one command today."
+
+Refs: 
+Dockerfiles live here: 
+github.com/jessfraz/dockerfiles 
+All my docker images are on the hub: 
+hub.docker.com/u/jess
+
+
