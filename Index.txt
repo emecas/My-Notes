@@ -2964,7 +2964,9 @@ http://royal.pingdom.com/wp-content/uploads/2015/04/pingdom_uptime_cheat_sheet.p
 
 
 So How Exactly Does a GIF Cause a Seizure?
-https://motherboard.vice.com/en_us/article/so-how-exactly-does-a-gif-cause-a-seizure
+https://motherboard.vice.com/en_us/article/so-how-exactly-does-a-gif-cause-a-seizur
+
+
 Scientists can identify the triggers of photosensitive epileptic seizures, like strobes, but working out why these seizures happen is a little harder.
 
 A Man Was Charged for Allegedly Sending Seizure-Inducing GIF via Twitter
@@ -2991,6 +2993,9 @@ hub.docker.com/u/jess
 
 
 
+ 
+
+
 
 JWT - JSON Web Tokens
 https://jwt.io/
@@ -3001,3 +3006,19 @@ JWT.IO allows you to decode, verify and generate JWT.
 JSON Web Token (JWT)
 REF:  https://tools.ietf.org/html/rfc7519
 
+
+
+
+Technology Radar
+https://www.thoughtworks.com/radar
+By ThoughtWorks
+Every six months or so, ThoughtWorks publishes its Technology Radar. What started as an interesting experiment has turned into quite a notable publication, which gets lots of attention from our clients and other netizens.
+
+The radar is a document that sets out the changes that we think are currently interesting in software development - things in motion that we think you should pay attention to and consider using in your projects. It reflects the idiosyncratic opinion of a bunch of senior technologists based on our day-to-day work and experiences. While we think this is interesting, it should not be taken as a deep market analysis.
+
+FAQ:
+https://www.thoughtworks.com/radar/faq
+
+
+
+As the radar has made more and more of a splash, we run into common questions about it - why it has the format it has and how we come up with it. So we've put together this FAQ.
