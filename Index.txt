@@ -3022,3 +3022,18 @@ https://www.thoughtworks.com/radar/faq
 
 
 As the radar has made more and more of a splash, we run into common questions about it - why it has the format it has and how we come up with it. So we've put together this FAQ.
+
+
+
+
+
+Visualizations:
+
+
+1.  Visualizing Influence Relations of Programming Languages
+Explanation: https://exploringdata.github.io/info/programming-languages-influence-network/
+URL: https://exploringdata.github.io/vis/programming-languages-influence-network/
+GitHub: https://github.com/yaph/programming-languages-influence
+
+
+
