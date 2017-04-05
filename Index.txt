@@ -3052,3 +3052,14 @@ JRJC currently provides a thin layer of abstraction on top of REST API and relat
 In the future though JRJC may be extended to handle things like caching (conditional GET, metadata) or provide a higher level of abstraction on top of existing REST API - completely shielding the user from the specifics of REST.
 
 JRJC should be useful for integrating systems using JVM-based languages (like Java) with JIRA and specifically for integrating Atlassian products with themselves.
+
+
+
+NFJS, the Magazine (No Fluff Just Stuff)
+https://nofluffjuststuff.com/home/magazine_subscribe
+About NFJS, the Magazine
+Includes an eclectic mix of articles centered on software development.
+Outstanding content that is easily consumed
+Covers the latest development tools, methods, and best practices
+All authors are speakers on the No Fluff Just Stuff Tour 
+Makes a great reference
