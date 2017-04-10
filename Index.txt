@@ -3074,3 +3074,16 @@ https://mastodon.social/about
 Mastodon is a free, open-source social network. A decentralized alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust — whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the social network seamlessly.
 
 Github: https://github.com/tootsuite/mastodon
+
+
+
+
+Installing Scala on CentOS
+https://decisionstats.com/2014/04/15/installing-scala-on-centos/
+
+wget http://www.scala-lang.org/files/archive/scala-2.10.1.tgz
+tar xvf scala-2.10.1.tgz
+sudo mv scala-2.10.1 /usr/lib
+sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala
+export PATH=$PATH:/usr/lib/scala/bin
+scala -version
