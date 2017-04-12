@@ -3087,3 +3087,21 @@ sudo mv scala-2.10.1 /usr/lib
 sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala
 export PATH=$PATH:/usr/lib/scala/bin
 scala -version
+
+
+
+
+
+
+RESTIFYDB
+http://restifydb.com
+Expose your databases as REST web services in minutes
+
+Ever wondered how complicated it would be to expose data to your customers as ready to be consumed REST web services? To allow them to connect to your data sources without knowing anything about how these data sources are organizes or without caring about different SQL dialects? What if they could discover on the fly all they need to know about your data sources? All this becomes easy with restifydb. The fact that is has been entirely written in PHP means that the software and hardware requirements are minimal. Here are some features which make restifydb unique
+
+	Automatic query expansion
+	Inward references detection
+	Advanced logging features
+	Very easy to set up
+	Easy to read documentation
+	Powerful demo applications
