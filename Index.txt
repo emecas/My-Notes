@@ -3105,3 +3105,11 @@ Ever wondered how complicated it would be to expose data to your customers as re
 	Very easy to set up
 	Easy to read documentation
 	Powerful demo applications
+
+	
+
+	
+	
+Book: Domain Driven Design
+By Eric Evans
+https://books.google.com/books/about/Domain_driven_Design.html?id=7dlaMs0SECsC
