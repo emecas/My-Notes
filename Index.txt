@@ -3113,3 +3113,12 @@ Ever wondered how complicated it would be to expose data to your customers as re
 Book: Domain Driven Design
 By Eric Evans
 https://books.google.com/books/about/Domain_driven_Design.html?id=7dlaMs0SECsC
+
+
+
+
+The Gowalla Dataset
+The dataset is available in from https://snap.stanford.edu/data/loc-gowalla.html
+The Gowalla dataset provides the anonymozed users who are registering at a specific geolocated venue at a specific timestamp.
+
+
