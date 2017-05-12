@@ -3124,6 +3124,20 @@ The Gowalla dataset provides the anonymozed users who are registering at a speci
 
 
 
-Top-like interface for container metrics 
+ctop: Top-like interface for container metrics 
 http://ctop.sh 
 https://github.com/bcicen/ctop
+
+
+
+
+Vim - Creating your own syntax files
+http://vim.wikia.com/wiki/Creating_your_own_syntax_files
+
+Ref:
+http://stackoverflow.com/questions/31238492/writing-ics-ical-file-using-java
+	http://stackoverflow.com/a/31238691/833336
+		http://severinghaus.org/projects/icv/
+			http://severinghaus.org/projects/icalendar-validator
+				icalendar.vim : Syntax file for icalendar files
+				http://www.vim.org/scripts/script.php?script_id=1519
