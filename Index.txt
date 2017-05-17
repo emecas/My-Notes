@@ -3141,3 +3141,56 @@ http://stackoverflow.com/questions/31238492/writing-ics-ical-file-using-java
 			http://severinghaus.org/projects/icalendar-validator
 				icalendar.vim : Syntax file for icalendar files
 				http://www.vim.org/scripts/script.php?script_id=1519
+
+				
+				
+				
+				
+				
+73. Embedded servlet containers
+Part IX. ‘How-to’ guides
+https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html
+73. Embedded servlet containers
+
+    73.1. Add a Servlet, Filter or Listener to an application
+
+        73.1.1. Add a Servlet, Filter or Listener using a Spring bean
+
+            Disable registration of a Servlet or Filter
+
+        73.1.2. Add Servlets, Filters, and Listeners using classpath scanning
+
+    73.2. Change the HTTP port
+    73.3. Use a random unassigned HTTP port
+    73.4. Discover the HTTP port at runtime
+    73.5. Configure SSL
+    73.6. Configure Access Logging
+    73.7. Use behind a front-end proxy server
+
+        73.7.1. Customize Tomcat’s proxy configuration
+
+    73.8. Configure Tomcat
+    73.9. Enable Multiple Connectors with Tomcat
+    73.10. Use Tomcat’s LegacyCookieProcessor
+    73.11. Use Jetty instead of Tomcat
+    73.12. Configure Jetty
+    73.13. Use Undertow instead of Tomcat
+    73.14. Configure Undertow
+    73.15. Enable Multiple Listeners with Undertow
+    73.16. Use Tomcat 7.x or 8.0
+
+        73.16.1. Use Tomcat 7.x or 8.0 with Maven
+        73.16.2. Use Tomcat 7.x or 8.0 with Gradle
+
+    73.17. Use Jetty 9.2
+
+        73.17.1. Use Jetty 9.2 with Maven
+        73.17.2. Use Jetty 9.2 with Gradle
+
+    73.18. Use Jetty 8
+
+        73.18.1. Use Jetty 8 with Maven
+        73.18.2. Use Jetty 8 with Gradle
+
+    73.19. Create WebSocket endpoints using @ServerEndpoint
+    73.20. Enable HTTP response compression
