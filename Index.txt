@@ -3194,3 +3194,20 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-se
 
     73.19. Create WebSocket endpoints using @ServerEndpoint
     73.20. Enable HTTP response compression
+	
+	
+	
+	
+
+Introduction to HTML Applications (HTAs)
+https://msdn.microsoft.com/en-us/library/ms536496%28v=vs.85%29.aspx
+The power to build HTML Applications (HTAs) brings Windows Internet Explorer to the fore as a viable Windows development platform. HTAs are full-fledged applications. These applications are trusted and display only the menus, icons, toolbars, and title information that the web developer creates. In short, HTAs pack all the power of Internet Explorer—its object model, performance, rendering power and protocol support—without enforcing the strict security model and user interface of the browser.
+Content: Updated: May 2011
+    Why Use HTAs 
+    Creating an HTA 
+        HTA-Specific Functionality 
+    The Power of Trust: HTAs and Security 
+    Compatibility 
+    HTA Deployment 
+    Conclusion 
+    Related Topics
