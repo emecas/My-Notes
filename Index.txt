@@ -3211,3 +3211,11 @@ Content: Updated: May 2011
     HTA Deployment 
     Conclusion 
     Related Topics
+	
+	
+	
+
+Lineage 
+LineageOS will be a continuation of what CyanogenMod was. 
+Created by LineageOS Project 
+https://www.lineageos.org/about/
