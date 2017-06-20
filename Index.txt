@@ -3219,3 +3219,19 @@ Lineage
 LineageOS will be a continuation of what CyanogenMod was. 
 Created by LineageOS Project 
 https://www.lineageos.org/about/
+
+
+
+
+Lucee
+http://lucee.org
+Lucee Server is a dynamic, Java based (JSR-223), tag and scripting language used for rapid web application development. Lucee simplifies technologies like webservices (REST, SOAP, HTTP), ORM (Hibernate), searching (Lucene), datasources (MSSQL, Oracle, MySQL and others), caching (infinispan, ehcache, and memcached) and many more. Lucee provides a… 
+
+Lucee is a JVM language running as a servlet on just about any servlet container; including Apache Tomcat, Eclipse Jetty, JBoss AS, and GlassFish.
+
+Repo: https://github.com/lucee/Lucee
+
+Official Dockerfiles and Docker images
+https://github.com/lucee/lucee-dockerfiles
+
+
