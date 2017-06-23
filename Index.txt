@@ -3246,3 +3246,58 @@ coala is a language independent analysis toolkit. It empowers developers to crea
 coala has a set of official bears (plugins) to provide an out-of-the-box analysis functionality for many popular languages in addition to some generically applicable algorithms.
 
 Repo: https://github.com/coala/coala
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OptiKey 
+https://github.com/OptiKey/OptiKey/wiki
+Full computer control and speech with your eyes http://www.optikey.org
+
+OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).
+
+OptiKey was written to challenge the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products on the market. It is, therefore, fully open-source and free. Forever.
+
+Repo: https://github.com/OptiKey/OptiKey
+
+Using webcams
+https://github.com/OptiKey/OptiKey/wiki/Using-webcams
+
+Related Software:
+
+	Enable Viacam
+	http://eviacam.sourceforge.net/index.php
+	Repo: https://github.com/cmauri/eviacam
+	Androif Version: https://github.com/cmauri/eva_facial_mouse
+
+	Camera Mouse 
+	http://www.cameramouse.org/
+
+	Opengazer: open-source gaze tracker for ordinary webcams
+	http://www.inference.org.uk/opengazer/
+	REPO SVN: https://sourceforge.net/p/opengazer/code/HEAD/tree/
