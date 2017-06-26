@@ -3301,3 +3301,13 @@ Related Software:
 	Opengazer: open-source gaze tracker for ordinary webcams
 	http://www.inference.org.uk/opengazer/
 	REPO SVN: https://sourceforge.net/p/opengazer/code/HEAD/tree/
+	
+	
+
+	
+	
+Protractor 
+http://www.protractortest.org/
+Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would. 
+
+repo: https://github.com/angular/protractor
