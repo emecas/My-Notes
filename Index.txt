@@ -3324,3 +3324,72 @@ It also facilitates the integration of powerful JavaScript libraries thanks to a
 https://github.com/dandelion
 
 Repos: https://github.com/dandelion
+
+
+
+
+
+C# Version History:
+http://www.tutorialsteacher.com/csharp/csharp-version-history
+
+Version	.NET Framework	Visual Studio	Important Features
+C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002	
+Basic features
+C# 2.0	.NET Framework 2.0	Visual Studio 2005	
+Generics
+Partial types
+Anonymous methods
+Iterators
+Nullable types
+Private setters (properties)
+Method group conversions (delegates)
+Covariance and Contra-variance
+Static classes
+C# 3.0	.NET Framework 3.0\3.5	Visual Studio 2008	
+Implicitly typed local variables
+Object and collection initializers
+Auto-Implemented properties
+Anonymous types
+Extension methods
+Query expressions
+Lambda expressions
+Expression trees
+Partial Methods
+C# 4.0	.NET Framework 4.0	Visual Studio 2010	
+Dynamic binding (late binding)
+Named and optional arguments
+Generic co- and contravariance
+Embedded interop types
+C# 5.0	.NET Framework 4.5	Visual Studio 2012/2013	
+Async features
+Caller information
+C# 6.0	.NET Framework 4.6	Visual Studio 2013/2015	
+Expression Bodied Methods
+Auto-property initializer
+nameof Expression
+Primary constructor
+Await in catch block
+Exception Filter
+String Interpolation
+
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7
+C# 7 adds a number of new features to the C# language:1
+out variables:
+You can declare out values inline as arguments to the method where they are used.
+Tuples
+You can create lightweight, unnamed types that contain multiple public fields. Compilers and IDE tools understand the semantics of these types.
+Pattern Matching
+You can create branching logic based on arbitrary types and values of the members of those types.
+ref locals and returns
+Method arguments and local variables can be references to other storage.
+Local Functions
+You can nest functions inside other functions to limit their scope and visibility.
+More expression-bodied members
+The list of members that can be authored using expressions has grown.
+throw Expressions
+You can throw exceptions in code constructs that previously were not allowed because throw was a statement.
+Generalized async return types
+Methods declared with the async modifier can return other types in addition to Task and Task<T>.
+Numeric literal syntax improvements
+New tokens improve readability for numeric constants.
+The remainder of this topic discusses each of the features. For each feature, you'll learn the reasoning behind it. You'll learn the syntax. You'll see some sample scenarios where using the new feature will make you more productive as a developer.
