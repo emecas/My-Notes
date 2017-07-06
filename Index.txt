@@ -3393,3 +3393,31 @@ Methods declared with the async modifier can return other types in addition to T
 Numeric literal syntax improvements
 New tokens improve readability for numeric constants.
 The remainder of this topic discusses each of the features. For each feature, you'll learn the reasoning behind it. You'll learn the syntax. You'll see some sample scenarios where using the new feature will make you more productive as a developer.
+
+
+
+
+
+
+Hyperledger
+https://www.hyperledger.org/
+Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, IoT, supply chain, manufacturing and technology.
+
+Projects: Business Blockchain Frameworks Hosted with Hyperledger
+
+Hyperledger Burrow
+Hyperledger Burrow provides a modular blockchain client with a permissioned smart contract interpreter partially developed to the specification of the Ethereum Virtual Machine (EVM).
+
+Hyperledger Fabric
+Hyperledger Fabric is an implementation of blockchain technology that is intended as a foundation for developing blockchain applications or solutions.
+
+Hyperledger Iroha
+Hyperledger Iroha is a distributed ledger project that was designed to be simple and easy to incorporate into infrastructural projects requiring distributed ledger technology.
+
+Hyperledger Sawtooth
+Hyperledger Sawtooth is a modular blockchain suite designed for versatility and scalability.
+
+Hyperledger Indy
+Hyperledger Indy provides tools, libraries, and reusable components for interoperable digital identities rooted on blockchains or other distributed ledgers.
+
+Ref: https://github.com/ITPeople-Blockchain/auction
