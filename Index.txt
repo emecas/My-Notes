@@ -3421,3 +3421,13 @@ Hyperledger Indy
 Hyperledger Indy provides tools, libraries, and reusable components for interoperable digital identities rooted on blockchains or other distributed ledgers.
 
 Ref: https://github.com/ITPeople-Blockchain/auction
+
+
+
+
+
+Blog: Holistic Security and Technology 
+https://holisticsecurity.io
+Open Source, Security, BigData, DevOps in SDLC and Cloud 
+by Roger CARHUATOCTO (chilcano)
+With The Systems Thinking approach, We see any problem in a complete and holistic manner, in fact, it is possible to apply Systems Thinking Methodology to ITSec problems allowing to incorporate new variables (usability, trust, quality, risk, etc.) to the problem that before was not considered in the solution.
