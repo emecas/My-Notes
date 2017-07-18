@@ -3431,3 +3431,22 @@ https://holisticsecurity.io
 Open Source, Security, BigData, DevOps in SDLC and Cloud 
 by Roger CARHUATOCTO (chilcano)
 With The Systems Thinking approach, We see any problem in a complete and holistic manner, in fact, it is possible to apply Systems Thinking Methodology to ITSec problems allowing to incorporate new variables (usability, trust, quality, risk, etc.) to the problem that before was not considered in the solution.
+
+
+
+
+
+RAML (RESTful API Modeling Language)
+https://raml.org/
+The simplest way to design APIs
+RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly. 
+
+REST is used in the context of an API implemented using some or all of the principles of REST (Representational State Transfer), which was introduced and first defined in 2000 in Chapter 5, REST, of the doctoral dissertation "Architectural Styles and the Design of Network-based Software Architecture" by Roy Fielding.
+
+
+Specification
+https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/
+
+
+A RAML parser based on SnakeYAML written in Java 
+https://github.com/raml-org/raml-java-parser
