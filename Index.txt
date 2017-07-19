@@ -3450,3 +3450,25 @@ https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/
 
 A RAML parser based on SnakeYAML written in Java 
 https://github.com/raml-org/raml-java-parser
+
+
+
+
+
+
+Shibboleth (Internet2)
+https://en.wikipedia.org/wiki/Shibboleth_(Internet2)
+https://shibboleth.net/
+Shibboleth is a standards based, open source software package for web single sign-on across or within organizational boundaries. It allows sites to make informed authorization decisions for individual access of protected online resources in a privacy-preserving manner.
+The Shibboleth software implements widely used federated identity standards, principally the OASIS Security Assertion Markup Language (SAML), to provide a federated single sign-on and attribute exchange framework. A user authenticates with his or her organizational credentials, and the organization (or identity provider) passes the minimal identity information necessary to the service provider to enable an authorization decision. Shibboleth also provides extended privacy functionality allowing a user and their home site to control the attributes released to each application.
+The Shibboleth project began as an Internet2 Middleware activity in 2000, and later that year the project connected with the work of the OASIS SAML Working Group. Shibboleth 1.0 was released in 2003, and was quickly adopted by research and education communities worldwide. With SAML 2.0 in 2005 and Shibboleth 2.0 the following year, the SAML standards grew to include all the multi-lateral, metadata driven approaches pioneered by Shibboleth.
+Shibboleth is developed as open source software and is released under the Apache Software License. More information about the individual components is available on the Products page.
+
+Shibboleth® is a registered trademark of Internet2®.
+
+Source Code
+https://wiki.shibboleth.net/confluence/display/DEV/Source+Code+Access
+Community
+https://shibboleth.net/community/
+
+
