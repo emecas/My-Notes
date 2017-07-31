@@ -3481,3 +3481,27 @@ Turbo Shredder securely removes files.
 https://sourceforge.net/projects/turboshredder/
 Source : https://sourceforge.net/projects/turboshredder/files/src/
 
+
+
+
+JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)
+Owner: Robert Field
+Created 2014/05/16 23:13
+Updated 2017/06/09 04:21
+Type Feature
+Status Closed / Delivered
+Component tools / jshell
+Scope JDK
+Discussion 
+kulla dash dev at openjdk dot java dot net
+Effort L
+Duration L
+Priority 2
+Reviewed by Alex Buckley, Brian Goetz
+Endorsed by Brian Goetz
+Release 9
+Issue 8043364
+Summary
+
+Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.
+
