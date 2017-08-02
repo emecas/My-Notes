@@ -3505,3 +3505,21 @@ Summary
 
 Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.
 
+
+
+
+
+
+GitBook
+https://www.gitbook.com/about
+
+GitBook was created mid 2014 with the vision of creating a modern and simple solution to documentation, digital writing and publishing.
+
+We've started by building an open source format. The philosophy is to be simple to the point of elegance, removing distractions and concerns from content creators, so that they can write freely.
+
+Since then, we've grown to helping more than 250,000 people working together into writing 150,000 books served to 20M visitors every month.
+
+REF: https://www.gitbook.com/book/bagder/everything-curl/details
+command line tool and library
+for transferring data with URLs
+https://curl.haxx.se/
