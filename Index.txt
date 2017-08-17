@@ -3523,3 +3523,18 @@ REF: https://www.gitbook.com/book/bagder/everything-curl/details
 command line tool and library
 for transferring data with URLs
 https://curl.haxx.se/
+
+
+
+
+
+Modeling Web APIs: your best choices
+Comparing  : API Blueprint vs RAML vs Swagger 
+http://modeling-languages.com/modeling-web-api-comparing/
+
+
+
+
+
+Separating Unit from Integration tests in Java using Gradle
+http://www.stuartingram.com/2016/09/15/separating-unit-from-integration-tests-in-java-using-gradle/
