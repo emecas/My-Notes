@@ -3538,3 +3538,34 @@ http://modeling-languages.com/modeling-web-api-comparing/
 
 Separating Unit from Integration tests in Java using Gradle
 http://www.stuartingram.com/2016/09/15/separating-unit-from-integration-tests-in-java-using-gradle/
+
+
+
+
+SE-Radio
+Software Engineering Radio for Professional Software Developers
+http://www.se-radio.net/
+
+About:
+http://www.se-radio.net/about-software-engineering-radio/
+
+Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Three to four times per month, we publish a new episode talking to experts from the software engineering world about the full range of topics that matter to professional developers.
+All SE Radio episodes feature original content; we don’t record conferences or talks given in other venues.
+SE Radio is managed by the volunteers and staff of IEEE Software, a leading technical magazine for software professionals published by the IEEE Computer Society. All content is licensed under the Creative Commons 2.5 license.
+SE Radio was founded in January 2006 by Markus Voelter.  It joined forces with IEEE Software in February 2012.
+
+Archives since January, 2006
+http://www.se-radio.net/2006/01//2006/01/
+
+
+
+
+Imixs Workflow
+...the open source workflow technology for business applications 
+The Open Source Workflow Engine for Human-Centric BPM.
+http://www.imixs.org/
+Repo:
+https://github.com/imixs/imixs-workflow
+
+
+ 
