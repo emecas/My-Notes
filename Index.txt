@@ -3568,4 +3568,18 @@ Repo:
 https://github.com/imixs/imixs-workflow
 
 
+
+
+
+
+Spring Framework Guru
+https://springframework.guru/
+
+https://springframework.guru/about/
+
+Hi. I’m John.
+
+I’ve been in the IT industry for over 20 years. Today, I specialize mainly in Java, the most successful and widely known programming language in use today. I also specialize in the Spring Framework, which is the most popular open source application framework for building enterprise class applications on the Java platform.
+
+
  
