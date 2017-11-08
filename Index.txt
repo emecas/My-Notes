@@ -3669,3 +3669,17 @@ Product type
 Option
 Functional Programming Libraries in JavaScript
 
+
+
+
+git commit -m "Life at Eclipse [Blog] [Eclipse Foundation]"
+
+Life at Eclipse
+https://mmilinkov.wordpress.com/
+Written by Mike Milinkovich 
+About:
+I have the great good fortune to be the Executive Director of the Eclipse Foundation. This blog covers a fairly wide variety of topics related to Eclipse technology, the community, and the ecosystem as well as the operations of the Eclipse Foundation itself. 
+
+REF: Java: Free At Last
+https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/
+
