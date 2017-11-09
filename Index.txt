@@ -3672,8 +3672,6 @@ Functional Programming Libraries in JavaScript
 
 
 
-git commit -m "Life at Eclipse [Blog] [Eclipse Foundation]"
-
 Life at Eclipse
 https://mmilinkov.wordpress.com/
 Written by Mike Milinkovich 
@@ -3682,4 +3680,39 @@ I have the great good fortune to be the Executive Director of the Eclipse Founda
 
 REF: Java: Free At Last
 https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/
+
+
+
+
+
+JSON Server
+https://github.com/typicode/json-server
+Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+
+Example
+
+Create a db.json file
+
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
+
+Start JSON Server
+
+$ json-server --watch db.json
+
+Now if you go to http://localhost:3000/posts/1, you'll get
+
+{ "id": 1, "title": "json-server", "author": "typicode" }
+
+
+
+
 
