@@ -3684,7 +3684,6 @@ https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/
 
 
 
-
 JSON Server
 https://github.com/typicode/json-server
 Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -3714,5 +3713,14 @@ Now if you go to http://localhost:3000/posts/1, you'll get
 
 
 
+
+
+TIG
+Text-mode interface for git 
+https://jonas.github.io/tig/
+What is Tig?
+
+Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.
+https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617
 
 
