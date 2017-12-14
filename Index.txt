@@ -3744,3 +3744,11 @@ By Daniel Hochleitner
 https://danielhochleitner.de/ords/web/home/
 
 
+
+
+
+JGiven Behavior-Driven Development in Plain Java
+http://jgiven.org/
+JGiven is a developer-friendly and pragmatic BDD tool for Java. Developers write scenarios in plain Java using a fluent, domain-specific API, JGiven generates reports that are readable by domain experts.
+https://github.com/TNG/JGiven
+
