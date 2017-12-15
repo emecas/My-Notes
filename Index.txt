@@ -3752,3 +3752,22 @@ http://jgiven.org/
 JGiven is a developer-friendly and pragmatic BDD tool for Java. Developers write scenarios in plain Java using a fluent, domain-specific API, JGiven generates reports that are readable by domain experts.
 https://github.com/TNG/JGiven
 
+
+
+
+
+
+OpenTSDB - The modern time series database.
+http://opentsdb.net/
+OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on
+top of HBase.  OpenTSDB was written to address a common need: store, index
+and serve metrics collected from computer systems (network gear, operating
+systems, applications) at a large scale, and make this data easily accessible
+and graphable.
+Repo: https://github.com/OpenTSDB/opentsdb
+REF: https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb
+
+
+
+
+
