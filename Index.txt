@@ -3786,3 +3786,14 @@ http://asciidoctor.org/
 Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. Asciidoctor is written in Ruby, packaged as a RubyGem and published to RubyGems.org. The gem is also included in several Linux distributions, including Fedora, Debian and Ubuntu. Asciidoctor is open source, hosted on GitHub and released under the MIT license.
 
 
+
+
+
+
+WildFly 
+http://wildfly.org/
+WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications. 
+repo: https://github.com/wildfly/wildfly
+
+
+
