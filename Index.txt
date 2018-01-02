@@ -3797,3 +3797,51 @@ repo: https://github.com/wildfly/wildfly
 
 
 
+
+
+
+Project Lombok
+https://projectlombok.org/
+Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
+Never write another getter or equals method again. Early access to future java features such as val, and much more.
+repo: https://github.com/rzwitserloot/lombok
+
+Compilers
+ Javac
+ ECJ
+Build tools
+ maven
+ gradle
+ ant
+ kobalt
+IDEs
+ Eclipse
+ IntelliJ IDEA
+ Netbeans
+ MyEclipse
+ Spring Tool Suite
+ JBoss Developer Studio
+Platforms
+ Android
+ GWT
+
+Sample:
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+public class UserDetails {
+    private int id;
+    private String id_b;
+    private String dobFormatted;
+    private String firstName;
+    private String middleInit;
+    private String lastName;
+    private String gender;
+
+}
+
+
+
