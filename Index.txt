@@ -3852,3 +3852,21 @@ jsoup is a Java library for working with real-world HTML. It provides a very con
 Repo: https://github.com/jhy/jsoup
 
 
+
+
+SoapUI 
+https://www.soapui.org/
+Build Better | Test Smarter
+The Most Advanced REST & SOAP Testing Tool in the World
+
+Insomnia 
+https://insomnia.rest/ 
+Debug APIs like a human, not a robot
+Finally, a REST client you'll love
+Powerful HTTP toolbelt, in one intuitive app
+Free and open source on Mac, Windows, and Linux
+
+HTTPie
+https://httpie.org/
+HTTPie consists of a single http command designed for painless debugging and interaction with HTTP servers, RESTful APIs, and web services: 
+
