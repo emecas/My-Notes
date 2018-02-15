@@ -3886,3 +3886,20 @@ The library is maintained by the Facebook Database Engineering Team, and is base
 This overview gives some simple examples of how RocksDB is used. For the story of why RocksDB was created in the first place, see Dhruba Borthakur’s introductory talk from the Data @ Scale 2013 conference.
 
 
+
+
+
+Multi-Tenant Benchmarking Tool (MTBT)
+https://github.com/linkedin/MTBT
+Multi-tenant Benchmarking Tool (MTBT) is a Java-based key-value store benchmarking tool. As the name suggests, it is multi-tenant (i.e., you can create multiple jobs with different parameters), and workload-dynamic (i.e., you can issue changes to the workload for a particular job throughout the execution). The most important features of MTBT are:
+
+    Multi-process: Multiple MTBT processes can co-ordinate to execute a given work plan. One of the processes is designated as the master, while the remaining ones are called the slaves. Master coordinates the overall execution by sharing the work plan and synchronizing processes, and combines the final result collected by each MTBT process.
+    
+	Multi-tenant: Multiple jobs can be defined, each having its own parameters (e.g., number of queries per second, query ratios, etc.).
+    
+	Dynamic: Given a run time for the experiment, you can schedule changes to the throughput (i.e., queries per second) of any job.
+    
+	Extensible: In order to benchmark a new database system, you can implement necessary MTBT interfaces and execute core MTBT functionality for your particular test case.
+
+
+	
