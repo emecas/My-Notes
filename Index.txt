@@ -3870,3 +3870,19 @@ HTTPie
 https://httpie.org/
 HTTPie consists of a single http command designed for painless debugging and interaction with HTTP servers, RESTful APIs, and web services: 
 
+
+
+
+
+RocksDB | A persistent key-value store 
+rocksdb.org
+RocksDB is an embeddable persistent key-value store for fast storage.
+Repo: https://github.com/facebook/rocksdb/
+
+The RocksDB library provides a persistent key value store. Keys and values are arbitrary byte arrays. The keys are ordered within the key value store according to a user-specified comparator function.
+
+The library is maintained by the Facebook Database Engineering Team, and is based on LevelDB, by Sanjay Ghemawat and Jeff Dean at Google.
+
+This overview gives some simple examples of how RocksDB is used. For the story of why RocksDB was created in the first place, see Dhruba Borthakur’s introductory talk from the Data @ Scale 2013 conference.
+
+
