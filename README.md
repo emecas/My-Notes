@@ -18,3 +18,85 @@ A central object talking with differents services allocated in different docker 
 
 https://github.com/eventuate-tram/eventuate-tram-sagas
 
+7 Junio 2018
+
+https://kafka.apache.org/documentation.html#uses
+
+para arrancar cassandra
+MacBook-Pro-Retina-de-Alonso:bin aironman$ cassandra -f
+
+/usr/local/opt/nexus/libexec 
+
+lsof -i -P | grep -i listen 
+para saber los puertos abiertos por algun programa
+
+ps -ef | grep java | grep awk ‘{print $2}’
+para saber los pid de los procesos java, por ej
+
+arrancar/parar postgres
+lunchy start postgres
+lunchy stop postgres
+
+donde esta la ISS?
+https://api.wheretheiss.at/v1/satellites/25544 pregunta cada segundo incluso
+
+para sacar el certificado de un site
+openssl s_client -connect api.wheretheiss.at:443 -showcerts -prexit
+
+para importar el certificado que me he bajado del anterior site
+keytool -import -alias iss -file iss.pem -keystore trust.jksº
+
+http://chimpler.wordpress.com/2014/06/11/classifiying-documents-using-naive-bayes-on-apache-spark-mllib/
+
+http://archive.stsci.edu/prepds/phat/datalist.html
+
+ficheros con fotos de la constelacion andromeda
+
+descargarme video de youtube:
+
+youtube-dl https://www.youtube.com/watch?v=0KXME_y-3QA
+
+solr
+To have launchd start solr now and restart at login:
+	brew services start solr
+Or, if you don't want/need a background service you can just run:
+solr start
+
+levantar hdfs a lo bruto
+
+	for x in `cd /etc/init.d ; ls hadoop-hdfs-*` ; do sudo service $x start ; done
+
+levantar spark a lo bruto
+	
+	for x in `cd /etc/init.d ; ls spark-*` ; do sudo service $x start ; done
+
+levantar zookeeper:
+
+	zkServer start
+
+levantar kafka:
+
+	kafka-server-start /usr/local/etc/kafka/server.properties
+
+levantar zookeeper
+
+	zkServer start
+
+levantar kafka
+
+	kafka-server-start /usr/local/etc/kafka/server.properties
+
+levantar instancia redis
+
+	redis-server /usr/local/etc/redis.conf
+
+levantar todos los servicios que tenga bajo init.d
+	
+	for x in `cd /etc/init.d ; ls hive-*` ; do sudo service $x start ; done
+
+levantar impala a lo bruto:
+
+	for x in `cd /etc/init.d ; ls impala-*` ; do sudo service $x start ; done
+
+
+
