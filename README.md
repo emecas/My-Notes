@@ -16,47 +16,60 @@ Added an xml graph showing how a choreography saga object should work.
 
 A central object talking with differents services allocated in different docker containers. I think that this object should be based on Tram framework with any producer consumer paradigm, in this case, if i want to talk with serviceA, i have to push a command with the request within TopicA and retrieve the response from ServiceA. When i have that response, i can push another request to ServiceB and wait for the response, and so on, so forth. Doing this way, i can guarantee global consistency because, because if i do not receive the response in a proper time, i can send a command to the previous services in order to going back to previuos state.
 
-https://github.com/eventuate-tram/eventuate-tram-sagas
+	https://github.com/eventuate-tram/eventuate-tram-sagas
 
 7 Junio 2018
 
-https://kafka.apache.org/documentation.html#uses
+	https://kafka.apache.org/documentation.html#uses
 
 para arrancar cassandra
-MacBook-Pro-Retina-de-Alonso:bin aironman$ cassandra -f
 
-/usr/local/opt/nexus/libexec 
+	$:bin aironman$ cassandra -f
 
-lsof -i -P | grep -i listen 
+para arrancar nexus
+
+	/usr/local/opt/nexus/libexec 
+
 para saber los puertos abiertos por algun programa
+	lsof -i -P | grep -i listen 
 
-ps -ef | grep java | grep awk ‘{print $2}’
-para saber los pid de los procesos java, por ej
+para saber los pid de los procesos java:
+
+	ps -ef | grep java | grep awk ‘{print $2}’
 
 arrancar/parar postgres
-lunchy start postgres
-lunchy stop postgres
+	lunchy start postgres
+
+	lunchy stop postgres
 
 donde esta la ISS?
-https://api.wheretheiss.at/v1/satellites/25544 pregunta cada segundo incluso
+
+	https://api.wheretheiss.at/v1/satellites/25544 pregunta cada segundo incluso
 
 para sacar el certificado de un site
-openssl s_client -connect api.wheretheiss.at:443 -showcerts -prexit
+	
+	openssl s_client -connect api.wheretheiss.at:443 -showcerts -prexit
 
 para importar el certificado que me he bajado del anterior site
-keytool -import -alias iss -file iss.pem -keystore trust.jksº
+	
+	keytool -import -alias iss -file iss.pem -keystore trust.jksº
 
-http://chimpler.wordpress.com/2014/06/11/classifiying-documents-using-naive-bayes-on-apache-spark-mllib/
+clasificando documentos 
 
-http://archive.stsci.edu/prepds/phat/datalist.html
+	http://chimpler.wordpress.com/2014/06/11/classifiying-documents-using-naive-bayes-on-apache-spark-mllib/
 
-ficheros con fotos de la constelacion andromeda
+ficheros con fotos de Andromeda
+
+	http://archive.stsci.edu/prepds/phat/datalist.html
 
 descargarme video de youtube:
 
-youtube-dl https://www.youtube.com/watch?v=0KXME_y-3QA
+	youtube-dl https://www.youtube.com/watch?v=0KXME_y-3QA
 
-solr
+arrancar solr
+
+	solr
+
 To have launchd start solr now and restart at login:
 	brew services start solr
 Or, if you don't want/need a background service you can just run:
