@@ -3911,5 +3911,107 @@ https://javaee.github.io/grizzly/
 repo: https://github.com/javaee/grizzly 	
 	
 Writing scalable server applications in the Java™ programming language has always been difficult. Before the advent of the Java New I/O API (NIO), thread management issues made it impossible for a server to scale to thousands of users. The Grizzly NIO framework has been designed to help developers to take advantage of the Java™ NIO API. Grizzly’s goal is to help developers to build scalable and robust servers using NIO as well as offering extended framework components: Web Framework (HTTP/S), WebSocket, Comet, and more!
-	
-	
+
+
+
+
+
+List of Software Development Philosophies
+https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+This is a list of approaches, styles, and philosophies in software development not included in the category tree of software development philosophies. It contains also software development processes, software development methodologies and single practices, principles and laws.
+
+Contents
+
+    1 Software development philosophies
+    2 Programming paradigms
+    3 Software development methodologies
+    4 Software development processes
+    5 See also
+    6 References
+
+Programming principles
+	Abstraction principle (computer programming)
+	Black box
+	Code reuse
+	Cohesion (computer science)
+	Command–query separation
+	Composition over inheritance
+	Coupling (computer programming)
+	Defensive programming
+	Dependency inversion principle
+	Deutsch limit
+	Discoverability
+	Don't repeat yourself
+	Fail-fast
+	GRASP (object-oriented design)
+	If it ain't broke, don't fix it
+	Information hiding
+	Interface segregation principle
+	Inversion of control
+	KISS principle
+	Law of Demeter
+	Liskov substitution principle
+	Loose coupling
+	Ninety-ninety rule
+	Offensive programming
+	Open–closed principle
+	Principle of least astonishment
+	Pristine Sources
+	Separation of concerns
+	Separation of mechanism and policy
+	Single responsibility principle
+	SOLID
+	Uniform access principle
+	Worse is better
+	You aren't gonna need it
+	Zen of Python
+	Zero one infinity rule
+List of software development philosophies
+	Acceptance test–driven development
+	After the Software Wars
+	Agile Manifesto
+	Agile software development
+	Pull-based agile coaching
+	Behavior-driven development
+	Best practice
+	The Cathedral and the Bazaar
+	Comment programming
+	Composition filters
+	Cowboy coding
+	Design-driven development
+	Domain-driven design
+	Extreme programming
+	Fibonacci scale (agile)
+	Formal methods
+	Homesteading the Noosphere
+	Integration competency center
+	Iterative and incremental development
+	Kanban (development)
+	KISS principle
+	Lean integration
+	Lean software development
+	Lightweight methodology
+	The Magic Cauldron (essay)
+	Mayo-Smith pyramid
+	Micro-innovation
+	Minimalism (computing)
+	Open–closed principle
+	Planning poker
+	PM Declaration of Interdependence
+	Release early, release often
+	Retrenchment (computing)
+	Rule of least power
+	Scaled agile framework
+	Secure by design
+	Specification by example
+	Test double
+	Continuous test-driven development
+	Test-driven development
+	There's more than one way to do it
+	Transformation Priority Premise
+	Unix philosophy
+	Waterfall model
+	Worse is better
+	You aren't gonna need it
+
+
