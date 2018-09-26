@@ -4054,3 +4054,24 @@ Druid was initially created to power a scalable, visual, multi-tenant applicatio
 
 
 
+Project Helidon
+Lightweight. Fast. Crafted for Microservices.
+https://helidon.io
+Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.
+
+Simple and fast
+Helidon is designed to be simple to use, with tooling and examples to get you going quickly. Since Helidon is just a collection of libraries running on a fast Netty core, there is no extra overhead or bloat.
+border_clear
+
+Microprofile Support
+Helidon supports MicroProfile and provides familiar APIs like JAX-RS, CDI and JSON-P/B. Our MicroProfile implementation runs on our fast Helidon Reactive WebServer
+storage
+
+Reactive WebServer
+Helidon Reactive WebServer provides a modern functional programming model and runs on top of Netty. Lightweight, flexible and reactive, the Helidon WebServer provides a simple to use and fast foundation for your microservices.
+repeat
+
+Observable and Resilient
+With support for health checks, metrics, tracing and fault tolerance, Helidon has what you need to write cloud ready applications that integrate with Prometheus, Zipkin and Kubernetes.
+
+
