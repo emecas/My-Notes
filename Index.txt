@@ -4075,3 +4075,11 @@ Observable and Resilient
 With support for health checks, metrics, tracing and fault tolerance, Helidon has what you need to write cloud ready applications that integrate with Prometheus, Zipkin and Kubernetes.
 
 
+
+
+Haskell
+An advanced, purely functional programming language
+https://www.haskell.org/
+https://en.wikipedia.org/wiki/Haskell_(programming_language)
+
+
