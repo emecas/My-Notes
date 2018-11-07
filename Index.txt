@@ -4102,3 +4102,8 @@ https://en.wikipedia.org/wiki/OCaml
 
 
 
+
+Multiplatform Project: iOS and Android 
+https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html
+
+
