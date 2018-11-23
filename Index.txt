@@ -4107,3 +4107,17 @@ Multiplatform Project: iOS and Android
 https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html
 
 
+
+
+Big Data: 33 Brilliant And Free Data Sources Anyone Can Use
+https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016
+
+1. Data.gov http://data.gov The US Government pledged last year to make all government data available freely online. This site is the first stage and acts as a portal to all sorts of amazing information on everything from climate to crime.
+
+2. US Census Bureau http://www.census.gov/data.html A wealth of information on the lives of US citizens covering population data, geographic data and education.
+
+3. Socrata is another interesting place to explore government-related data, with some visualisation tools built-in.
+
+4. European Union Open Data Portal http://open-data.europa.eu/en/data/ As the above, but based on data from European Union institutions.
+
+5. Data.gov.uk http://data.gov.uk/ Data from the UK Government, including the British National Bibliography – metadata on all UK books and publications since 1950.
