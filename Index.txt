@@ -4121,3 +4121,17 @@ https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-fr
 4. European Union Open Data Portal http://open-data.europa.eu/en/data/ As the above, but based on data from European Union institutions.
 
 5. Data.gov.uk http://data.gov.uk/ Data from the UK Government, including the British National Bibliography – metadata on all UK books and publications since 1950.
+
+
+
+
+
+Kotlin Playground is an online sandbox to explore Kotlin
+programming language,browse code samples directly in the browser
+https://play.kotlinlang.org
+Kotlin Koans
+https://play.kotlinlang.org/koans/overview
+Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio. Saying nothing of simply cloning the project on GitHub.
+
+
+
