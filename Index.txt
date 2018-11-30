@@ -4135,3 +4135,12 @@ Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax
 
 
 
+
+Java Pub House
+http://www.javapubhouse.com/
+Nominated as the winner for the Ultimate List of Developer Podcast (for Java) we are the best source for Java Topics for the Professional Software Developer and the serious enthusiast! This podcast started with a simple idea. After interviewing all day long for a budding Startup, Freddy noticed that a lot of candidates came in with some strangely warped concepts on multi-threading, garbage collection and/or software design. As he went through the internet he realized that there are a lot of podcasts and beginning tutorials for a budding Java Developer, but there wasn’t a podcast that dealt with the real problems that a Java Developer encounters in their day-to-day job. Things like “how to troubleshoot a deadlock“, to “Optimizing for Performance” were never discussed with clarity, so Freddy set out to create a brand new podcast that will tackle “real issues” on “production software”. We don’t need another “hello world” podcast, but instead, we want to discuss the advantages or disadvantages of using the console for logging output!
+https://twitter.com/javapubhouse
+
+
+
+
