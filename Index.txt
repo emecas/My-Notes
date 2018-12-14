@@ -4149,3 +4149,24 @@ https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/
 The Gradle wrapper is a self-contained Gradle runner and distribution that's typically built into your Gradle project. It's bundled into the project is to guarantee that all developers working on the project have a similar build environment. This means that updating the Gradle wrapper is effectively bumping up the Gradle version for the entire team.
 
 ./gradlew wrapper --gradle-version 4.6 --distribution-type bin
+
+
+
+
+Java Architect’s Blog
+by Korovin Anatoliy  https://twitter.com/antkorwin
+http://antkorwin.com/
+Categories:
+	- TDD
+	- Spring State Machine
+	- Spring Cloud
+	- Spring Configuration
+	- Hibernate
+	- Reflection
+	- Concurrency & Garbage Collector
+	- Code conventions
+	- Annotation processing
+
+	
+	
+	
