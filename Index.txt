@@ -4170,3 +4170,13 @@ Categories:
 	
 	
 	
+OpenGenus Foundation
+http://www.opengenus.org/
+https://discourse.opengenus.org
+https://twitter.com/opengenus
+https://github.com/OpenGenus
+OpenGenus Foundation is one of the largest open-source non-profit communities in the World focused on enabling people to work offline and make knowledge more accessible. We have created one of the most popular developer communities in the World and are bring the Internet offline. By joining us, you are extending a supporting hand towards this ambitious goal along with our other million developers. In our community, you can ask any question you like ranging from Algorithms and Data-structures, Computer science, Cosmology, Career advice, General chat and anything else.
+
+
+
+
