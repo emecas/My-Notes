@@ -4201,6 +4201,14 @@ You will learn
     How to connect a Spring Boot project to H2?
 
 
-	
-	
-	
+
+
+Java 9 Variable Handles Demystified
+https://www.baeldung.com/java-variable-handles
+Java 9 brought a number of new useful features for developers.
+
+One of those is the java.lang.invoke.VarHandle API – representing variable handles – which we’re going to explore in this article.
+
+
+
+
