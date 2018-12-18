@@ -4188,3 +4188,19 @@ Welcome to the world of Geeks!!
 How many times were you frustrated while looking out for a good collection of programming/algorithm/interview questions? What did you expect and what did you get? This portal has been created to provide well written, well thought and well explained solutions for selected questions. 
 
 
+
+
+Spring Boot and H2 in memory database - Why, What and How?
+http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database
+This guide will help you understand the concept of in memory database. We will look at simple JPA example to understand the best practices in using in memory databases.
+You will learn
+
+    What is an in memory database?
+    Why do you use an in memory database?
+    What are the best practices in using an in memory database?
+    How to connect a Spring Boot project to H2?
+
+
+	
+	
+	
