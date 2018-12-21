@@ -4212,3 +4212,17 @@ One of those is the java.lang.invoke.VarHandle API – representing variable han
 
 
 
+Neural Ordinary Differential Equations 
+Paper https://arxiv.org/abs/1806.07366
+Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
+(Submitted on 19 Jun 2018 (v1), last revised 22 Oct 2018 (this version, v3))
+Post: https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/
+reddit comments: https://reddit.com/comments/a65v5r
+
+	We've also released code: https://github.com/rtqichen/torchdiffeq
+	And we've written a follow-up paper applying this to generative density modeling:
+	Paper: https://arxiv.org/abs/1810.01367 Code: https://github.com/rtqichen/ffjord
+
+
+
+
