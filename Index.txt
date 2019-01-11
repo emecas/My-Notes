@@ -4224,5 +4224,9 @@ reddit comments: https://reddit.com/comments/a65v5r
 	Paper: https://arxiv.org/abs/1810.01367 Code: https://github.com/rtqichen/ffjord
 
 
-
-
+	
+	
+Mockito When/Then Cookbook
+https://www.baeldung.com/mockito-behavior
+Last modified: June 23, 2018
+by Eugen Paraschiv
