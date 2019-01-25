@@ -4230,3 +4230,14 @@ Mockito When/Then Cookbook
 https://www.baeldung.com/mockito-behavior
 Last modified: June 23, 2018
 by Eugen Paraschiv
+
+
+
+
+How to Write a Git Commit Message
+https://chris.beams.io/posts/git-commit/
+Introduction: Why good commit messages matter
+By Chris Beams
+
+
+
