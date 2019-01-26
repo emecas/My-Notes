@@ -4241,3 +4241,12 @@ By Chris Beams
 
 
 
+
+How to Read and Use Histograms in R
+https://flowingdata.com/2014/02/27/how-to-read-histograms-and-use-them-in-r/
+By Nathan Yau
+The chart type often goes overlooked because people don’t understand them. Maybe this will help.
+
+
+
+
