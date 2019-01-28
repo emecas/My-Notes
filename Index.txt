@@ -4258,3 +4258,18 @@ Published on Apr 22, 2013
 
 
 
+
+JVM Calendar: 19 Lessons in a Kata
+https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata
+Here's how you can truly master Kata.
+
+We Learn Best by Doing:
+In this blog, I will show you how to get started coding the Eclipse Collections Pet Kata. 
+If you want to become proficient in Eclipse Collections, you should practice the Kata on your own. 
+In order to truly master the Kata, try teaching the Kata to others, teaching results in deeper learning.
+Git repo: https://github.com/eclipse/eclipse-collections-kata
+
+
+
+
+
