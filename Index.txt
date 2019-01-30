@@ -4288,3 +4288,11 @@ Oct 9, 2018
 
 
 
+Investigating the CQRS pattern using GraphQL and SPQR
+https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582
+Ken Anderson
+Aug 26, 2018
+
+
+
+
