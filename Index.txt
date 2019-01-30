@@ -4272,4 +4272,11 @@ Git repo: https://github.com/eclipse/eclipse-collections-kata
 
 
 
+test && commit || revert
+https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
+By: Kent Beck
+Sep 28, 2018
+
+
+
 
