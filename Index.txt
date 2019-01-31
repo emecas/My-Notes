@@ -4296,3 +4296,13 @@ Aug 26, 2018
 
 
 
+agrest
+https://agrest.io/
+An open-source protocol and framework for REST data services
+Optimize REST interactions. Avoid excessive requests to server when navigating backend data graphs.
+Repo: https://github.com/agrestio/agrest
+	
+
+
+
+
