@@ -4302,7 +4302,14 @@ An open-source protocol and framework for REST data services
 Optimize REST interactions. Avoid excessive requests to server when navigating backend data graphs.
 Repo: https://github.com/agrestio/agrest
 	
-
-
+	
+	
+	
+Deep Dive into Microsoft Configuration
+By Travis Illig
+June 20, 2018
+REF: https://stackoverflow.com/a/909712/833336
+Ref: https://github.com/aspnet/Configuration
+Ref: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration
 
 
