@@ -4313,3 +4313,36 @@ Ref: https://github.com/aspnet/Configuration
 Ref: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration
 
 
+
+.gitignore nice pattern
+
+	[TIL] : there is not other place where you can see a practical example	
+	Ref: https://stackoverflow.com/a/8527645/833336	
+	
+	Line Examples:
+
+		#
+		[Tt]est[Rr]esult*/
+
+		# Build results
+		[Dd]ebug/
+		[Dd]ebugPublic/
+		[Rr]elease/
+		[Rr]eleases/
+		x64/
+		x86/
+		bld/
+		[Bb]in/
+		[Oo]bj/
+		[Ll]og/
+
+
+	More refs:
+	https://git-scm.com/docs/gitignore
+	http://man7.org/linux/man-pages/man3/fnmatch.3.html
+	[TC] Repo: https://github.com/github/gitignore
+
+
+
+
+
