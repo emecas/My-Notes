@@ -4342,7 +4342,17 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?vi
 	http://man7.org/linux/man-pages/man3/fnmatch.3.html
 	[TC] Repo: https://github.com/github/gitignore
 
+	
+	
 
+Don't Measure Unit Test Code Coverage
+By James Shore
+01 Feb, 2019
 
+ - To add tests to legacy code
+ - To improve requirements code quality
+ - To improve non-functional quality
+ - (TDD reflexion) Here's the thing about TDD
 
-
+ 
+ 
