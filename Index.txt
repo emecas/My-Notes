@@ -4355,4 +4355,59 @@ By James Shore
  - (TDD reflexion) Here's the thing about TDD
 
  
+
  
+Expert Excuses for Not Writing Unit Tests 
+https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/
+By Ben E. C. Boyter
+
+	The Promise of Bad Tests
+		Testing leads to bad design
+		Adding of cost
+	Faking It
+		Auto Generating
+		Learning From Volkswagen and Diesel-gate
+	Shifting Blame
+		Its QA’s problem
+		Blaming other team members
+		Blaming the technology
+		How to test the tests?
+		Your Language/Framework/Tool Sucks
+		Blaming the process
+		Blaming the requirements
+		Blame a lower level, OS / Hardware
+	Undermining Managers
+	Creating Diversions and Ruining Work-flows
+		Introducing subtle bugs.
+	Test Failing? Delete it!
+	Introducing Unreliability
+	How to write flaky tests
+	What not to test
+
+	List of Generic Fall-back Excuses
+
+	For any piece of code the following excuses are usually applicable. Feel free to use any at random or in order. Remember to cycle though them over time to avoid your excuses being picked up.
+
+		The code is too complex to unit test.
+		The code is too simple to unit test.
+		There’s no point unit testing code that doesn’t change.
+		This is a destructive process, so it cannot be unit tested.
+		Unit tests won’t tell me if this code actually works.
+		That code is side effect free so there is no need to test it.
+		It would be too slow to test that code due to the dependencies.
+		I can test this more quickly manually.
+		The client is paying for a deliverable not unit tests.
+		Thats QA’s problem.
+		Unit tests are just assertions in disguise.
+		Unit testing was a staple of the FORTRAN days.
+		Unit testing is not about finding bugs.
+		Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
+		There is an exception to every rule, and we must of course be flexible.
+		Never ascribe to malice, that which can be explained by incompetence. - Napoleon
+		Testing is for communists.
+		Unit tests cause autism.
+		I am the only developer on the project.
+		It’s an internal only tool.
+		The sole user of this is me.
+		Unit tests are anti-agile.
+
