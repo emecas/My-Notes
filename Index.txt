@@ -4434,3 +4434,13 @@ By beanstalk
 See too: http://guides.beanstalkapp.com/
 
 
+
+
+REST (Representational State Transfer) - RFCs
+https://en.wikipedia.org/wiki/Representational_state_transfer
+
+	Hypertext Transfer Protocol -- HTTP/1.0 https://tools.ietf.org/html/rfc1945
+	Hypertext Transfer Protocol -- HTTP/1.1 https://tools.ietf.org/html/rfc2616
+
+	
+	
