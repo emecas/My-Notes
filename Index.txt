@@ -4426,3 +4426,11 @@ Each month, EU-Startups.com reaches an audience of more than 120,000 startup-int
 Vision/Mission: Our vision is to connect the European startup scene and to encourage entrepreneurship within Europe.
  
 
+
+
+Developing and Deploying with Branches
+http://guides.beanstalkapp.com/version-control/branching-best-practices.html
+By beanstalk
+See too: http://guides.beanstalkapp.com/
+
+
