@@ -4453,3 +4453,19 @@ https://www.jfokus.se/jfokus19/talks
 Archive 2007-2018
 
 
+
+
+The Apache Software Foundation Blog
+https://blogs.apache.org/foundation/
+The Apache Software Foundation
+Blogging in Action.
+
+	Tag Cloud
+		apache apachecon asf behind big bigdata cloud community data focuses foundation hadoop initiatives just news on open opensource processes project projects round-up software source summary the tlp top-level weekly why
+
+	Categories
+
+		All General ApacheCon Projects Milestones SuccessAtApache Newsletter 
+
+
+		
