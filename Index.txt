@@ -4485,3 +4485,17 @@ Podcast sobre Android en Español 🇲🇽🇵🇪🇨🇱🇬🇹🇸🇻🇩�
 https://twitter.com/androiddevlat
 
 
+
+
+Primitive Obsession
+https://www.devteams.at/2019/02/04/primitive-obsession.html
+by David Tanzer
+https://www.devteams.at/
+
+Did you ever see some piece of code that uses primitive data types, like Strings or integers,
+ in it’s public API? I am sure you have, because most code is written like that.
+
+But that can cause problems. Today, I want to talk about a code smell called “Primitive Obsession”.
+ And I want to show you how code often becomes easier to understand and “nicer” 
+ by eliminating primitive data types - especially, but not only, from it’s public API.
+
