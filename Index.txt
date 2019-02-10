@@ -4499,3 +4499,34 @@ But that can cause problems. Today, I want to talk about a code smell called “
  And I want to show you how code often becomes easier to understand and “nicer” 
  by eliminating primitive data types - especially, but not only, from it’s public API.
 
+
+ 
+Best GIMP Brushes For Drawing & Painting (All Free) 
+https://conceptartempire.com/gimp-brushes/
+
+	K04sk Brushes https://www.deviantart.com/k04sk/art/K04sk-Gimp-Brushes-201848061
+	Digital Oil Brushes  https://www.deviantart.com/andantonius/art/Digital-Oil-Brushes-Free-Download-597379459
+	Texture Set  https://www.deviantart.com/jagged88/art/Gimp-texture-brush-set-1-128211836
+	Artistic Brushes https://www.deviantart.com/chrisdesign/art/GIMP-BrushBrush-305465605
+	20 Count Brush Set https://www.deviantart.com/viraqupis/art/20-new-gimp-brushes-344706120
+	101 GIMP Brushes https://www.deviantart.com/xelar-art/art/101-Gimp-Paintbrushes-47961962
+	AaronGriffinArt Brush Pack https://www.deviantart.com/aarongriffinart/art/BRUSHES-609357781
+	Alex Ruiz Brushes https://gumroad.com/l/AtzY
+	Hair Pack https://www.deviantart.com/novalupe/art/NovaLupe-s-Hair-Brushes-for-gimp-546449347
+	Diamonds https://www.deviantart.com/pkgam/art/Diamond-GIMP-Brushes-For-GIMP-2-6-325244080
+	Free Brushes by daRoz https://www.deviantart.com/daroz/art/FREE-PHOTOSHOP-BRUSHES-DAREK-ZABROCKI-BRUSH-SET-431393487
+	Mane & Tail Brushes https://www.deviantart.com/ooo-alouette-ooo/art/Mane-and-Tail-Brushes-for-Gimp-322749936
+	Splatter Brushes https://www.deviantart.com/project-gimpbc/art/GIMP-Splatter-Brushes-48299826
+	Inkpen Set https://www.deviantart.com/magenta-stock/art/Inkpen-GIMP-Brushes-updated-33537424
+	Smoke Brush Pack  https://www.deviantart.com/ljfhutch/art/Gimp-Smoke-Brushes-Animated-162129054
+	Water Brush Pack https://www.deviantart.com/ljfhutch/art/Gimp-Water-Brushes-177498235
+	Grass Brush Pack https://www.deviantart.com/ljfhutch/art/Gimp-Anim-Grass-Brushes-Set-163317084
+	Four Assorted Brushes  https://www.deviantart.com/pkgam/art/Four-Assorted-GIMP-Brushes-363856003
+	Real Pencil https://www.deviantart.com/elmerucr/art/Real-Pencil-Brushes-for-GIMP-57810771
+	Pencil Brush by Nari https://www.deviantart.com/n-a-r-i/art/Pencil-Brush-by-Nari-2nd-EDITION-416255384
+	Hairbrushes https://www.deviantart.com/el-l-en/art/GIMP-8-Hairbrushes-133326240
+	Rolled Paint https://www.deviantart.com/redheadstock/art/Rolled-Paint-Photoshop-and-GIMP-Brushes-413429832
+	Free PS/GIMP Brush Set https://www.deviantart.com/jonasdero/art/FREE-PHOTOSHOP-GIMP-BRUSHES-Explanation-348274576
+
+
+	
