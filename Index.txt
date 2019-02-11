@@ -4544,5 +4544,21 @@ Repo: https://github.com/iluwatar/java-design-patterns
 	Reusing design patterns helps to prevent subtle issues that can cause major problems, and it also improves code readability for coders and architects who are familiar with the patterns.	
 
 https://java-design-patterns.com/principles/	
+
+
+
+
+OpenShift Cheat Sheet
+http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf
+	Content  
+	1. What is OpenShift?. . . . . . . . . . . . . . . . . . . 1
+	2. Cheat sheet guide. . . . . . . . . . . . . . . . . . . . 1
+	3. Command overview. . . . . . . . . . . . . . . . . . 2
+	4. Simple build and deploy overview. . . . . 4
+	5. Simple routing overview. . . . . . . . . . . . . 4
+	6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+	7. Additional operations. . . . . . . . . . . . . . . 10
+	8. About the author. . . . . . . . . . . . . . . . . . . . 11
+	
 	
 	
