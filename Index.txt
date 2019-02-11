@@ -4528,5 +4528,21 @@ https://conceptartempire.com/gimp-brushes/
 	Rolled Paint https://www.deviantart.com/redheadstock/art/Rolled-Paint-Photoshop-and-GIMP-Brushes-413429832
 	Free PS/GIMP Brush Set https://www.deviantart.com/jonasdero/art/FREE-PHOTOSHOP-GIMP-BRUSHES-Explanation-348274576
 
+	
 
+
+Design patterns implemented in Java	
+https://java-design-patterns.com/
+Repo: https://github.com/iluwatar/java-design-patterns
+
+	Introduction
+
+	Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
+
+	Design patterns can speed up the development process by providing tested, proven development paradigms.
+
+	Reusing design patterns helps to prevent subtle issues that can cause major problems, and it also improves code readability for coders and architects who are familiar with the patterns.	
+
+https://java-design-patterns.com/principles/	
+	
 	
