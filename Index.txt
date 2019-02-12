@@ -4559,6 +4559,11 @@ http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatshee
 	6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 	7. Additional operations. . . . . . . . . . . . . . . 10
 	8. About the author. . . . . . . . . . . . . . . . . . . . 11
-	
-	
-	
+
+
+
+
+python -m idlelib.idle
+
+
+
