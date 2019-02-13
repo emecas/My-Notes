@@ -4575,3 +4575,8 @@ To encourage the creation and distribution of eBooks.
 
 
 
+
+Black - The uncompromising Python code formatter
+https://black.readthedocs.io/en/stable/
+https://github.com/ambv/black
+
