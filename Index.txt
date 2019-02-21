@@ -4597,3 +4597,13 @@ https://github.com/TNG/ArchUnit
 
 
 
+
+Testing In The Pub
+http://testinginthepub.co.uk/testinginthepub/
+A podcast all about software, team and quality
+
+Testing In The Pub – Your Regular Podcast All About Software Quality
+Welcome to Testing In The Pub!
+Listen to Steve and Dan talk about topics of interest, and sometimes interview leading members of the software community too.
+You can subscribe via RSS or iTunes, or stream or download directly from this site. You can also find us on YouTube.
+We appreciate your comments so please let us know what sort of topics you'd like to hear about.
