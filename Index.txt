@@ -4607,3 +4607,15 @@ Welcome to Testing In The Pub!
 Listen to Steve and Dan talk about topics of interest, and sometimes interview leading members of the software community too.
 You can subscribe via RSS or iTunes, or stream or download directly from this site. You can also find us on YouTube.
 We appreciate your comments so please let us know what sort of topics you'd like to hear about.
+
+
+
+
+Creating Mock Objects for C# Unit Tests, using Moq
+https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/
+In my demonstration of the Dependency Injection design pattern, I manually created a mock object. This let me perform unit tests without needing to access a database.
+Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.
+If you aren’t familiar with dependency injection, please read this article first
+
+
+
