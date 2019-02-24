@@ -4619,3 +4619,20 @@ If you aren’t familiar with dependency injection, please read this article fir
 
 
 
+
+Golden Rule
+https://en.wikipedia.org/wiki/Golden_Rule
+https://es.wikipedia.org/wiki/Regla_de_oro_(%C3%A9tica)
+The Golden Rule is the principle of treating others as one's self would wish to be treated. It is a maxim that is found in many religions and cultures.[1][2]
+
+The Golden Rule can be considered an ethic of reciprocity in some religions, although other religions treat it differently. The maxim may appear as either a positive or negative injunction governing conduct:
+
+    One should treat others as one would like others to treat oneself (positive or directive form).
+    One should not treat others in ways that one would not like to be treated (negative or prohibitive form).[1]
+    What you wish upon others, you wish upon yourself (empathic or responsive form).[1]
+
+The idea dates at least to the early Confucian times (551–479 BC) according to Rushworth Kidder, who identifies that this concept appears prominently in Buddhism, Christianity, Hinduism, Judaism, Taoism, Zoroastrianism, and "the rest of the world's major religions".[3] The concept of the Rule is codified in the Code of Hammurabi stele and tablets, 1754-1790 BC. 143 leaders encompassing the world's major faiths endorsed the Golden Rule as part of the 1993 "Declaration Toward a Global Ethic", including the Baha'i Faith, Brahmanism, Brahma Kumaris, Buddhism, Christianity, Hinduism, Indigenous, Interfaith, Islam, Jainism, Judaism, Native American, Neo-Pagan, Sikhism, Taoism, Theosophist, Unitarian Universalist and Zoroastrian.[4][5] According to Greg M. Epstein, " 'do unto others' ... is a concept that essentially no religion misses entirely," but belief in God is not necessary to endorse it.[6] Simon Blackburn also states that the Golden Rule can be "found in some form in almost every ethical tradition".[7]
+
+Yet, as with any historically prominent maxim, the Golden Rule is not without its controversy (as seen in the Criticism section below). 
+
+
