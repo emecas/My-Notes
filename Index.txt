@@ -4636,3 +4636,12 @@ The idea dates at least to the early Confucian times (551–479 BC) according to
 Yet, as with any historically prominent maxim, the Golden Rule is not without its controversy (as seen in the Criticism section below). 
 
 
+
+
+X-Ray
+http://xray.inf.usi.ch/xray.php
+
+X-Ray 1.0.4.1, my Bachelor and Research Project
+Jul 5, 2008
+X-Ray is an open-source software visualization plug-in for the Eclipse framework. It is my bachelor project and thesis, as far as my research topic, supervised by Prof. Dr. Michele Lanza and Dipl. Ing. Mircea Lungu. It provides System Complexity View, Class and Package Dependency View for a given Java project. Moreover, its model of the underlying Java project can be triggered and used by other plug-ins 
+
