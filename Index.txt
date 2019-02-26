@@ -4645,3 +4645,15 @@ X-Ray 1.0.4.1, my Bachelor and Research Project
 Jul 5, 2008
 X-Ray is an open-source software visualization plug-in for the Eclipse framework. It is my bachelor project and thesis, as far as my research topic, supervised by Prof. Dr. Michele Lanza and Dipl. Ing. Mircea Lungu. It provides System Complexity View, Class and Package Dependency View for a given Java project. Moreover, its model of the underlying Java project can be triggered and used by other plug-ins 
 
+
+
+
+CodeCity
+http://wettel.github.io/codecity.html
+By Richard Wettel
+Welcome to CodeCity!
+CodeCity is an integrated environment for software analysis, in which software systems are visualized as interactive, navigable 3D cities. The classes are represented as buildings in the city, while the packages are depicted as the districts in which the buildings reside. The visible properties of the city artifacts depict a set of chosen software metrics, as in the polymetric views of CodeCrawler.
+
+You can read more about my approach in the ICPC 2007, VISSOFT 2007, Softvis 2008, WASDett 2008, WCRE 2008, FAMOOSr 2008 papers and the ICSE 2008 tool demo on my Publications page. If you would rather prefer a hands-on learning process, download CodeCity, run it, and tell me what you think. I appreciate every piece of feedback I get. CodeCity is programmed in VisualWorks Smalltalk on top of the Moose platform, uses OpenGL for rendering, and runs on every major platform. To see CodeCity in action visit the Wall of Fame. Here is a sneak preview with a CodeCity visualization of JDK (Java Development Kit) v1.5:
+
+
