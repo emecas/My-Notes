@@ -4657,3 +4657,14 @@ CodeCity is an integrated environment for software analysis, in which software s
 You can read more about my approach in the ICPC 2007, VISSOFT 2007, Softvis 2008, WASDett 2008, WCRE 2008, FAMOOSr 2008 papers and the ICSE 2008 tool demo on my Publications page. If you would rather prefer a hands-on learning process, download CodeCity, run it, and tell me what you think. I appreciate every piece of feedback I get. CodeCity is programmed in VisualWorks Smalltalk on top of the Moose platform, uses OpenGL for rendering, and runs on every major platform. To see CodeCity in action visit the Wall of Fame. Here is a sneak preview with a CodeCity visualization of JDK (Java Development Kit) v1.5:
 
 
+
+
+Zipkin
+https://zipkin.io/
+https://github.com/openzipkin/zipkin
+https://zipkin.io/pages/architecture.html
+
+Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data. Zipkin’s design is based on the Google Dapper paper.
+
+Applications are instrumented to report timing data to Zipkin. The Zipkin UI also presents a Dependency diagram showing how many traced requests went through each application. If you are troubleshooting latency problems or errors, you can filter or sort all traces based on the application, length of trace, annotation, or timestamp. Once you select a trace, you can see the percentage of the total trace time each span takes which allows you to identify the problem application.
+
