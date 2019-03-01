@@ -4668,3 +4668,9 @@ Zipkin is a distributed tracing system. It helps gather timing data needed to tr
 
 Applications are instrumented to report timing data to Zipkin. The Zipkin UI also presents a Dependency diagram showing how many traced requests went through each application. If you are troubleshooting latency problems or errors, you can filter or sort all traces based on the application, length of trace, annotation, or timestamp. Once you select a trace, you can see the percentage of the total trace time each span takes which allows you to identify the problem application.
 
+
+
+
+Microservice Principles: Decentralized Data Management
+https://medium.com/@nathankpeck/microservice-principles-decentralized-data-management-4adaceea173f
+
