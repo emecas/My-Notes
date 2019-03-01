@@ -4674,3 +4674,11 @@ Applications are instrumented to report timing data to Zipkin. The Zipkin UI als
 Microservice Principles: Decentralized Data Management
 https://medium.com/@nathankpeck/microservice-principles-decentralized-data-management-4adaceea173f
 
+
+
+
+Why You Should Turn Your Oracle Databases into RESTful API Services
+Don't Stored Procedures Already Do What You Say REST Does?
+https://blogs.oracle.com/newgendbaccess/why-use-rest
+https://blogs.oracle.com/newgendbaccess/dont-stored-procedures-already-do-what-you-say-rest-does
+
