@@ -4692,3 +4692,143 @@ https://github.com/henri-tremblay/java91011beyond
 
 
 
+
+Guru99
+https://www.guru99.com/
+
+Guru99 is totally new kind of learning experience.
+
+Here you learn by practice. We make tons of efforts to take boredom out of learning and make education a fun experience.
+
+Inside, you will find tons of video tutorials
+
+All provided FREE!!!
+
+Testing
+
+    Software Testing
+    QTP (Quick Test Professional)
+    Selenium
+    Mobile App Testing
+    Cucumber Testing
+    SoapUI
+    Agile Testing
+    JUnit
+    RPA
+
+Live Projects
+
+    Live Testing Project
+    Live Selenium Project
+    Live Ecommerce Project
+    Live UFT Testing
+    Live HP ALM Exercise
+    Live Mobile Testing
+    Live Security Testing
+    Live PHP Project
+    Live Scrum(Agile) Testing
+    Live Insurance Testing
+    Live Payment Gateway
+    Live Telecom
+    Live Java Project
+
+Performance Testing
+
+    Jmeter
+    HP Loadrunner
+
+SAP
+
+    SAP Beginner
+    SAP ABAP
+    SAP HR/HCM
+    SAP FICO
+    SAP Basis
+    SAP SD
+    SAP CRM
+    SAP MM
+    SAP CO
+    SAP Payroll
+    SAP BI/BW
+    SAP PP
+    SAP QM
+    SAP HANA
+
+Defect Tools
+
+    Bugzilla
+    JIRA
+    MANTIS Bug Tracker
+
+Enterprise Testing
+
+    ETL Testing
+    SAP Testing
+    Database(Data) Testing
+
+AI
+
+    TensorFlow
+    R Programming
+    NLTK
+
+Web
+
+    Java
+    SQL
+    PL/SQL
+    VBScript
+    Python
+    Perl
+    Linux
+    Javascript
+    Apache
+    PHP
+    AngularJS
+    Node.js
+    JSP
+    SQLite
+    Web Services
+    C#
+    ASP.Net
+    PostgreSQL
+    DBMS
+
+Test Management
+
+    HP Quality Center/ALM
+    Test Management
+    TestLink
+
+Big Data
+
+    BigData
+    HBase
+    MongoDB
+    Hive
+    Cassandra
+    AWS
+    Data Warehouse
+    DevOps
+    Tableau
+
+Must Learn!
+
+    Excel Tutorials
+    Accounting
+    Ethical Hacking
+    Cloud Computing
+    Photoshop CC
+    Digital Marketing
+    Business Analyst
+    Informatica
+    Project Management
+    PMP
+    MIS
+    VBA
+    CCNA
+    Jenkins
+    Software Engineering
+
+	
+
