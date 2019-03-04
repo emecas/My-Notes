@@ -4682,3 +4682,13 @@ Don't Stored Procedures Already Do What You Say REST Does?
 https://blogs.oracle.com/newgendbaccess/why-use-rest
 https://blogs.oracle.com/newgendbaccess/dont-stored-procedures-already-do-what-you-say-rest-does
 
+
+
+
+Discovering Modern Java
+What you need to know about Java 9, 10, 11, and beyond
+
+https://github.com/henri-tremblay/java91011beyond
+
+
+
