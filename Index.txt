@@ -4836,3 +4836,11 @@ Must Learn!
 JDepend
 https://github.com/clarkware/jdepend
 A Java package dependency analyzer that generates design quality metrics.
+
+
+
+
+The JDepend Plugin
+https://docs.gradle.org/current/userguide/jdepend_plugin.html
+The JDepend plugin performs quality checks on your project’s source files using JDepend and generates reports from these check
+
