@@ -4830,5 +4830,9 @@ Must Learn!
     Jenkins
     Software Engineering
 
+
 	
 
+JDepend
+https://github.com/clarkware/jdepend
+A Java package dependency analyzer that generates design quality metrics.
