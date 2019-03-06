@@ -4844,3 +4844,17 @@ The JDepend Plugin
 https://docs.gradle.org/current/userguide/jdepend_plugin.html
 The JDepend plugin performs quality checks on your project’s source files using JDepend and generates reports from these check
 
+
+
+
+Learn REST: A RESTful Tutorial
+https://www.restapitutorial.com/
+
+RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available
+to enable quick reference and self education for the development crafts-person. 
+We'll discuss both the art and science of creating REST Web services.
+
+https://www.restapitutorial.com/lessons/httpmethods.html
+https://www.restapitutorial.com/httpstatuscodes.html
+https://github.com/tfredrich/RestApiTutorial.com
+
