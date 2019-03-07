@@ -4858,3 +4858,16 @@ https://www.restapitutorial.com/lessons/httpmethods.html
 https://www.restapitutorial.com/httpstatuscodes.html
 https://github.com/tfredrich/RestApiTutorial.com
 
+
+
+
+Centralized configuration with Spring Cloud Config
+https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/
+By 
+Zoltan Altfatter
+
+In this blog post I am looking into Spring Cloud Config project which is a great tool for centralized 
+configuration management in a microservice environment. I have prepared a simple example project 
+which you can find on my github account. It contains a config-service leveraging Spring Cloud 
+Config Server and three little services using Spring Cloud Config Client. 
+
