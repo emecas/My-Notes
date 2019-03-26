@@ -4871,3 +4871,21 @@ configuration management in a microservice environment. I have prepared a simple
 which you can find on my github account. It contains a config-service leveraging Spring Cloud 
 Config Server and three little services using Spring Cloud Config Client. 
 
+
+
+
+Jib
+https://github.com/GoogleContainerTools/jib
+
+Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon -
+and without deep mastery of Docker best-practices. 
+It is available as plugins for Maven and Gradle and as a Java library.
+
+Maven: See documentation for jib-maven-plugin.
+https://github.com/GoogleContainerTools/jib/blob/master/jib-maven-plugin
+Gradle: See documentation for jib-gradle-plugin.
+https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin
+Jib Core: A general-purpose container-building library for Java.
+https://github.com/GoogleContainerTools/jib/blob/master/jib-core
+
+
