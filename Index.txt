@@ -4911,3 +4911,20 @@ Cross-Site Request Forgery (CSRF) is a type of attack that occurs when a malicio
 
 
 
+
+Threat Modeling
+
+https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
+
+Threat modeling is a core element of the Microsoft Security Development Lifecycle (SDL). It’s an engineering technique you can use to help you identify threats, attacks, vulnerabilities, and countermeasures that could affect your application. You can use threat modeling to shape your application's design, meet your company's security objectives, and reduce risk.
+
+There are five major threat modeling steps:
+ Defining security requirements. 
+ Creating an application diagram. 
+ Identifying threats. 
+ Mitigating threats. 
+ Validating that threats have been mitigated. 
+Threat modeling should be part of your routine development lifecycle, enabling you to progressively refine your threat model and further reduce risk.
+
+
+
