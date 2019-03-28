@@ -4947,3 +4947,10 @@ Although this research overwhelmingly involves human subjects, some findings tha
 
 
 
+dev.to
+About dev.to
+
+Where programmers share ideas and help each other grow. It is an online community for sharing and discovering great ideas, having debates, and making friends. Anyone can share articles, questions, discussions, etc. as long as they have the rights to the words they are sharing. Cross-posting from your own blog is welcome. 
+
+
+
