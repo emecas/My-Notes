@@ -4954,3 +4954,13 @@ Where programmers share ideas and help each other grow. It is an online communit
 
 
 
+
+https://micronaut.io/
+
+A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
+
+https://github.com/micronaut-projects/
+https://github.com/micronaut-projects/micronaut-core
+
+
+
