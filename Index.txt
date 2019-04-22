@@ -4989,3 +4989,10 @@ https://github.com/fujitsu/launcher/releases
 
 
 
+SmallRye
+https://smallrye.io/
+Community driven implementations of Eclipse MicroProfile.
+https://github.com/smallrye
+https://smallrye.io/projects/overview
+
+
