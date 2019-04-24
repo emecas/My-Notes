@@ -4996,3 +4996,7 @@ https://github.com/smallrye
 https://smallrye.io/projects/overview
 
 
+
+
+Spring Security JWT Authentication + PostgreSQL – RestAPIs SpringBoot + Spring MVC + Spring JPA
+https://grokonez.com/spring-framework/spring-boot/spring-security-jwt-authentication-postgresql-restapis-springboot-spring-mvc-spring-jpa
