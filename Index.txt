@@ -5000,3 +5000,21 @@ https://smallrye.io/projects/overview
 
 Spring Security JWT Authentication + PostgreSQL – RestAPIs SpringBoot + Spring MVC + Spring JPA
 https://grokonez.com/spring-framework/spring-boot/spring-security-jwt-authentication-postgresql-restapis-springboot-spring-mvc-spring-jpa
+
+
+
+
+Microprofile and JPA Links
+
+
+https://stackoverflow.com/questions/52117613/microprofile-config-custom-configsource-using-jpa
+https://thorntail.io/downloads/
+https://readlearncode.com/java-ee/eclipse-microprofile-5-things-you-need-to-know/
+https://github.com/eclipse/microprofile-sandbox
+https://developer.ibm.com/tutorials/write-a-simple-microprofile-application-2/
+https://developer.ibm.com/wasdev/docs/writing-simple-microprofile-application-2-adding-persistence/
+https://thoughts-on-java.org/java-ee-micro-profile-optimizing-java-ee-microservices/
+https://github.com/payara/Payara/issues/1283
+https://github.com/oracle/helidon/issues/205
+
+
