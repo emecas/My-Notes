@@ -5018,3 +5018,13 @@ https://github.com/payara/Payara/issues/1283
 https://github.com/oracle/helidon/issues/205
 
 
+
+
+Koin
+https://insert-koin.io/
+A pragmatic lightweight dependency injection framework for Kotlin developers. 
+Written in pure Kotlin using functional resolution only: no proxy, no code generation, no reflection
+https://github.com/InsertKoinIO/koin
+
+
+
