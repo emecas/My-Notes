@@ -5028,3 +5028,12 @@ https://github.com/InsertKoinIO/koin
 
 
 
+
+KODEIN DI: KOtlin DEpendency INjection: 6.2.0
+https://kodein.org/Kodein-DI/
+Kodein (for KOtlin DEpendency INjection) is a DI framework. 
+It allows you to bind your business unit interfaces with their implementation and thus having each business unit being independent.
+https://github.com/Kodein-Framework/Kodein-DI
+
+
+
