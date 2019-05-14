@@ -5066,3 +5066,10 @@ Yokadi is a command line oriented, sqlite powered, todo-list.
 https://github.com/agateau/yokadi
 
 
+
+
+taskbook
+https://github.com/klaussinani/taskbook
+Tasks, boards & notes for the command-line habitat 
+
+
