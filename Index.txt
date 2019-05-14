@@ -5060,4 +5060,9 @@ https://github.com/rometools/rome
 
 
 
+yokadi
+http://yokadi.github.io/
+Yokadi is a command line oriented, sqlite powered, todo-list.
+https://github.com/agateau/yokadi
+
 
