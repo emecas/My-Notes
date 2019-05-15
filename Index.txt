@@ -5073,3 +5073,10 @@ https://github.com/klaussinani/taskbook
 Tasks, boards & notes for the command-line habitat 
 
 
+
+
+Handle 
+https://docs.microsoft.com/en-us/sysinternals/downloads/handle
+Ever wondered which program has a particular file or directory open? Now you can find out. Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.
+
+
