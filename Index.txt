@@ -5080,3 +5080,25 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/handle
 Ever wondered which program has a particular file or directory open? Now you can find out. Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.
 
 
+
+
+NATS
+https://nats.io/
+NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.
+
+NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.
+
+The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming & big data use-cases.
+
+NATS was created by Derek Collison, Founder and CEO at Synadia in response to the market need for a simple and high performance messaging solution. NATS is currently deployed in some of the largest cloud platforms, including: VMware, CloudFoundry, Baidu, Siemens, and GE. NATS is available under the Apache-2.0 Open Source License.
+
+NATS Server
+https://nats.io/download/nats-io/nats-server/
+https://github.com/nats-io/nats-server
+
+Java Client
+https://nats.io/download/nats-io/jnats/
+https://github.com/nats-io/nats.java
+
+
+
