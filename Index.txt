@@ -5120,3 +5120,8 @@ Dask provides advanced parallelism for analytics, enabling performance at scale 
 
 
 
+The Washington Free Beacon
+https://freebeacon.com
+The Washington Free Beacon is a privately owned, for-profit online newspaper that began publication on February 7, 2012. Dedicated to uncovering the stories that the powers that be hope will never see the light of day, the Free Beacon produces in-depth investigative reporting on a wide range of issues, including public policy, government affairs, international security, and media. Whether it’s exposing cronyism, finding out just who is shaping our domestic and foreign policy and why, or highlighting the threats to American security and peace in a dangerous world, the Free Beacon is committed to serving the public interest by reporting news and information that is not being fully covered by other news organizations.
+The Beacon's chairman is Michael Goldfarb. Its editor in chief is Matthew Continetti. Sonny Bunch is the executive editor. Bill Gertz is senior editor.
+
