@@ -5166,3 +5166,12 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 Comparison to Other Detectors
 
 YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on par with Focal Loss but about 4x faster. Moreover, you can easily tradeoff between speed and accuracy simply by changing the size of the model, no retraining required!
+
+
+
+
+lxml 
+https://lxml.de/
+XML and HTML with Python
+lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language
+
