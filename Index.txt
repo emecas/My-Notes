@@ -5155,3 +5155,14 @@ Apache NiFi supports powerful and scalable directed graphs of data routing, tran
         SSL, SSH, HTTPS, encrypted content, etc...
         Multi-tenant authorization and internal authorization/policy management
 
+
+
+
+YOLO: Real-Time Object Detection
+https://pjreddie.com/darknet/yolo/
+https://github.com/pjreddie/darknet
+You only look once (YOLO) is a state-of-the-art, real-time object detection system. On a Pascal Titan X it processes images at 30 FPS and has a mAP of 57.9% on COCO test-dev.
+
+Comparison to Other Detectors
+
+YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on par with Focal Loss but about 4x faster. Moreover, you can easily tradeoff between speed and accuracy simply by changing the size of the model, no retraining required!
