@@ -5175,3 +5175,31 @@ https://lxml.de/
 XML and HTML with Python
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language
 
+
+
+
+Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul
+
+	Consul vs. Eureka 
+	https://www.consul.io/intro/vs/eureka.html
+	
+	Comparison of Spring Cloud with Eureka vs. Consul.io
+	www.nvisia.com/insights/comparison-of-spring-cloud-with-eureka-vs.-consul
+
+	Consul vs Eureka vs Zookeeper
+	https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper
+	
+	Compare Eureka vs HashiCorp Consul
+	https://www.g2.com/compare/netflix-eureka-vs-hashicorp-consul
+	
+	Compare Eureka and consul-api's popularity and activity
+	https://java.libhunt.com/compare-eureka-vs-consul-api
+	
+	StevenACoffman/Eureka vs Consul.md
+	https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583
+	
+	What is the role of Zookeeper vs Eureka for microservices?
+	https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices
+	
+	Spring Cloud: use consul instead of eureka for service discovery with zuul
+	https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul
