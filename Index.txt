@@ -5203,3 +5203,18 @@ Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul
 	
 	Spring Cloud: use consul instead of eureka for service discovery with zuul
 	https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul
+	
+	
+
+	
+7labs	
+https://7labs.io/
+The Mission
+We are a small team of tech savvy people who just love to keep up with the latest technology inventions. 
+Be it computer, mobile phones, applications or any other software, we just want to test everything.
+We try to find out how to make the best use of a particular product. 
+In our ventures, we have also tried to figure out ways of making things work. 
+Whenever we wanted to achieve some goal, first we used to search for a solution on the one place everybody looks for – the Internet. 
+Yeah, sometimes we did find solution there, but at other times when we didn’t, we tried our own ways to find a suitable alternative. 
+And if we were lucky enough, a solution would be discovered.
+
