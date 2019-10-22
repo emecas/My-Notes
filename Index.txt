@@ -5218,3 +5218,8 @@ Whenever we wanted to achieve some goal, first we used to search for a solution 
 Yeah, sometimes we did find solution there, but at other times when we didn’t, we tried our own ways to find a suitable alternative. 
 And if we were lucky enough, a solution would be discovered.
 
+
+
+
+How I Fixed JWT Security Flaws in 3 Steps 
+https://dev.to/dashbird/how-i-fixed-jwt-security-flaws-in-3-steps-264k
