@@ -5223,3 +5223,14 @@ And if we were lucky enough, a solution would be discovered.
 
 How I Fixed JWT Security Flaws in 3 Steps 
 https://dev.to/dashbird/how-i-fixed-jwt-security-flaws-in-3-steps-264k
+
+
+
+
+Autonomous Transactions
+https://oracle-base.com/articles/misc/autonomous-transactions
+Autonomous transactions allow you to leave the context of the calling transaction, 
+perform an independant transaction, and return to the calling transaction without affecting it's state. 
+The autonomous transaction has no link to the calling transaction, 
+so only commited data can be shared by both transactions.
+
