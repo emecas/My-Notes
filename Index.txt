@@ -5234,3 +5234,10 @@ perform an independant transaction, and return to the calling transaction withou
 The autonomous transaction has no link to the calling transaction, 
 so only commited data can be shared by both transactions.
 
+
+
+
+Package by feature, not layer
+http://www.javapractices.com/topic/TopicAction.do;jsessionid=0BF4844350780B6F55476E1137FF4893?Id=205
+The first question in building an application is "How do I divide it up into packages?". 
+For typical business applications, there seems to be two ways of answering this question. 
