@@ -5241,3 +5241,12 @@ Package by feature, not layer
 http://www.javapractices.com/topic/TopicAction.do;jsessionid=0BF4844350780B6F55476E1137FF4893?Id=205
 The first question in building an application is "How do I divide it up into packages?". 
 For typical business applications, there seems to be two ways of answering this question. 
+
+
+
+
+Becoming a Technical Leader: An Organic Problem-Solving Approach (Paperback)
+by Gerald M. Weinberg (Author), Ken Orr (Foreword) 
+ISBN-13: 978-0932633026
+ISBN-10: 9780932633026 
+Ref: from https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/
