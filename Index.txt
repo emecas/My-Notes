@@ -5250,3 +5250,11 @@ by Gerald M. Weinberg (Author), Ken Orr (Foreword)
 ISBN-13: 978-0932633026
 ISBN-10: 9780932633026 
 Ref: from https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/
+
+
+
+
+JDK 11 on the Raspberry Pi
+2019-01-13 - By Marcus
+http://hirt.se/blog/?p=1116
+This is a very short post on what I ended up doing to get an OpenJDK 11 build for Raspbian on my Raspberry Pi 3.
