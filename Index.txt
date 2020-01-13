@@ -5258,3 +5258,14 @@ JDK 11 on the Raspberry Pi
 2019-01-13 - By Marcus
 http://hirt.se/blog/?p=1116
 This is a very short post on what I ended up doing to get an OpenJDK 11 build for Raspbian on my Raspberry Pi 3.
+
+
+
+
+CRNK
+https://www.crnk.io/
+Crnk is a native resource-oriented rest library where resources and relationships are first class citizens and not just path mappings on methods. 
+Model your application as resources and relationshipsand implement the repositories to access them. 
+This simplifies development and opens up many, powerful new possibilities
+
+REF: https://dev.to/nchrisz/creating-rest-with-crnk-3a6m
