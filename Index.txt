@@ -5269,3 +5269,19 @@ Model your application as resources and relationshipsand implement the repositor
 This simplifies development and opens up many, powerful new possibilities
 
 REF: https://dev.to/nchrisz/creating-rest-with-crnk-3a6m
+
+
+
+
+Reactive Spring
+
+news: https://spring.io/blog/2016/02/09/reactive-spring
+guide: https://spring.io/guides/gs/reactive-rest-service/
+
+GIT: https://github.com/spring-guides/gs-reactive-rest-service
+Building a Reactive RESTful Web Service :: Learn how to create a RESTful web service with Reactive Spring. 
+
+ref: https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/
+slides: https://www.slideshare.net/poutsma/reactive-programming-in-spring-5
+other: https://springframework.guru/spring-web-reactive/
+
