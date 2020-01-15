@@ -5285,3 +5285,24 @@ ref: https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reac
 slides: https://www.slideshare.net/poutsma/reactive-programming-in-spring-5
 other: https://springframework.guru/spring-web-reactive/
 
+
+ScrapBook Pages
+
+Snippet
+
+     int  n = 3;
+     System.out.println(n);
+     java.util.Hashtable ht = new java.util.Hashtable ();
+     ht.put("1","a");
+     ht.put("2","e");
+     ht.put("3","i");
+     ht.put("4","o");
+     ht.put("5","u");
+     System.out.println(ht.keySet());
+     System.out.println(ht.values());
+
+Output
+
+    3
+    [5, 4, 3, 2, 1]
+    [u, o, i, e, a]
