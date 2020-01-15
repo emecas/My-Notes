@@ -5285,3 +5285,35 @@ ref: https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reac
 slides: https://www.slideshare.net/poutsma/reactive-programming-in-spring-5
 other: https://springframework.guru/spring-web-reactive/
 
+
+
+
+ScrapBook Pages
+https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/
+
+So, what is Scrapbook Page? To put it simply, 
+it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook. 
+No need to create any temperory classes (like I did in the previous para). 
+You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it. 
+You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?
+
+File -> New -> Other -> Java -> Java Run/Debug -> Scrapbook page. 
+
+Functional Snippet (it seems you need to included the full package for classes out of lang package)
+
+     int  n = 3;
+     System.out.println(n);
+     java.util.Hashtable ht = new java.util.Hashtable ();
+     ht.put("1","a");
+     ht.put("2","e");
+     ht.put("3","i");
+     ht.put("4","o");
+     ht.put("5","u");
+     System.out.println(ht.keySet());
+     System.out.println(ht.values());
+
+Output
+
+    3
+    [5, 4, 3, 2, 1]
+    [u, o, i, e, a]
