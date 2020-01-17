@@ -5317,3 +5317,11 @@ Output
     3
     [5, 4, 3, 2, 1]
     [u, o, i, e, a]
+
+
+
+
+Using JPA in Helidon MP	
+https://helidon.io/docs/latest/index.html#/guides/24_jpa
+This guide shows how to configure and use the Java Persistence API (JPA) from within a Helidon MP application.
+Ref: https://github.com/oracle/helidon/issues/205
