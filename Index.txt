@@ -5325,3 +5325,11 @@ Using JPA in Helidon MP
 https://helidon.io/docs/latest/index.html#/guides/24_jpa
 This guide shows how to configure and use the Java Persistence API (JPA) from within a Helidon MP application.
 Ref: https://github.com/oracle/helidon/issues/205
+
+
+
+
+Metrics MP Guide
+https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide
+This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples 
+using both built-in and custom metrics with Helidon MP.
