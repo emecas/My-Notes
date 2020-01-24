@@ -5342,3 +5342,12 @@ Manage your Java environment
 http://www.jenv.be/
 Github: https://github.com/jenv/jenv
 Ref: https://stackoverflow.com/a/45336908/833336
+
+
+
+
+How to enable HTTPS in a Spring Boot Java application
+https://www.thomasvitale.com/https-spring-boot-ssl-certificate/
+Setting up HTTPS for Spring Boot requires two steps: getting an SSL certificate and configuring SSL in Spring Boot. 
+Whether you're going to generate a self-signed certificate or you have already got one by a CA,
+I'll show you how to enable HTTPS in a Spring Boot application.
