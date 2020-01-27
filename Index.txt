@@ -5360,3 +5360,11 @@ https://research.google/pubs/pub43864/
 http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf
 Ref: https://www.se-radio.net/2016/10/
 
+
+
+
+Codidact
+https://codidact.org/
+A community-controlled, open-source Q&A platform. 
+Github: https://github.com/codidact/core
+Ref: https://news.ycombinator.com/item?id=22111385
