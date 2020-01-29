@@ -5368,3 +5368,12 @@ https://codidact.org/
 A community-controlled, open-source Q&A platform. 
 Github: https://github.com/codidact/core
 Ref: https://news.ycombinator.com/item?id=22111385
+
+
+
+
+docker sudo issue fix
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.39/containers/json: dial unix /var/run/docker.sock: connect: permission denied
+Solution: https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/
+> sudo usermod -a -G docker $USER
+
