@@ -5377,3 +5377,9 @@ Got permission denied while trying to connect to the Docker daemon socket at uni
 Solution: https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/
 > sudo usermod -a -G docker $USER
 
+
+
+
+A Docker Cheat Sheet
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
+How To Remove Docker Images, Containers, and Volumes
