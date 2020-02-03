@@ -5383,3 +5383,28 @@ Solution: https://techoverflow.net/2017/03/01/solving-docker-permission-denied-w
 A Docker Cheat Sheet
 https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
 How To Remove Docker Images, Containers, and Volumes
+
+
+
+
+RAMCloud
+https://github.com/PlatformLab/RAMCloud
+
+What is RAMCloud?
+
+RAMCloud is a new class of super-high-speed storage for large-scale datacenter applications. 
+It is designed for applications in which a large number of servers in a datacenter need low-latency access to a large durable datastore. 
+RAMCloud offers the following properties:
+
+    Low latency: RAMCloud keeps all data in DRAM at all times, so applications can read RAMCloud objects remotely over a datacenter network in as little as 5μs. Writes take less than 15μs. Unlike systems such as memcached, applications never have to deal with cache misses or wait for disk/flash accesses. As a result, RAMCloud storage is 10-1000x faster than other available alternatives.
+    Large scale: RAMCloud aggregates the DRAM of thousands of servers to support total capacities of 1PB or more.
+    Durability: RAMCloud replicates all data on nonvolatile secondary storage such as disk or flash, so no data is lost if servers crash or the power fails. One of RAMCloud's unique features is that it recovers very quickly from server crashes (only 1-2 seconds) so the availability gaps after crashes are almost unnoticeable. As a result, RAMCloud combines the durability of replicated disk with the speed of DRAM. If you have used memcached, you have probably experienced the challenges of managing a second durable storage system and maintaining consistency between it and memcached. With RAMCloud, there is no need for a second storage system.
+    Powerful data model: RAMCloud's basic data model is a key-value store, but we have extended it with several additional features, such as:
+        Multiple tables, each with its own key space.
+        Transactional updates that span multiple objects in different tables.
+        Secondary indices.
+        Strong consistency: unlike other NoSQL storage systems, all updates in RAMCloud are consistent, immediately visible, and durable.
+    Easy deployment: RAMCloud is a software package that runs on commodity Intel servers with the Linux operating system. RAMCloud is available freely in open source form.
+
+https://ramcloud.atlassian.net/wiki/spaces/RAM/overview
+ref: [Book] Designing Data-Intensive Applications: the big ideas behind reliable, scalable, and maintainable systems
