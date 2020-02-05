@@ -5408,3 +5408,39 @@ RAMCloud offers the following properties:
 
 https://ramcloud.atlassian.net/wiki/spaces/RAM/overview
 ref: [Book] Designing Data-Intensive Applications: the big ideas behind reliable, scalable, and maintainable systems
+
+
+
+
+Kibana Filters
+
+tomcat
+	
+	message:	Written [{"sp":{"success":false,"code":57013,"message":"java.lang.NullPointerException ZRESIDENCE.TRANSACT.fci_complete_with_get_budget{p_term_code=202020, p_pidm=12345678}"},"stz":{"success":false,"code":-1,"message":"NOT_CALLED"}}] as "application/json" using [org.springframework.http.converter.StringHttpMessageConverter@bdc8014]
+
+	log.file.path: 	/opt/tomcat/embedded/contex-path/logs/service.log
+	
+	host.name: 	node#.tomcat.freedom.edu
+	
+	container: contex-path
+	
+	application: contex-path
+	
+	log_type: 	tomcat
+	
+web log
+
+	request.path = [/contex-path/end-point]
+	
+	request.status = HTTP STATUS CODE (200 201 404 401)
+	
+	request.worker.name  =	sb_[jcpport]
+
+	source = 	/var/log/httpd/access_log
+
+	topic =	apache
+
+	request.domain = 	www.freedom.edu
+	
+	request.method = POST 
+	
