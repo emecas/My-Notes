@@ -5443,4 +5443,19 @@ web log
 	request.domain = 	www.freedom.edu
 	
 	request.method = POST 
+
 	
+ 
+ 
+correlation-ids
+
+- The Value of Correlation IDs
+https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/
+- Correlation IDs for microservices architectures
+https://hilton.org.uk/blog/microservices-correlation-id
+- Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)
+https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/
+- Best Practices for Building a Microservice Architecture (#correlation-ids)
+https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids
+
+
