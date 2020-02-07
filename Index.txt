@@ -5459,3 +5459,9 @@ https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spri
 https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids
 
 
+
+
+How to Disable Auto-commit Mode in Spring Boot
+-Doracle.jdbc.autoCommitSpecCompliant=false
+https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d
+https://github.com/rsim/ruby-plsql/issues/121
