@@ -5465,3 +5465,16 @@ How to Disable Auto-commit Mode in Spring Boot
 -Doracle.jdbc.autoCommitSpecCompliant=false
 https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d
 https://github.com/rsim/ruby-plsql/issues/121
+
+
+
+
+Crux
+Open Time Store 
+https://github.com/juxt/crux
+https://opencrux.com/
+Crux is an open source document database with bitemporal graph queries. 
+Java, Clojure and HTTP APIs are provided.
+Ref: Introducing Crux JDBC
+https://juxt.pro/blog/posts/crux-jdbc.html
+
