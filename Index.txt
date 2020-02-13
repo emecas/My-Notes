@@ -5507,3 +5507,8 @@ To change the GitLab URL, use -e GITLAB_URL=<your url>
 Bring your own config file: docker run -it --rm -v /path/to/python-gitlab.cfg:/python-gitlab.cfg -e GITLAB_CFG=/python-gitlab.cfg python-gitlab <command> ...
 
 
+
+
+How to Fix Right Click Touchpad Not Working on Ubuntu 18.04 
+https://itsfoss.com/fix-right-click-touchpad-ubuntu/
+sudo apt install gnome-tweaks
