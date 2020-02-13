@@ -5478,3 +5478,32 @@ Java, Clojure and HTTP APIs are provided.
 Ref: Introducing Crux JDBC
 https://juxt.pro/blog/posts/crux-jdbc.html
 
+
+
+
+python-gitlab
+https://github.com/python-gitlab/python-gitlab
+Python wrapper for the GitLab API
+
+python-gitlab is a Python package providing access to the GitLab server API.
+It supports the v4 API of GitLab, and provides a CLI tool (gitlab).
+
+Docker:
+
+How to build
+
+docker build -t python-gitlab:TAG .
+
+How to use
+
+docker run -it --rm -e GITLAB_PRIVATE_TOKEN=<your token> -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab <command> ...
+
+or run it directly from the upstream image:
+
+docker run -it --rm -e GITLAB_PRIVATE_TOKEN=<your token> -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest <command> ...
+
+To change the GitLab URL, use -e GITLAB_URL=<your url>
+
+Bring your own config file: docker run -it --rm -v /path/to/python-gitlab.cfg:/python-gitlab.cfg -e GITLAB_CFG=/python-gitlab.cfg python-gitlab <command> ...
+
+
