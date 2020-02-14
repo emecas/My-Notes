@@ -5512,3 +5512,12 @@ Bring your own config file: docker run -it --rm -v /path/to/python-gitlab.cfg:/p
 How to Fix Right Click Touchpad Not Working on Ubuntu 18.04 
 https://itsfoss.com/fix-right-click-touchpad-ubuntu/
 sudo apt install gnome-tweaks
+
+
+
+
+Scoop
+https://scoop.sh/
+A command-line installer for Windows
+https://github.com/lukesampson/scoop
+https://github.com/rasa/scoop-directory
