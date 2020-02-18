@@ -5521,3 +5521,12 @@ https://scoop.sh/
 A command-line installer for Windows
 https://github.com/lukesampson/scoop
 https://github.com/rasa/scoop-directory
+
+
+
+
+Software Engineering Handbook
+https://software-engineering-handbook.com/
+https://software-engineering-handbook.com/Handbook/
+github:https://github.com/uribench/software-engineering-handbook
+
