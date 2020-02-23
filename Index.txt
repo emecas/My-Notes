@@ -5530,3 +5530,23 @@ https://software-engineering-handbook.com/
 https://software-engineering-handbook.com/Handbook/
 github:https://github.com/uribench/software-engineering-handbook
 
+
+
+
+A Stack to Build Collective Intelligence Technology
+https://www.welcometothejungle.com/en/articles/btc-collective-intelligence-stack-bluenove
+January 29, 2020
+
+	- a rich schema that models concepts such as themes, ideas, messages, reactions, sentiments
+	- how the different personas or actors need to interact with the system
+	- every post being tied into the IBM Watson Natural Language Understanding API
+	- a microservice called Holmes to communicate with the IBM Watson APIs
+	- a developer should not have to step out of their comfort zone in order to generate their microservice—or in other words, we don’t force a Python developer to install Node.js in order to generate their Python microservice
+	- 3 different algorithm
+	    - a semantic analysis clustering algorithm for on-site live debates. This uses a combination of unsupervised and then supervised learning in order to group and classify responses into topics
+		- an NLP algorithm designed to find actionable solutions in text
+		- 
+	- precision, recall, and F1-score (harmonic average of precision and recall) as part of our scoring
+	
+Ref:  Explaining precision and recall
+https://medium.com/@klintcho/explaining-precision-and-recall-c770eb9c69e9
