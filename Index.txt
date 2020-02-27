@@ -5575,3 +5575,10 @@ https://github.com/eclipse-ee4j/krazo/wiki
 Related links: 
     https://www.mvc-spec.org/
     https://jcp.org/en/jsr/detail?id=371
+
+
+
+
+Drop-down terminal for GNOME 
+http://guake-project.org
+https://github.com/Guake/guake
