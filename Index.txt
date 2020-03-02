@@ -5600,3 +5600,17 @@ https://github.com/NVIDIA/nvidia-docker
 Build and run Docker containers leveraging NVIDIA GPUs 
 The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.
 https://github.com/NVIDIA/nvidia-docker/wiki
+
+
+
+
+Can Machines And Artificial Intelligence Be Creative? 
+https://www.forbes.com/sites/bernardmarr/2020/02/28/can-machines-and-artificial-intelligence-be-creative/#781c16a44580
+
+interview: Marcus du Sautoy
+https://www.youtube.com/watch?v=7tHIHCQccjg
+
+Book: 
+The Creativity Code: Art and Innovation in the Age of AI Hardcover
+April 15, 2019
+https://www.amazon.com/Creativity-Code-Art-Innovation-Age/dp/0674988132/
