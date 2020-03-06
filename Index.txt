@@ -5623,3 +5623,25 @@ https://lineardigressions.com/
 https://twitter.com/lindigressions @LinDigressions
 https://twitter.com/multiarmbandit Katie Malone
 Linear Digressions is a podcast about Machine Learning and Data Science
+
+
+
+
+Open Hospital 
+is a free and open source software for healthcare data management. 
+
+The organization web page:
+https://www.open-hospital.org/en/
+
+contribution section:
+https://www.open-hospital.org/en/contribute-actively/
+
+The git repo:
+https://github.com/informatici/openhospital 
+This repository is used to build its portable releases.
+
+Other repos:
+https://github.com/informatici/openhospital-gui
+https://github.com/informatici/openhospital-doc
+https://github.com/informatici/openhospital-core
+https://github.com/informatici/openhospital-api
