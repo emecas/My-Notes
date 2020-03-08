@@ -5645,3 +5645,12 @@ https://github.com/informatici/openhospital-gui
 https://github.com/informatici/openhospital-doc
 https://github.com/informatici/openhospital-core
 https://github.com/informatici/openhospital-api
+
+
+
+
+Monitoror
+https://monitoror.com
+Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything. 
+https://github.com/monitoror/monitoror
+https://demo.monitoror.com/
