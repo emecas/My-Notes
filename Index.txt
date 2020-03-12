@@ -5654,3 +5654,25 @@ https://monitoror.com
 Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything. 
 https://github.com/monitoror/monitoror
 https://demo.monitoror.com/
+
+
+
+
+JUnit 5 vs. Spock feature showdown
+https://bmuschko.com/blog/junit5-vs-spock-showdown/
+January 1, 2018
+
+For a quick reference, you can directly jump to a specific test framework feature:
+    Test execution
+    Fixture set up and tear down
+    Descriptive test names
+    Disabling tests
+    Expecting thrown exceptions
+    Repeating test execution
+    Declaring test execution timeouts
+    Conditional test execution
+    Data-driven tests
+    Mocking
+    Labeling and filtering test execution
+    Extending the test framework
+
