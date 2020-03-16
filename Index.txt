@@ -5683,3 +5683,19 @@ Apache Weex
 Weex is a framework for building performant mobile apps with modern web technology.
 https://weex.apache.org/	
 	
+	
+
+
+xpra
+https://xpra.org/
+multi-platform screen and application forwarding system "screen for X11" 
+Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens.
+
+It gives you remote access to individual applications or full desktops.
+On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state.
+It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.
+
+Xpra also allows forwarding of sound, clipboard and printing services.
+Sessions can be accessed over SSH, or password protected over plain TCP sockets with or without SSL.
+Xpra is usable over reasonably slow links and does its best to adapt to changing network bandwidth constraints
+
