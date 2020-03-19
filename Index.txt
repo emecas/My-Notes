@@ -5724,8 +5724,8 @@ The key features are:
 
     Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
 
-	
 
+	
 	
 Papers with Code
 @paperswithcode	
@@ -5737,3 +5737,29 @@ The mission of Papers With Code is to create a free and open resource with Machi
 We believe this is best done together with the community and powered by automation.
 
 We've already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers. 
+
+
+
+
+The Remoter Library
+https://www.remoter.com/
+Learn about recruiting, leadership, management and scaling remote teams from seasoned remoters.
+
+Explore by type
+	Articles
+	Podcasts
+	Interviews
+	Events
+	Templates
+
+Explore by topic
+	HR & Legal
+	Culture
+	Guest
+	Work-Life Integration
+	Productivity
+	Business & Finance
+	Diverse Workspace
+
+REF: torre.bio/torrenegra  -> https://bio.torre.co/en/torrenegra
+
