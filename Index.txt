@@ -5763,3 +5763,37 @@ Explore by topic
 
 REF: torre.bio/torrenegra  -> https://bio.torre.co/en/torrenegra
 
+
+
+
+go-covid 
+Go Package to get information regarding the novel corona virus provided by Johns Hopkins university
+https://ahmednafies.github.io/go-covid/
+https://github.com/ahmednafies/go-covid
+
+	Get All Data
+		data := covid.GetData()
+		fmt.Println(data)
+
+	Get Status By Country Name
+		data := covid.GetCountryByName("italy")
+
+	List Countries
+		covid.ListCountries()
+
+	Get Status by Country ID
+		data := covid.GetCountryById(113)
+
+	Get Total Active Cases
+		active := covid.GetTotalActive()
+
+	Get Total Confirmed Cases
+		confirmed := covid.GetTotalConfirmed()
+
+	Get Total Recovered Cases
+		recovered := covid.GetTotalRecovered()
+
+	Get Total Deaths
+		deaths := covid.GetTotalDeaths()
+
+		
