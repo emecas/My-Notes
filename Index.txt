@@ -5819,3 +5819,25 @@ IBM Q Provider 	https://qiskit.org/ibmqaccount
 
 Qiskit Tutorials: https://github.com/Qiskit/qiskit-tutorials
 
+
+
+
+Tilt 
+https://tilt.dev/
+Tilt Up and Get Stuff Done
+Tilt manages local development instances for teams that deploy to Kubernetes.
+
+	Transition easily from any setup
+		Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”
+		(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.
+		
+
+	Update services quickly
+		Tilt watches your filesystem and updates your servers in seconds so you can spend more time getting stuff done and less time watching paint dry. 
+		Tilt makes even the most complicated setups feel snappy again — and that’s no easy task.
+		> Get more stuff done 
+
+	See problems instantly
+		Stop playing 20 questions with kubectl each time your app misbehaves. Tilt collects problems from across tools and services into one UI. 
+		One place to see build breakages, yaml typos, crash loops, and request exceptions.
+		> Waste less time tracking down issues 
