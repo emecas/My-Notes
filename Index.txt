@@ -5841,3 +5841,49 @@ Tilt manages local development instances for teams that deploy to Kubernetes.
 		Stop playing 20 questions with kubectl each time your app misbehaves. Tilt collects problems from across tools and services into one UI. 
 		One place to see build breakages, yaml typos, crash loops, and request exceptions.
 		> Waste less time tracking down issues 
+
+
+
+
+AWS Cloud Development Kit - AWS CDK
+https://cdkworkshop.com/
+The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun 
+and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.
+
+Next, we’ll introduce the powerful concept of CDK constructs.
+Constructs allow you to bundle up a bunch of infrastructure into reusable components which 
+anyone can compose into their apps. We’ll walk you through writing your own construct.
+
+Content:
+    - Create new CDK applications.
+    - Define your app’s infrastructure using the AWS Construct Library
+    - Deploy your CDK apps to your AWS account
+    - Define your own reusable constructs
+    - Consume constructs published by other people
+
+        Java Workshop
+
+            New Project
+                cdk init
+                Project structure
+                cdk synth
+                cdk deploy
+            Hello, CDK!
+                Cleanup sample
+                Hello Lambda
+                API Gateway
+            Writing constructs
+                Define the HitCounter API
+                Hit counter handler
+                Define resources
+                Use the hit counter
+                CloudWatch Logs
+                Granting permissions
+                Test the hit counter
+            Using construct libraries
+                Learning about the Table Viewer construct
+                Installing the library
+                Add the table viewer to your app
+                Deploying our app
+                Extra credit
+            Clean up
