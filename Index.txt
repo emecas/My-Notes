@@ -5798,6 +5798,7 @@ https://github.com/ahmednafies/go-covid
 
 
 
+
 Semantic Versioning 2.0.0
 https://semver.org/
 Summary
@@ -5809,4 +5810,97 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
     PATCH version when you make backwards compatible bug fixes.
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+
+
+
+Qiskit
+https://qiskit.org/
+https://github.com/Qiskit
+An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
+
+https://github.com/Qiskit/qiskit
+Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
+Qiskit is made up elements that each work together to enable quantum computing. This is a simple meta-package to install the elements of Qiskit altogether.
+
+The four elements of Qiskit are the essential parts that give Qiskit its power
+Qiskit Terra https://qiskit.org/terra
+Qiskit Aer   https://qiskit.org/aer
+Qiskit Ignis https://qiskit.org/ignis
+Qiskit Aqua  https://qiskit.org/aqua
+
+And if you want to run your experiments on real systems you need the 5th element
+IBM Q Provider 	https://qiskit.org/ibmqaccount
+
+Qiskit Tutorials: https://github.com/Qiskit/qiskit-tutorials
+
+
+
+
+Tilt 
+https://tilt.dev/
+Tilt Up and Get Stuff Done
+Tilt manages local development instances for teams that deploy to Kubernetes.
+
+	Transition easily from any setup
+		Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”
+		(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.
+		
+
+	Update services quickly
+		Tilt watches your filesystem and updates your servers in seconds so you can spend more time getting stuff done and less time watching paint dry. 
+		Tilt makes even the most complicated setups feel snappy again — and that’s no easy task.
+		> Get more stuff done 
+
+	See problems instantly
+		Stop playing 20 questions with kubectl each time your app misbehaves. Tilt collects problems from across tools and services into one UI. 
+		One place to see build breakages, yaml typos, crash loops, and request exceptions.
+		> Waste less time tracking down issues 
+
+
+
+
+AWS Cloud Development Kit - AWS CDK
+https://cdkworkshop.com/
+The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun 
+and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.
+
+Next, we’ll introduce the powerful concept of CDK constructs.
+Constructs allow you to bundle up a bunch of infrastructure into reusable components which 
+anyone can compose into their apps. We’ll walk you through writing your own construct.
+
+Content:
+    - Create new CDK applications.
+    - Define your app’s infrastructure using the AWS Construct Library
+    - Deploy your CDK apps to your AWS account
+    - Define your own reusable constructs
+    - Consume constructs published by other people
+
+        Java Workshop
+
+            New Project
+                cdk init
+                Project structure
+                cdk synth
+                cdk deploy
+            Hello, CDK!
+                Cleanup sample
+                Hello Lambda
+                API Gateway
+            Writing constructs
+                Define the HitCounter API
+                Hit counter handler
+                Define resources
+                Use the hit counter
+                CloudWatch Logs
+                Granting permissions
+                Test the hit counter
+            Using construct libraries
+                Learning about the Table Viewer construct
+                Installing the library
+                Add the table viewer to your app
+                Deploying our app
+                Extra credit
+            Clean up
+
 
