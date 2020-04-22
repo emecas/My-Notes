@@ -5957,3 +5957,34 @@ Ref: https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-te
 	Knuth eventually merged his dual loves of discrete digital problems and large collections of information in his magnum opus, The Art of Computer Programming — a book series he began writing as a graduate student in 1962 and has yet to complete. He published volume 1 in 1968, and the current version is in its 42nd printing. Volume 2 followed in 1969 and volume 3 in 1973. By then he was a computer science professor at Stanford University, but he worried that his work would prevent him from completing his books. So he took a leave of absence in 1990 and then retired in 1993 to spend the rest of his life completing the seven-volume set. Now 82, he’s hard at work on part B of volume 4, and he anticipates that the book will have at least parts A through F.
 
 PDF FORMAT: https://www.informit.com/promotions/art-of-computer-programming-books-and-ebooks-140521
+
+
+
+
+diagrams.net
+Diagram with anyone, anywhere.
+diagrams.net is open source, online, desktop and container deployable diagramming software
+https://app.diagrams.net/
+
+diagrams.net lets you create a wide range of diagrams, from simple tree and flow diagrams, to highly technical network, rack and electrical diagrams.
+
+It’s a free, online diagram editor and viewer with a wide variety of shapes, icons, connector and templates to help you get started quickly. It’s also feature-rich–experienced diagrammers will feel at home.
+
+We aim to provide free, high quality diagramming software for everyone, and disrupt the diagramming industry in the process.
+
+	basic
+	Business
+	Charts
+	Cloud
+	Engineering
+	Flowcharts
+	Layout
+	Maps
+	Network
+	Other
+	Software
+	Tables
+	UML
+	Venn
+blog: https://www.diagrams.net/blog
+
