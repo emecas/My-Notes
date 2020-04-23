@@ -5988,3 +5988,29 @@ We aim to provide free, high quality diagramming software for everyone, and disr
 	Venn
 blog: https://www.diagrams.net/blog
 
+
+
+
+trello-cli
+Command line client for Trello 
+https://github.com/mheap/trello-cli
+
+Supported API commands
+
+trello-cli currently supports the following commands:
+
+add-board          Adds a new board with the specified name
+add-card           Add a card to a board
+add-list           Adds a new list to the spcified board with the specified name
+assigned-to-me     Show cards that are currently assigned to you
+close-board        Closes those board(s) where the specified text occurs in their name
+delete-card        Remove a card from a board
+move-all-cards     Move all cards from one list to another
+refresh            Refresh all your board/list names
+show-boards        Show the list of cached boards
+show-cards         Show the cards on a list
+show-labels        Show labels defined on a board
+show-list          DEPRECATED.  Show cards on a list (use 'show-cards' instead; command retained for backwards compatibility)
+show-lists         Show the list of cached lists
+
+
