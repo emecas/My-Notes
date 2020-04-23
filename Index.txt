@@ -6014,3 +6014,10 @@ show-list          DEPRECATED.  Show cards on a list (use 'show-cards' instead; 
 show-lists         Show the list of cached lists
 
 
+
+
+CherryTree 0.39.2
+A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlighting
+www.giuspen.com/cherrytree/
+http://giuspen.com/cherrytreemanual/
+
