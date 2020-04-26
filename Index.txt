@@ -6032,3 +6032,23 @@ Ditching Hourly podcast: https://podcast.ditchinghourly.com/
 
 Ref: SE-Radio Episode 300: Jonathan Stark on Mobile App Development
 https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/
+
+
+
+
+
+https://sequencediagram.org
+SequenceDiagram.org is an online tool / software for creating UML sequence diagrams. Founded in 2014 with the purpose to improve the efficiency when 
+creating and working with sequence diagrams by combining text notation scripting and drawing by clicking and dragging in the same model.
+All parsing, processing, and drawing are done client side. The benefit of this is that SequenceDiagram.org is fast and convenient to work with;
+it also doesn’t transfer your diagram data over the Internet like many other sequence diagram tools on the market. 
+This also means that it is possible to work with the tool offline.
+The tool is developed, maintained, and used by people who create a lot of sequence diagrams in their daily work. 
+If you have any question/comments /suggestions/bugs please contact info@sequencediagram.org. The more feedback we get the better we can prioritize.
+
+FAQ:
+Is the codebase of SequenceDiagram.org open source?
+The codebase is currently not available under any open source license
+
+https://plantuml.com/
+
