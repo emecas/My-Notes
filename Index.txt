@@ -6052,3 +6052,38 @@ The codebase is currently not available under any open source license
 
 https://plantuml.com/
 
+
+
+
+JavaFaker
+https://github.com/DiUS/java-faker
+Brings the popular ruby faker gem to Java
+JavaFaker is a library that can be used to generate a wide array of real-looking data from addresses to popular culture references.
+
+	maven:
+		<dependency>
+			<groupId>com.github.javafaker</groupId>
+			<artifactId>javafaker</artifactId>
+			<version>1.0.2</version>
+		</dependency>
+
+	gradle:
+		dependencies {
+			implementation 'com.github.javafaker:javafaker:1.0.2'
+		}
+
+		
+	Java code	
+		Faker faker = new Faker();
+
+		String name = faker.name().fullName(); // Miss Samanta Schmidt
+		String firstName = faker.name().firstName(); // Emory
+		String lastName = faker.name().lastName(); // Barton
+
+		String streetAddress = faker.address().streetAddress(); // 60018 Sawayn Brooks Suite 449
+
+
+Ref: https://www.baeldung.com/java-faker
+
+In this tutorial, we'll be looking at how to use JavaFaker's classes to generate fake data. We'll start by introducing the Faker class and the FakeValueService, before moving on to introducing locales to make the data more specific to a single place.
+
