@@ -6087,3 +6087,11 @@ Ref: https://www.baeldung.com/java-faker
 
 In this tutorial, we'll be looking at how to use JavaFaker's classes to generate fake data. We'll start by introducing the Faker class and the FakeValueService, before moving on to introducing locales to make the data more specific to a single place.
 
+
+
+
+react-burger-menu
+An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations 
+https://github.com/negomi/react-burger-menu
+http://negomi.github.io/react-burger-menu/
+
