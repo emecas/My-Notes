@@ -6128,3 +6128,12 @@ https://dzone.com/articles/7-popular-unit-test-naming
 	7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:
 		Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail
 
+
+
+
+Comic Agile
+http://www.comicagile.net
+when agility meets reality
+by Luxshan Ratnaravi and Mikkel Noe-Nygaard
+https://noe-nygaard.dk/comicagile/
+
