@@ -6137,3 +6137,44 @@ when agility meets reality
 by Luxshan Ratnaravi and Mikkel Noe-Nygaard
 https://noe-nygaard.dk/comicagile/
 
+
+
+
+HAL Management Console
+    WildFly Full
+	https://www.wildfly.org/
+	WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications. 
+	
+	Doc: https://docs.wildfly.org/19/
+	https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface
+		
+	Configuration sample:
+	
+		<plugins>
+        
+            <plugin>
+                <groupId>org.wildfly.plugins</groupId>
+                <artifactId>wildfly-maven-plugin</artifactId>
+                <version>2.0.2.Final</version>    
+                <configuration>
+                    <version>19.0.0.Final</version> 
+                    <server-config>standalone-microprofile.xml</server-config>
+                    <systemProperties>
+                        <jboss.tx.node.id>1</jboss.tx.node.id>
+                    </systemProperties>
+                    <!-- So that you can log into localhost:9990 -->
+                    <add-user>
+                        <users>
+                            <user>
+                                <username>admin</username>
+                                <password>password</password>
+                                <groups>
+                                    <group>admin</group>
+                                </groups>
+                            </user>
+                        </users>
+                    </add-user>
+                </configuration>
+            </plugin>    
+        </plugins>
+	
