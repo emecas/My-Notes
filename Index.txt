@@ -6194,3 +6194,30 @@ The Initiative ensures that open access to data in GISAID is provided free-of-ch
 
 All bonafide users with GISAID access credentials agreed to the basic premise of upholding a scientific etiquette, by acknowledging the Originating laboratories providing the specimens, and the Submitting laboratories generating sequence and other metadata, ensuring fair exploitation of results derived from the data, and that all users agree that no restrictions shall be attached to data submitted to GISAID, to promote collaboration among researchers on the basis of open sharing of data and respect for all rights and interests.
 
+
+
+
+Thorntail
+https://thorntail.io/
+Evolution of Enterprise Java -  Optimised for microservice architectures
+Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to "java -jar" your application. It's MicroProfile compatible, too. And, it's all much, much cooler than that 
+examples: https://github.com/thorntail/thorntail-examples
+
+	Mature
+	Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE 
+
+	Flexible
+	Simply specify Thorntail Maven dependencies to bundle just the parts of the Java EE 8 WildFly application server that you need. Don't use EJBs or JPA? Great, nothing is bundled unless you specify it! 
+
+	Straightforward
+	Generate uberjar (Ex: java -jar MyApp.jar), or generate a .war and deploy to any Java EE compatible application server. 
+
+	Service Oriented
+	Use built-in service discovery, or use external service registries. You choose. 
+
+	Practical
+	Built-in support for third party apps and frameworks like Logstash and NetFlix OSS projects like Hystrix and Ribbon. 
+
+	Integrated
+	Integrates with upstream Red Hat projects for single sign-on KeyCloak, monitoring Hawkular, data grid InfiniSpan, and more broadly, Platform as a Service OpenShift. 
+	
