@@ -6220,4 +6220,15 @@ examples: https://github.com/thorntail/thorntail-examples
 
 	Integrated
 	Integrates with upstream Red Hat projects for single sign-on KeyCloak, monitoring Hawkular, data grid InfiniSpan, and more broadly, Platform as a Service OpenShift. 
-	
+
+
+
+
+Kast
+https://kast.gg
+Kast is Watch Parties Made Easy
+Share movies, TV shows, games, and whatever you want with 100+ people.
+
+Mission
+
+It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.
