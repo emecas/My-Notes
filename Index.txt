@@ -6239,3 +6239,9 @@ It is a fundamental human need to feel connected; share, engage, and build conne
 Apache Empire-db
 Apache Empire-db is a relational database abstraction layer and data persistence component that allows developers to take a much more SQL-centric approach in application development than traditional Object-relational mapping frameworks (ORM). By providing a unique type-safe object orientated command API Empire-db allows building highly efficient SQL-statements that take full advantage of all database features while eliminating the need for error-prone string operations and literals. This, togehter with DBMS independent record and metadata managment leads to an unprecedented level of ease-of-use and compile-time-safety.
 https://empire-db.apache.org/index.html
+
+
+
+
+Maven in 5 Minutes
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
