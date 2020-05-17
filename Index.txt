@@ -6245,3 +6245,12 @@ https://empire-db.apache.org/index.html
 
 Maven in 5 Minutes
 https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+
+
+
+Clean URL (slug)
+https://en.wikipedia.org/wiki/Clean_URL#Slug
+Clean URLs, also sometimes referred to as RESTful URLs, user-friendly URLs, or search engine-friendly URLs, are Uniform Resource Locators (URLs) intended to improve the usability and accessibility of a website or web service by being immediately and intuitively meaningful to non-expert users. Such URL schemes tend to reflect the conceptual structure of a collection of information and decouple the user interface from a server's internal representation of information. Other reasons for using clean URLs include search engine optimization (SEO),[1] conforming to the representational state transfer (REST) style of software architecture, and ensuring that individual web resources remain consistently at the same URL. This makes the World Wide Web a more stable and useful system, and allows more durable and reliable bookmarking of web resources
+
+Some systems define a slug as the part of a URL that identifies a page in human-readable keywords.[4][5] It is usually the end part of the URL, which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word slug in the news media to indicate a short name given to an article for internal use. 
