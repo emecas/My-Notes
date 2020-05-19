@@ -6254,3 +6254,27 @@ https://en.wikipedia.org/wiki/Clean_URL#Slug
 Clean URLs, also sometimes referred to as RESTful URLs, user-friendly URLs, or search engine-friendly URLs, are Uniform Resource Locators (URLs) intended to improve the usability and accessibility of a website or web service by being immediately and intuitively meaningful to non-expert users. Such URL schemes tend to reflect the conceptual structure of a collection of information and decouple the user interface from a server's internal representation of information. Other reasons for using clean URLs include search engine optimization (SEO),[1] conforming to the representational state transfer (REST) style of software architecture, and ensuring that individual web resources remain consistently at the same URL. This makes the World Wide Web a more stable and useful system, and allows more durable and reliable bookmarking of web resources
 
 Some systems define a slug as the part of a URL that identifies a page in human-readable keywords.[4][5] It is usually the end part of the URL, which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word slug in the news media to indicate a short name given to an article for internal use. 
+
+
+
+
+HyperSQL
+http://hsqldb.org/
+HSQLDB - 100% Java Database
+
+HSQLDB is a mature product. Versions released in recent years have enhanced reliability and performance.
+
+Version 2.5.0 followed the 2.4.x releases with improvements in all areas and better support for new Java versions.
+
+Background
+
+HyperSQL is developed and published by the The HSQL Development Group. The group was formed in 2001 and has released several major new versions of the database over the years. 
+
+Version 2.0 was released in 2010 with a brand new transactional core engine and JDBC implementation. 
+
+The engine has been developed much further in version 2.5.0.
+
+Direct downloads from SourceForge exceed 2,000,000 copies, with hundreds of millions of copies distributed as part of other software packages.
+
+HyperSQL was selected as the SourceForge Project of the Month for January 2012. An interview with core developers is published here. 
+
