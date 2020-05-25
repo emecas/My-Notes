@@ -6318,3 +6318,71 @@ The Software Development Kit Manager
 SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community. 
 
 https://github.com/sdkman/sdkman-cli
+
+
+
+
+Meecrowave
+http://openwebbeans.apache.org/meecrowave/index.html
+A light JAX-RS+CDI+JSON server!
+	
+	Community / Downloads
+	http://openwebbeans.apache.org/meecrowave/community.html
+	http://openwebbeans.apache.org/meecrowave/download.html
+	
+	Maven Central
+	https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22
+
+	last release: org.apache.meecrowave	meecrowave-core	1.2.9	30-Sep-2019	pom  jar  javadoc.jar  runner.jar  sources.jar  
+
+	Tutorial:
+	https://www.baeldung.com/apache-meecrowave
+	
+	Components:
+	http://openwebbeans.apache.org/meecrowave/components.html
+
+	
+		Meecrowave Core
+
+		Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.
+
+
+		Meecrowave JPA
+
+			Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.
+
+		Meecrowave Maven
+
+			Meecrowave provides a Maven plugin to run meecrowave with your preferred build tool.
+
+		Meecrowave Gradle
+
+			Meecrowave provides a Gradle plugin to run meecrowave with your preferred build tool.
+
+		Meecrowave and the Testing
+
+			Meecrowave provides two main testing integration: a JUnit one and an Arquillian Container.
+
+		Meecrowave and Monitoring
+
+			Meecrowave provides few integration for the monitoring:
+
+			Jolokia (JMX)
+
+		Meecrowave and JTA
+
+			This is an experimental integration of geronimo-transaction and meecrowave.
+
+			JTA module
+		
+		Meecrowave and OAuth2
+
+			This is an experimental module integrating CXF OAuth2 server in Meecrowave through an embeddable dependency or a directly executable jar.
+
+			OAuth2 module
+		
+		Meecrowave Let’s Encrypt
+
+			This is an experimental module integrating with Let’s Encrypt to provide you free and easy SSL support on your HTTPS connectors.
+
+			Let’s Encrypt module
