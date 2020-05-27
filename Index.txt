@@ -6386,3 +6386,45 @@ A light JAX-RS+CDI+JSON server!
 			This is an experimental module integrating with Let’s Encrypt to provide you free and easy SSL support on your HTTPS connectors.
 
 			Let’s Encrypt module
+
+			
+			
+			
+JSR-377 Desktop|Embedded Application API
+https://jcp.org/en/jsr/detail?id=377
+http://jsr377.github.io/site/
+
+The goal of this specification is to define an API for common behavior shared by many desktop applications. Most applications require the following features
+
+    dependency injection via JSR330.
+    common application structure.
+    application life-cycle.
+    localized resources.
+    resource injection.
+    localized configuration.
+    decouple state from UI (binding).
+    persistence session state (preferences).
+    action management.
+    component life-cycle.
+    light-weight event bus.
+    honor threading concerns (specific to UI toolkit).
+    application extensibility via plugins (implies modularity).
+
+	Ref:  griffon http://griffon-framework.org/
+	
+	Ref: https://www.slideshare.net/aalmiray/jsr377-desktop-java
+	PREVIOUS ATTEMPTS : 
+		JSR 193 – Client Side Container 
+		JSR 296 – Swing Application Framework 
+		JSR 295 – Beans Binding 
+		
+		JSR 296 had the following goals:
+			- application life cycle 
+			- localized 
+			- resources (and injection) 
+			- persisted session state 
+			- loosely coupled actions 
+			- targeted only Swing for obvious reasons 
+	
+	
+
