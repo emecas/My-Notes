@@ -6479,3 +6479,30 @@ Dig Deeper
     Archives
 	
 Ref: https://www.snopes.com/fact-check/microsoft-own-patent-666/
+
+
+
+
+javalin
+https://javalin.io/
+A simple web framework for Java and Kotlin
+https://github.com/tipsy/javalin
+
+	Simple
+		Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces.
+
+	Lightweight
+		Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it's very easy to reason about the source code.
+
+	Interoperable
+		Other Java and Kotlin web frameworks usually offer separate version for each language. Javalin is being developed with interoperability in mind, so apps are built the same way in both Java and Kotlin.
+
+	Flexible
+		Javalin is designed to be simple and blocking, as this is the easiest programming model to reason about. However, if you set a Future as a result, Javalin switches into asynchronous mode.
+
+	Educational
+		Visit our educators page if you're teaching web programming and looking for a web framework which will get out of your way and let you focus on the core concepts of your curriculum.
+
+	OpenAPI integration
+		Many lightweight Java and Kotlin web frameworks don't support OpenAPI, but Javalin has a full integration, including Swagger UI and redoc to display the generate docs. Learn more at the dedicated OpenAPI plugin page.
+
