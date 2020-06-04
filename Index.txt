@@ -6506,3 +6506,10 @@ https://github.com/tipsy/javalin
 	OpenAPI integration
 		Many lightweight Java and Kotlin web frameworks don't support OpenAPI, but Javalin has a full integration, including Swagger UI and redoc to display the generate docs. Learn more at the dedicated OpenAPI plugin page.
 
+		
+
+		
+DBeaver not showing dbms_output
+(Ctrl+Shift+O) 
+Ref:https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980
+
