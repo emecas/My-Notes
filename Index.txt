@@ -6562,3 +6562,12 @@ API Testing Tool in the World
 Get the open source version of the most widely used API testing tool in the world. Read about the latest release 
 
 github: https://github.com/SmartBear/soapui
+
+
+
+
+Setting Up Swagger 2 with a Spring REST API
+https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+Nowadays, front-end and back-end components often separate a web application. Usually, we expose APIs as a back-end component for the front-end component or third-party app integrations.
+
+In such a scenario, it is essential to have proper specifications for the back-end APIs. At the same time, the API documentation should be informative, readable, and easy to follow.
