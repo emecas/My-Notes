@@ -6571,3 +6571,16 @@ https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 Nowadays, front-end and back-end components often separate a web application. Usually, we expose APIs as a back-end component for the front-end component or third-party app integrations.
 
 In such a scenario, it is essential to have proper specifications for the back-end APIs. At the same time, the API documentation should be informative, readable, and easy to follow.
+
+
+
+
+Jasmine 
+Behavior-Driven JavaScript 
+https://jasmine.github.io/index.html
+Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests. 
+https://jasmine.github.io/tutorials/your_first_suite
+Github: https://github.com/jasmine/jasmine.github.io
+
+REF: https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/
+
