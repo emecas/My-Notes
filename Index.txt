@@ -6584,3 +6584,10 @@ Github: https://github.com/jasmine/jasmine.github.io
 
 REF: https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/
 
+
+
+
+Plunker
+https://plnkr.co
+Plunker is where you get stuff done
+Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.
