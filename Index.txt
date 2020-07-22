@@ -6591,3 +6591,30 @@ Plunker
 https://plnkr.co
 Plunker is where you get stuff done
 Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.
+
+
+
+
+Architectural Katas
+http://nealford.com/katas/list.html
+
+	Agile Dead Trees
+	All Stuff, No Cruft
+	Am.I.Sck
+	Check Your Work
+	E(xperimental) College
+	Gird the Grid
+	Going Green
+	Going...Going...Gone!
+	Hot Diggety Dog!
+	I Can Haz Cheezborger?
+	I'll Have the BLT
+	Lights, Please
+	Make the Grade
+	Room with a View
+	Sysop Squad
+	Tales Of A Fourth Grade
+	The Road Warrior
+	Where's Fluffymon?
+	World of Webcraft
+	You Look Good In Print
