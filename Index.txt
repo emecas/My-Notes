@@ -6618,3 +6618,14 @@ http://nealford.com/katas/list.html
 	Where's Fluffymon?
 	World of Webcraft
 	You Look Good In Print
+
+
+	
+	
+Approaches to Achieve in-Memory Table Storage with PostgreSQL Pluggable API 	
+https://www.highgo.ca/2020/07/24/approaches-to-achieve-in-memory-table-storage-with-postgresql-pluggable-api
+1. Introduction
+Recently, I have had an opportunity to perform some in-depth feasibility study in-memory table using PostgreSQL’s pluggable storage API. The pluggable storage API was introduced Since PostgreSQL v12 and it allowed custom table storage Access Methods (AM for short) to be developed. Some famous examples include zheap from EDB, which aims to store a much more simplified tuple structure to achieve vacuum free storage and zedstore from Greenplum to utilize columnar storage. But they do not utilize in-memory storage and still interacts with existing buffer manager to persist data to disk.
+Yes, it would be nice to have in-memory tables if they would perform faster. It would definitely be a very interesting challenge if we could achieve an in-memory table storage engine and design it in a way that will give serious performance advantages using the existing pluggable storage API architecture.
+Developing a custom storage AM is no easy task and it requires a very deep understanding on how the current PostgreSQL storage engine works before we are able to improve it. In addition to redefining the tuple structure and custom algorithms to store and retrieve, it is also possible to define our own in-memory based storage module to handle the insertion and retrieval of tuple instead of utilizing the same buffer manager routines like what heap, zheap and zedstore access methods are using.
+In this blog, I will briefly talk about the capability of pluggable storage API and share some progress on our in-memory table analysis
