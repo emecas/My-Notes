@@ -6708,3 +6708,18 @@ http://www.evostar.org/2021/evomusart/
        best papers, authors, keywords, and years of the conference, while providing quick access to the Springer’s web page links. 
        Feel free to explore, search and bookmark: evomusart-index.dei.uc.pt
 
+
+
+
+GraphQL - Serving over HTTP
+https://graphql.org/learn/serving-over-http/
+HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.
+
+
+
+	CURL Call:
+		$ curl -d '{"query":"{people{ surname }}"}' -H "Content-Type: application/json" -X POST http://localhost:8080/graphql
+
+	Reponse:
+		{"data":{"people":[{"surname":"Fahey"},{"surname":"Kuhn"},{"surname":"Marks"},{"surname":"Runolfsdottir"}]}}
+
