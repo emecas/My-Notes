@@ -6777,3 +6777,51 @@ Gatling is a powerful open-source load testing solution.
 Gatling is designed for continuous load testing and integrates with your development pipeline. 
 Gatling includes a web recorder and colorful reports.
 https://github.com/gatling/gatling
+
+
+
+
+TCK tools and documentation
+https://jcp.org/en/resources/tdk
+
+	Tools
+
+		JavaTest/JT Harness
+		• JT Harness project : http://jtharness.java.net/
+		• Download page : http://download.java.net/jtharness/download.html
+		• Documentation : http://jtharness.java.net/jt_docs.html
+		JT harness is the open source version of the JavaTest harness. JT harness is a general purpose, fully-featured, flexible, and configurable test harness very well suited for most types of unit testing, especially TCK test suites. The JT harness is an excellent tool for configuring, sequencing, and running test suites that consist of large numbers of discrete, independent tests. It is especially good at testing APIs and compilers. Originally developed as a test harness to run the JCK test suite, it has since evolved into a general purpose test platform well suited for use with all TCK test suites and other types of test suites.
+
+	Documentation
+
+		TCK Project Planning and Development Guide
+		http://jcp.org/aboutJava/communityprocess/ec-public/TCK-docs/ppg.pdf
+		Provides an overview and starting point for an Expert Group responsible for developing a technology compatibility kit (TCK) under the Java Community Process program. It is a high-level planning guide for project managers.
+
+		Java Technology Test Suite Development Guide
+		http://jcp.org/aboutJava/communityprocess/ec-public/TCK-docs/tsdg.pdf
+		Describes in detail how to design and write TCK tests and to build a TCK.
+		The Sample TCK tests mentioned in this document are available for download here.
+
+		Java Technology Compatibility Kit User's Guide Template
+		http://jcp.org/aboutJava/communityprocess/ec-public/TCK-docs/tck_ug_template.pdf
+		Provides an outline and template that can be used as the basis for creating a complete User's Guide for a TCK.
+		NOTE: this template assumes that your TCK will be built with the JT Harness and is therefore considerably more complex than might be necessary for your purposes. For a simpler template see the next item.
+
+		Simplified TCK User's Guide Template
+		http://jcp.org/aboutJava/communityprocess/ec-public/TCK-docs/simple_template.pdf
+		Provides a simple template that can be used as the basis for creating a User's Guide for a TCK. Because the template contains sample Compatibility Requirements it will be particuarly helpful in ensuring that your TCK meets the requirements of the JCP's Process Document.
+
+		Sample Test Coverage Document
+		http://jcp.org/aboutJava/communityprocess/ec-public/TCK-docs/Sample-TCD.html
+		Provides a sample Test Coverage Document (TCD) that can be used as a model for the TCD that you deliver to the PMO with the final version of your TCK.
+
+	Other resources
+
+		OASIS Test Assertion Guidelines
+		https://www.oasis-open.org/committees/download.php/44696/taguidelines-v1.0-wd02.pdf
+		The OASIS Test Assertion Guidelines (TAG) Technical Committee produced a Committee Note providing guidelines and best practices for writing and using test assertions. This Note provides extensive background on the theory and practice of using Test Assertions in conformance testing.
+
+
+
+	
