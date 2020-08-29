@@ -6824,4 +6824,28 @@ https://jcp.org/en/resources/tdk
 
 
 
+
+Chronotron
+https://www.chronotron.com/
+Chronotron is the media player every musician should have in their toolbox. 
+Tempo and pitch can be adjusted independently during audio and video playback without affecting one another, 
+allowing to slow down audio and video material for easier music and speech transcription. And there's more...
+
+Blog : https://chronosynth.com/
+
+Features
+
+    Time-stretch audio and video from 25% to 400% in real time
+    Change key from -12 to 12 semitones with optional format preservation in real time
+    Download and play YouTube videos with the built-in downloader
+    Make transcription a breeze with the innovative Hold mode, polyphonic note detection and the built-in piano keyboard and guitar/bass fretboard
+    Use the Surface Dial to control tempo or play note by note in Hold mode
+    Play sections of a media clip in a loop
+    Memorize up to 10 specific positions in a media file with markers
+    Use the Solo Channel function to isolate individual audio channels
+    Enhance your sound with the 10-band equalizer, volume and balance controls
+    Fine-tune audio and video synchronization with the video delay control
+    Recall last used tempo and key settings automatically when opening playlists or individual files
+    Render tempo and key changes to a new media file (.mp3, .m4a or .wav for audio, .mp4 for video)
+    Supports .m3u, .mp4, .m4a, .wmv, .mp3, .wav, .flac and .wma
 	
