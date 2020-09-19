@@ -6874,3 +6874,43 @@ Fast and low overhead web framework, for Node.js
 		Developer friendly: the framework is built to be very expressive and to help developers in their daily use, without sacrificing performance and security.
 		TypeScript ready: we work hard to maintain a TypeScript type declaration file so we can support the growing TypeScript community.
 
+		
+		
+OpenJS Foundation
+https://openjsf.org
+
+Developers rely on a growing portfolio of open source technologies to create, test and deploy critical applications. By creating a center of gravity for the open source JavaScript ecosystem, the OpenJS Foundation’s mission is to drive broad adoption and ongoing development of key JavaScript solutions and related technologies.
+
+The primary goals of the OpenJS Foundation are:
+
+    To promote the widespread adoption and continued development of key JavaScript and web solutions and related technologies.
+    To facilitate collaboration within the JavaScript development community.
+    To create a center of gravity for open source projects throughout the end-to-end JavaScript ecosystem guiding them toward open governance and diverse collaborator bases.
+    To host the infrastructure to support hosted JavaScript open source projects.
+    To enable, through advancement of Projects and strategic partnerships, an open and accessible web.
+
+We believe that it is essential to provide a neutral home for critical projects, with common principles of technical governance and accountability.  By doing so, we are providing for the long-term sustainability of both individual projects and the ecosystem as a whole.
+
+If you rely upon the stability and sustainability of this ecosystem, we encourage you to join us as a member!
+
+
+OpenJS Foundation Projects:
+
+	AMP  Appium  Architect  Chassis  Dojo  Electron  ESLint  Esprima  Express  Globalize  Grunt  HospitalRun 
+	Interledger.js  Intern  Jed  JerryScript  jQuery  jQuery Mobile  jQuery UI  libuv  Lodash  Marko  MessageFormat
+	Mocha  Moment  Node.js  Node-RED  PEP  QUnit  RequireJS  Sizzle  WebdriverIO  Webhint  webpack
+
+
+https://openjsf.org/projects/
+
+The OpenJS Foundation hosts some of the most important projects in the JavaScript ecosystem.  As a neutral non-profit organization, our goal is to provide a home where projects can build and support a sustainable community of diverse contributors.
+
+	Categories:
+
+		<<Impact>> stage is generally for large, mature projects.
+		<<Growth>> stage is for projects which are actively mentored, and which intend to graduate to Impact stage.
+		<<At-Large>> stage is for new projects, stable projects with minimal needs, and everything in between.
+		<<Incubation>> stage is for projects which are in the process of joining the OpenJS Foundation.
+		<<Emeritus>> stage is for projects which have completed their lifecycle and are retired.
+
+		In addition, the CPC oversees an <<Incubation>> process for projects which seek to be hosted by the OpenJS Foundation.	
