@@ -6913,4 +6913,12 @@ The OpenJS Foundation hosts some of the most important projects in the JavaScrip
 		<<Incubation>> stage is for projects which are in the process of joining the OpenJS Foundation.
 		<<Emeritus>> stage is for projects which have completed their lifecycle and are retired.
 
-		In addition, the CPC oversees an <<Incubation>> process for projects which seek to be hosted by the OpenJS Foundation.	
+		In addition, the CPC oversees an <<Incubation>> process for projects which seek to be hosted by the OpenJS Foundation.
+	
+
+		
+
+Getting started with web-ext
+https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
+web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.
+
