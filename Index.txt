@@ -6922,3 +6922,19 @@ Getting started with web-ext
 https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
 web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.
 
+
+
+
+MinIO 
+https://min.io/
+Kubernetes Native, High Performance Object Storage
+
+MinIO's high-performance object storage suite is software defined and
+enables customers to build cloud-native data infrastructure for
+machine learning, analytics and application data workloads.
+
+
+The defacto standard for Amazon S3 compatibility.
+
+https://github.com/minio/minio
+
