@@ -6938,3 +6938,32 @@ The defacto standard for Amazon S3 compatibility.
 
 https://github.com/minio/minio
 
+
+
+
+Deno
+https://deno.land
+https://deno.town
+https://github.com/denoland/deno
+
+https://github.com/architect/architect
+
+Deno is a brand new experimental JavaScript runtime and deno.town is a web based REPL with linting and code completion to help you explore and learn the API.
+Why Deno?
+
+    It is very fast
+    Built in least privilege security
+    Standard esmodules
+    TypeScript, JSX and TSX dialects supported
+
+How
+
+    AWS Lambda (and friends) by way of OpenJS Architect
+    Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)
+
+This is awesome! How can I help?
+
+    Star architect/architect on github!
+    File bugs, ask questions or share ideas for new features in the issue tracker
+    Sign up for Begin (and upvote this request for Deno support!)
+
