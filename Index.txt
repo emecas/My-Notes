@@ -6980,4 +6980,15 @@ If you have a trace ID in a log file, you can jump directly to it. Otherwise, yo
 https://github.com/openzipkin/zipkin
 
 
- 
+
+
+1x Engineer
+https://1x.engineer/
+https://github.com/cutenode/1x.engineer
+What is a 1x Engineer?
+You might have already heard of a 10x engineer. Probably too often, actually. If there's such a thing as a 10x engineer, surely there must be a 1x engineer, too?
+Of course there is! Let's dig into a non-exhaustive list of what qualities make up a 1x engineer.
+
+https://svdictionary.com/words/10x-engineer
+
+
