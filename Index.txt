@@ -7001,3 +7001,14 @@ https://legalhackers.org/
 Legal Hackers is a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. Through local meetups, hackathons, and workshops, Legal Hackers spot issues and opportunities where technology can improve and inform the practice of law and where law, legal practice, and policy can adapt to rapidly changing technology.
 
 We are explorers. We are doers. We are Legal Hackers.
+
+
+
+
+FabOS
+https://www.fab-os.org/en/
+open, distributed, real-time capable and secure operating system for production.
+
+FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.
+German companies can benefit from their deep domain knowledge and experience of industrial products, complex and high-quality manufacturing processes, and versatile and highly networked production systems (Internet of Things, Industry 4.0).
+This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.
