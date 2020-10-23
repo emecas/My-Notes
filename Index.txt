@@ -7012,3 +7012,14 @@ open, distributed, real-time capable and secure operating system for production.
 FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.
 German companies can benefit from their deep domain knowledge and experience of industrial products, complex and high-quality manufacturing processes, and versatile and highly networked production systems (Internet of Things, Industry 4.0).
 This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.
+
+
+
+
+The Civic Tech Field Guide
+https://civictech.guide/
+The Civic Tech Field Guide is a crowdsourced, global collection of tech for good tools and projects. It’s your place to find and be found.
+
+Thousands of civic tech practitioners from over 100 countries around the world have contributed to this living resource. We catalog not only the tools, but also the social side of our field: the conferences, funders, awards, design principles and playbooks.
+
+It’s a free, and Creative-Commons-licensed collection curated to help you in your work. Whether you want to add your own project(s), learn from others’, or research our field, we invite you to explore the field.
