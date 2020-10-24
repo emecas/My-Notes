@@ -7023,3 +7023,12 @@ The Civic Tech Field Guide is a crowdsourced, global collection of tech for good
 Thousands of civic tech practitioners from over 100 countries around the world have contributed to this living resource. We catalog not only the tools, but also the social side of our field: the conferences, funders, awards, design principles and playbooks.
 
 It’s a free, and Creative-Commons-licensed collection curated to help you in your work. Whether you want to add your own project(s), learn from others’, or research our field, we invite you to explore the field.
+
+
+
+
+excalidraw
+https://excalidraw.com to start sketching.
+Virtual whiteboard for sketching hand-drawn like diagrams.
+Read our blog: https://blog.excalidraw.com/ and follow the guides: https://howto.excalidraw.com/ to learn more about Excalidraw and how to use it effectively.
+repo: https://github.com/excalidraw/excalidraw
