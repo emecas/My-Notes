@@ -7032,3 +7032,26 @@ https://excalidraw.com to start sketching.
 Virtual whiteboard for sketching hand-drawn like diagrams.
 Read our blog: https://blog.excalidraw.com/ and follow the guides: https://howto.excalidraw.com/ to learn more about Excalidraw and how to use it effectively.
 repo: https://github.com/excalidraw/excalidraw
+
+
+
+
+openFrameworks
+https://openframeworks.cc/
+openFrameworks is an open source C++ toolkit for creative coding.
+
+Repos: https://github.com/openframeworks
+
+	Download https://openframeworks.cc/download/
+
+		Grab the most recent release (0.11.0) and follow the setup guide to get openFrameworks running.
+
+	Documentation https://openframeworks.cc/documentation/
+
+		Reference for openFrameworks classes, functions and addons. You can also check the tutorials section https://openframeworks.cc/tutorials.
+
+	Forum https://forum.openframeworks.cc/
+
+		The forum is a place to meet other people working with openFrameworks. It's a place to share your work, or find help solving problems.
+
+		
