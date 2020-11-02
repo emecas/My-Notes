@@ -7055,3 +7055,12 @@ Repos: https://github.com/openframeworks
 		The forum is a place to meet other people working with openFrameworks. It's a place to share your work, or find help solving problems.
 
 		
+		
+
+Living Open Source Foundation
+https://www.livingopensource.net/
+
+WHAT WE DO
+Our mission is to foster the growth and use of the Open Source Software in Zambia and Africa!
+
+Our approach is to create communities in countries where we have found motivated people that want to start an open source community. Working with the local open source enthusiasts, we organize events; find sponsors for venue, course materials, certification and logistics; organize an initial open source training and community building; help to certify community members with world-wide recognized high-standard Linux Foundation certification; and enable local talent to further educate and build the local communities.
