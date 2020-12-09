@@ -7073,3 +7073,58 @@ https://www.bigocheatsheet.com/Know Thy Complexities!
 
 Hi there!  This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.  When preparing for technical interviews in the past, I found myself spending hours crawling the internet putting together the best, average, and worst case complexities for search and sorting algorithms so that I wouldn't be stumped when asked about them.  Over the last few years, I've interviewed at several Silicon Valley startups, and also some bigger companies, like Google, Facebook, Yahoo, LinkedIn, and Uber, and each time that I prepared for an interview, I thought to myself "Why hasn't someone created a nice Big-O cheat sheet?".  So, to save all of you fine folks a ton of time, I went ahead and created one.  Enjoy! - Eric 
 
+
+
+
+HackMD
+https://hackmd.io/home#
+Get everyone on the same page with Markdown
+Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44
+
+Effective team collaboration
+Flexible permissioning
+
+	Transcend beyond space and time
+	Blazing fast real-time collaboration breaks the space between members. Change notification keeps everyone posted.
+	Sharing is caring
+	Team workspace for bird’s-eye view over all team documents. Shared templates keep format and styling consistent.
+	Keep your secret (while sharing it)
+	Granular note permission settings and private image storage give you full control over how and with whom you share.
+
+
+Your own tools
+Own your contents
+
+	Markdown for everything
+	Technical document, UML chart, math formula, data visualization, even slide deck – All portable.
+	Document with Git the way you code
+	Manage documentation with the Git workflow, decentralize the editing and storage, centralize the final documents.
+	Your tools should work for you
+	Access your notes with hotkey-invoked browser extension. One-click export notes to use HackMD in VSCode.
+
+	
+Features
+Boost productivity your way
+
+	VSCode Extension
+	Write and see all HackMD supported markdown syntax right in VSCode.
+	Install now
+
+	GitHub Integration
+	Version controlling your documents with your favorite GitHub workflow.
+	Learn more
+
+	Browser Extension
+	Capture your thoughts and stay in the flow with hotkey-invoked browser extension.
+	Install now
+
+	MathJax and UML
+	Draw UML diagrams in SVG and write scientific formula with plain text in one tool.
+	Learn more
+
+	Slide Mode
+	Turn your note to slide deck and own the stage in a minute.
+	Learn more
+
+	Book Mode
+	Create a collection of related documents, organize under chapters, and share at once.
