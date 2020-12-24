@@ -7130,19 +7130,27 @@ Boost productivity your way
 	Create a collection of related documents, organize under chapters, and share at once.
 
 
-
+	
 
 IEEE P2881 - Standard for Learning Metadata Working Group
 https://sagroups.ieee.org/2881/
 Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)
 
-Title:
+Title: 
 	Standard for Learning Metadata
 
-Scope:
+Scope: 
 	This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices. 
 	This standard will specify a conceptual data schema that defines the structure of a metadata instance. 
 	This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types. 
 	This standard does not define how a learning technology system implements the data schema.
+	
+
+
+
+Unpaywall is transforming Open Science
+https://unpaywall.org/
+An open database of 27,932,682 free scholarly articles.
+We harvest Open Access content from over 50,000 publishers and repositories, and make it easy to find, track, and use. 
 
 
