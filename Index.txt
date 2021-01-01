@@ -7154,3 +7154,33 @@ An open database of 27,932,682 free scholarly articles.
 We harvest Open Access content from over 50,000 publishers and repositories, and make it easy to find, track, and use. 
 
 
+
+
+Computational model reveals how the brain manages short-term memories
+https://www.salk.edu/news-release/computational-model-reveals-how-the-brain-manages-short-term-memories/
+
+Salk scientists show how “working memories” might be stored by neurons that can maintain information longer than average
+DOI: 10.1038/s41593-020-00753-w https://doi.org/10.1038/s41593-020-00753-w
+
+Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks
+https://www.nature.com/articles/s41593-020-00753-w
+
+    Robert Kim & Terrence J. Sejnowski 
+
+	Nature Neuroscience volume 24, pages129–139(2021)Cite this article
+
+    2610 Accesses
+
+    94 Altmetric
+
+    Metrics 
+
+Abstract
+
+Cortical neurons process information on multiple timescales, and areas important for working memory (WM) contain neurons capable of integrating information over a long timescale. However, the underlying mechanisms for the emergence of neuronal timescales stable enough to support WM are unclear. By analyzing a spiking recurrent neural network model trained on a WM task and activity of single neurons in the primate prefrontal cortex, we show that the temporal properties of our model and the neural data are remarkably similar. Dissecting our recurrent neural network model revealed strong inhibitory-to-inhibitory connections underlying a disinhibitory microcircuit as a critical component for long neuronal timescales and WM maintenance. We also found that enhancing inhibitory-to-inhibitory connections led to more stable temporal dynamics and improved task performance. Finally, we show that a network with such microcircuitry can perform other tasks without disrupting its pre-existing timescale architecture, suggesting that strong inhibitory signaling underlies a flexible WM network.
+
+
+ABOUT SALK
+
+Every cure has a starting point. The Salk Institute embodies Jonas Salk’s mission to dare to make dreams into reality. Its internationally renowned and award-winning scientists explore the very foundations of life, seeking new understandings in neuroscience, genetics, immunology, plant biology and more. The Institute is an independent nonprofit organization and architectural landmark: small by choice, intimate by nature and fearless in the face of any challenge. Be it cancer or Alzheimer’s, aging or diabetes, Salk is where cures begin.
+
