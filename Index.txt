@@ -7184,3 +7184,359 @@ ABOUT SALK
 
 Every cure has a starting point. The Salk Institute embodies Jonas Salk’s mission to dare to make dreams into reality. Its internationally renowned and award-winning scientists explore the very foundations of life, seeking new understandings in neuroscience, genetics, immunology, plant biology and more. The Institute is an independent nonprofit organization and architectural landmark: small by choice, intimate by nature and fearless in the face of any challenge. Be it cancer or Alzheimer’s, aging or diabetes, Salk is where cures begin.
 
+
+
+
+miro
+https://miro.com/
+The online collaborative whiteboard platform to bring teams together, anytime, anywhere.
+
+	Use Cases
+
+		Meetings and Workshops
+		Agile Workflows
+		Brainstorming & Ideation
+		Mapping & Diagramming
+		UX & Design Thinking
+		Strategy & Planning
+		Concept Mapping
+		Mind Mapping
+
+	By Team
+
+		Agile
+		Development
+		Product
+		Project Management
+		Sales
+		UX
+
+	Integrations
+		
+		Voting Plugin
+		by Miro
+		Vote on ideas with a distributed team.
+
+		Countdown Timer
+		by Miro
+		Timebox your team activities.
+
+		Clusterizer
+		by Refractive Strategy
+		Affinity-cluster your tagged stickies and cards in one click
+
+		Google Drive
+		by Miro
+		Upload and organize files or edit documents from Miro.
+
+		Jira Cards
+		by Miro
+		Embed Jira issues as cards onto a digital whiteboard.
+
+		Planning Poker
+		by Gorazdo.studio
+		Run sprint planning sessions in Miro
+
+		Brandfetch
+		by Brandfetch
+		Brands at your fingertips
+
+		Wireframe Library
+		by Miro
+		Create unique low-fidelity mockups in minutes.
+
+		Azure Cards
+		by Miro
+		Import Azure DevOps work items as cards onto a digital whiteboard.
+
+		User Story Map
+		by Miro
+		Create a user story map with fast, flexible framework.
+
+		Slack App
+		by Miro
+		Get Miro comments and mentions right in Slack.
+		
+		Coda
+		by Coda
+		Manage live public and private Miro boards anywhere in Coda.
+		
+		Asana Cards
+		by Miro
+		Import Asana tasks as cards onto a digital whiteboard.
+
+		Airtable
+		by Miro
+		Create or update Miro boards within your Airtable base.
+		
+		Github
+		by Miro
+		Track GitHub issues visually in Miro.
+		
+		Notion
+		by Notion
+		Embed Miro boards into Notion pages.
+		
+		Box
+		by Miro
+		Upload and organize Box files right in Miro.
+
+		Dropbox
+		by Miro
+		Overview, organize and comment on your files in Miro.
+
+		monday.com
+		by Miro
+		Embed live Miro boards in monday.com projects.
+		
+		MeetButter
+		by MeetButter
+		Collaborate on Miro boards within MeetButter.
+		
+		OneDrive
+		by Miro
+		Upload and organize files and documents right in Miro.
+
+		ClickUp
+		by ClickUp
+		Add boards to Docs and tasks in ClickUp.
+		
+		Targetprocess
+		by Targetprocess
+		Embed Miro boards in Targetprocess to manage work in a collaborative and agile way.
+		RemoteHQ
+		by RemoteHQ
+		Embed Miro into RemoteHQ video rooms
+		
+		Salesforce
+		by Miro
+		Organize leads visually and discuss plans in Miro.
+		
+		Trello Power-Up
+		by Miro
+		Attach boards to Trello cards in one click.
+		
+		Emoji app
+		by Miro
+		Use fun emojis to your Miro boards.
+
+		Microsoft Teams + Zapier
+		by Miro
+		Visualize important MS Teams messages in Miro.
+		
+		Video Chat
+		by Miro
+		Boost team activities with a video call.
+
+		InVision
+		by Miro
+		Embed InVision frames right to boards.
+		Livestorm
+		by Livestorm
+		Launch Miro boards during Livestorm meetings and webinars.
+		
+		Zapier
+		by Miro
+		Import items from 1500+ apps to your team boards.
+		CA Agile Central (Rally)
+		by Miro
+		Import your CA Agile Central tasks as handy cards.
+
+		Toasty
+		by Toasty
+		Access Miro boards in Toasty virtual meetings and workshops.
+		
+		Procore Platform
+		by Procore
+		Embed Miro boards directly into Procore
+		
+		Slab
+		by Slab
+		Embed Miro boards in Slab knowledge base posts.
+		
+		Trello
+		by Miro
+		Send updates from Trello to Miro boards.
+		
+		Miro plugin for Sketch
+		by Miro
+		Add and sync Sketch artboards to Miro in one click.
+		
+		Microsoft Azure Icon Set
+		by Miro
+		Create network and architecture diagrams.
+
+		Cisco Network Topology Icons
+		by Miro
+		Build network diagrams in Miro.
+
+		AWS Architecture Icons
+		by Miro
+		Build architecture diagrams in Miro.
+
+		Adobe Creative Cloud
+		by Miro
+		Upload files and collaborate on them with your team.
+
+		Google Image
+		by Miro
+		Illustrate ideas with built-in Google Images search.
+
+		Iconfinder
+		by Miro
+		Search and add icons to your boards.
+
+		Unsplash
+		by Miro
+		Add images and photos to Miro boards from Unsplash.
+
+		Chrome Search Extension for Miro
+		by Ilya Novikov
+		Search Miro boards from the address bar
+
+		Tables and Charts
+		by Miro
+		Prove ideas with data using editable tables or charts.
+
+		Chat
+		by Miro
+		Start live discussions right on the board.
+
+		Confluence Plugin
+		by Miro
+		Embed and access Miro boards right from Confluence.
+		
+		Jira Addon
+		by Miro
+		Embed and access your Miro boards right from Jira.
+		
+		Microsoft Excel
+		by Miro
+		Visually organize cells from MS Excel.
+		
+		Airtable + Zapier
+		by Miro
+		Add Airtable records to Miro boards.
+		
+		Hubspot
+		by Miro
+		Cluster forms and analyse results visually in Miro.
+		
+		Zendesk
+		by Miro
+		Track Zendesk tickets visually in Miro.
+		
+		Google Sheets
+		by Miro
+		Organize Google Sheets records visually in Miro.
+		
+		Freshdesk
+		by Miro
+		Manage Freshdesk tickets visually in Miro.
+		
+		Google Tasks
+		by Miro
+		Track Google Tasks visually in Miro.
+		
+		Evernote
+		by Miro
+		Map out Evernote notes visually in Miro.
+		
+		SurveyMonkey
+		by Miro
+		Organize SurveyMonkey responses visually in Miro.
+		
+		OneNote
+		by Miro
+		Organize OneNote notes visually in Miro.
+		
+		Google Form
+		by Miro
+		Analyse Google Form responses visually in Miro.
+		
+		Typeform
+		by Miro
+		Cluster and analyse responses visually in Miro.
+		
+		Gmail
+		by Miro
+		Track important Gmail emails visually in Miro.
+		
+		Google Auth
+		by Miro
+		Use Google credentials to securely log in to Miro.
+		
+		Office 365 Auth
+		by Miro
+		Log in to Miro using your Microsoft credentials.
+		
+		Slack Auth
+		by Miro
+		Quickly register with Slack credentials.
+		
+		Microsoft Active Directory
+		by Miro
+		Get secure single sign-on and provisioning with ADFS.
+		
+		One Login
+		by Miro
+		Get secure SSO and provisioning with OneLogin.
+		
+		Bitium
+		by Miro
+		Use SCIM and SAML to connect to Bitium SSO.
+		
+		Azure Active Directory
+		by Miro
+		Get secure single sign-on and provisioning with Azure.
+		
+		RSA Secure ID
+		by Miro
+		Use SCIM and SAML to connect to RSA SSO.
+		
+		Okta
+		by Miro
+		Get secure single sign-on and provisioning with Okta.
+		
+		SCIM API
+		by Miro
+		Provision, manage and de-provision users and teams.
+		
+		Miro Web Clipper
+		by Miro
+		Save screenshots and send them right to boards.
+		SAML
+		by Miro
+		Secure access to Miro with SAML 2.0-based SSO.
+		
+		Centrify
+		by Miro
+		Use SCIM and SAML to connect to Centrify SSO.
+		
+		Axure
+		by Miro
+		Embed Axure prototypes right to boards.
+		
+		UXPin
+		by Miro
+		Embed UXPin prototypes right to boards.
+		
+		Marvel
+		by Miro
+		Embed Marvel frames right to boards.
+		
+		YouTube
+		by Miro
+		Embed YouTube videos right to boards.
+		
+		Vimeo
+		by Miro
+		Embed Vimeo videos right to boards.
+		
+		Prezi
+		by Miro
+		Embed Prezi slides right to boards.
+		
+		Product Hunt
+		by Miro
+		Search for inspiration and 
