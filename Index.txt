@@ -7540,3 +7540,31 @@ The online collaborative whiteboard platform to bring teams together, anytime, a
 		Product Hunt
 		by Miro
 		Search for inspiration and 
+
+
+
+
+Eclipse Theia
+https://theia-ide.org/
+Cloud & Desktop IDE Platform
+Eclipse Theia is an extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies.
+
+Repo: https://github.com/eclipse-theia/theia
+
+	Cloud & Desktop
+
+		Not sure whether you need a web or desktop version or both?
+
+		With Theia you can develop one IDE and run it in browsers or native desktop application from a single source.
+
+	Vendor Neutral
+
+		The Theia project is hosted at the Eclipse Foundation, a not-for-profit corporation, and is developed by a diverse community.
+
+		Unlike other "open-source" projects, projects hosted at an Open-Source Foundation are protected against single-vendor decisions against the interest of the diverse community. Learn more here.
+
+	Extensible
+
+		Theia is designed in a modular way to allow extenders and adopters customizing and extending every aspect of it.
+
+		Composing a custom IDE-like product is as easy as listing all needed extensions in a package.json file. Adding new functionality by implementing your own extensions is easy, too and provides all the flexibility you need.
