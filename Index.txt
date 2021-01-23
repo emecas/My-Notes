@@ -7568,3 +7568,26 @@ Repo: https://github.com/eclipse-theia/theia
 		Theia is designed in a modular way to allow extenders and adopters customizing and extending every aspect of it.
 
 		Composing a custom IDE-like product is as easy as listing all needed extensions in a package.json file. Adding new functionality by implementing your own extensions is easy, too and provides all the flexibility you need.
+
+		
+
+
+diaspora		
+https://diasporafoundation.org/
+Welcome to diaspora*
+The online social world where you are in control
+
+Diaspora is a federated social networking service, designed to be a more privacy-aware alternative
+
+Repo: https://github.com/diaspora/diaspora
+
+Tool: pod up time
+https://diaspora.podupti.me/
+with views: 
+
+    Table
+    Map
+    Stats
+
+https://alternativeto.net/software/diaspora/about/
+
