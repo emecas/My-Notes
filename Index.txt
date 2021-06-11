@@ -7637,3 +7637,55 @@ Zrythm is a cross-platform digital audio workstation designed to be featureful a
 	
 	Multilingual
 	Available in multiple languages including English, French, Spanish, Portuguese, Japanese and German.
+
+
+
+
+Playwright
+Playwright enables reliable end-to-end testing for modern web apps.
+https://playwright.dev
+
+https://github.com/microsoft/playwright
+
+
+
+	Support for all browsers
+
+    Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.
+    Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.
+    Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.
+    Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.
+	
+	
+	Powerful automation capabilities
+
+    Multiple domains, pages and frames. Playwright is an out-of-process automation driver that is not limited by the scope of in-page JavaScript execution and can automate scenarios with multiple pages.
+    Powerful network control. Playwright introduces context-wide network interception to stub and mock network requests.
+    Modern web features. Playwright supports web components through shadow-piercing selectors, geolocation, permissions, web workers and other modern web APIs.
+    Capabilities to cover all scenarios. Support for file downloads and uploads, out-of-process iframes, native input events, and even dark mode.
+		
+	
+	Supported languages
+
+	The Playwright API is available in multiple languages.
+
+    JavaScript and TypeScript
+    Python
+    Java
+    C#
+	
+	
+	Integrates with your workflow
+
+    One-line installation. Installing Playwright auto-downloads browser dependencies for your team to be onboarded quickly.
+    TypeScript support. Playwright ships with built-in types for auto-completion and other benefits.
+    Debugging tools. Playwright works with the editor debugger and browser developer tools to pause execution and inspect the web page.
+    Language bindings. Playwright is available for Node.js Python, C# and Java. Learn more about supported languages.
+    Deploy tests to CI. First-party Docker image and GitHub Actions to deploy tests to your preferred CI/CD provider.
+
+	
+	Limitations
+
+    Legacy Edge and IE11 support. Playwright does not support legacy Microsoft Edge or IE11 (deprecation notice). The new Microsoft Edge (on Chromium) is supported.
+    Test on real mobile devices: Playwright uses desktop browsers to emulate mobile devices. There is experimental Android support available see here. If you are interested in iOS, please upvote this issue.
+
