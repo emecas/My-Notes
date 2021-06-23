@@ -7698,3 +7698,10 @@ Huayra GNU/Linux es el primer sistema operativo libre desarrollado por el Estado
 
 
 FAQs: https://huayra.educar.gob.ar/preguntas-frecuentes/
+
+
+
+
+Howto Install lombok to Eclipse snap (Ubuntu)
+https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap
+ref: https://stackoverflow.com/a/67207195
