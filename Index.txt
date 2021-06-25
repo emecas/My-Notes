@@ -7705,3 +7705,27 @@ FAQs: https://huayra.educar.gob.ar/preguntas-frecuentes/
 Howto Install lombok to Eclipse snap (Ubuntu)
 https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap
 ref: https://stackoverflow.com/a/67207195
+
+
+
+
+Order Test Execution in JUnit5 Jupiter
+https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26
+	
+	import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
+	import org.junit.jupiter.api.Order;
+
+	@TestMethodOrder(OrderAnnotation.class)
+	public class TestSuite1
+	{
+		@Test
+		@Order(1)
+		public void test1() throws InterruptedException
+		{
+		...	
+		@Test
+		@Order(2)
+		public void test2() throws InterruptedException
+		{
+		...
+	...
