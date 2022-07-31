@@ -7729,3 +7729,20 @@ https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26
 		{
 		...
 	...
+
+
+
+
+OpenRefine
+https://openrefine.org/
+
+https://github.com/OpenRefine/OpenRefine
+
+OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
+
+OpenRefine always keeps your data private on your own computer until YOU want to share or collaborate. Your private data never leaves your computer unless you want it to. (It works by running a small server on your computer and you use your web browser to interact with it)
+
+OpenRefine is available in more than 15 languages.
+
+OpenRefine is part of Code for Science & Society: https://codeforscience.org/
+
