@@ -7746,3 +7746,66 @@ OpenRefine is available in more than 15 languages.
 
 OpenRefine is part of Code for Science & Society: https://codeforscience.org/
 
+
+Metacreation: Lab for Creative AI
+https://metacreation.net/
+
+Driven by collaborations involving scientists, experts in artificial intelligence, cognitive sciences, designers, and artists, the Metacreation Lab for Creative AI is at the forefront of the development of generative systems, whether these are embedded in interactive experiences or automating workflows integrated into cutting-edge creative software. 
+
+Generative Systems
+
+As automation becomes commonplace in an ever expanding range of fields, the Metacreation Lab goes further by developing systems that are capable of human-level creativity. These are systems capable of autonomous creation, producing original artwork and creative output alongside and beyond their human counterparts.
+
+Explore our research contributions:
+	
+	- Virtual Reality
+
+	Exploring the potential of generative and interactive systems in virtual environments.
+	
+	- Methodology
+
+	Developing new empirical quantitative and qualitative methodologies to evaluate generative systems.
+	
+	- Deep Learning
+
+	Applying neural networks and machine learning models to creative and generative tasks.
+	
+	- Video Games
+
+	Generating dynamic experiences and sound for players in real time.
+	
+	- Computer Assisted Creativity
+
+	Adding AI and generative features to augment creative software.
+	
+	- Agent and MultiAgent systems
+
+	Distributed AI in muti-agent creative systems.
+	
+	- Affective Computing
+
+	Endowing systems with the ability to recognize and stimulate physiological and emotional signals.
+	
+	- Interactive Arts
+
+	Immersive visual and sonic artworks with real-time interactivity.
+	
+	- Movement Computing
+
+	Intelligent systems perceiving and generating movement data.
+	
+	- Generative Visuals
+
+	Generative images, video, 2D and 3D animations created with machine learning processes.
+	
+	- Musical Metacreation
+
+	Musical and sonic works created collaboratively with machine learning and generative systems.
+	
+	- Experiments
+
+	- Artificial Intelligence
+
+	- Generative Arts
+	
+	
