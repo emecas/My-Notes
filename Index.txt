@@ -369,7 +369,6 @@ operator precedence -
 http://www.codeskulptor.org/#examples-arithmetic_expressions.py
 
 
-<<<<<<< HEAD
 http://www.change.org
 La plataforma de peticiones 
 REF:
@@ -377,11 +376,12 @@ Petición dirigida a: Ministerio de Economía y Competitividad
 Ministerio de Economía y Competitividad: Trato igualitario a Ingenierías en Informática en la futura LSP
 http://www.change.org/es/peticiones/ministerio-de-econom%C3%ADa-y-competitividad-trato-igualitario-a-ingenier%C3%ADas-en-inform%C3%A1tica-en-la-futura-lsp?utm_campaign=share_button_mobile&utm_medium=facebook&utm_source=share_petition
 
-=======
+
+
 Proyecto Clone Wars
 http://www.reprap.org/wiki/Proyecto_Clone_Wars
 Clone Wars es un grupo dentro de la comunidad RepRap, que trata de documentar en español todo lo necesario para que puedas construir tu propia impresora 3D. Además recopilamos información como ubicación de comercios locales, miembros del grupo que tienen una impresora cerca de tí..., datos en general que te pueden ayudar con tu proyecto. 
->>>>>>> Proyecto Clone Wars
+
 
 
 opencore multimédia framework
@@ -515,15 +515,6 @@ PPTP Server: getusvpn.com
 PPTP Username: free
 
 
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-=======
-=======
->>>>>>> 6d8e47bb5d357d356e6243d001907691e7413b8e
 Infobright Community Edition (ICE)
 The Open-Source Database for Ad hoc Analytics
 http://www.infobright.org/
@@ -674,11 +665,7 @@ Backing Up Subversion Automatically
 http://blog.markshead.com/101/backing-up-subversion-automatically/
 http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
+
 
 
 Blog
@@ -712,10 +699,6 @@ IGNITE for M-Audio49
 http://www.m-audio.com/products/en_us/AxiomPro49.html
 http://www.airmusictech.com/product/ignite
 http://www.airmusictech.com/download-ignite
-<<<<<<< HEAD
->>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
-
-
 
 
 
@@ -748,10 +731,6 @@ Also available from the OpenLDAP Project:
     Fortress - Role-based identity access management Java SDK
     JLDAP - LDAP Class Libraries for Java
     JDBC-LDAP - Java JDBC - LDAP Bridge Driver 
-=======
->>>>>>> 0ea1d9b6d97162874162209dfada057ddc7e4885
-
-
 
 
 TABLEAU PUBLIC HOMEWORK
@@ -7747,6 +7726,8 @@ OpenRefine is available in more than 15 languages.
 OpenRefine is part of Code for Science & Society: https://codeforscience.org/
 
 
+
+
 Metacreation: Lab for Creative AI
 https://metacreation.net/
 
@@ -7807,5 +7788,4 @@ Explore our research contributions:
 	- Artificial Intelligence
 
 	- Generative Arts
-	
-	
+
