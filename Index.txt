@@ -7789,3 +7789,14 @@ Explore our research contributions:
 
 	- Generative Arts
 
+
+
+
+The ReadME Project
+https://github.com/readme
+
+About:
+
+Coding is usually seen as a solitary activity, but it’s actually the world’s largest community effort led by open source maintainers, contributors, and teams. These unsung heroes put in long hours to build software, fix issues, field questions, and manage communities.
+
+The ReadME Project is part of GitHub’s ongoing effort to amplify the voices of the developer community. It’s an evolving space to engage with the community and explore the stories, challenges, technology, and culture that surround the world of open source.
