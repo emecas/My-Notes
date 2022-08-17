@@ -7800,3 +7800,20 @@ About:
 Coding is usually seen as a solitary activity, but it’s actually the world’s largest community effort led by open source maintainers, contributors, and teams. These unsung heroes put in long hours to build software, fix issues, field questions, and manage communities.
 
 The ReadME Project is part of GitHub’s ongoing effort to amplify the voices of the developer community. It’s an evolving space to engage with the community and explore the stories, challenges, technology, and culture that surround the world of open source.
+
+
+
+
+Processing
+https://processing.org/
+Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
+
+Processing Foundation: https://processingfoundation.org/
+
+Flavors:
+
+ - Processing {tradicional] : https://processing.org/
+ - p5.js  : https://p5js.org/
+ - Processing Android : https://android.processing.org/
+ - Processing Python : https://py.processing.org/
+ 
