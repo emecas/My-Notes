@@ -7841,3 +7841,45 @@ Features
  - Web based administration interface (Spring Cloud Data Flow)
 
 Samples: https://github.com/spring-projects/spring-batch/tree/master/spring-batch-samples
+
+
+
+
+Azure Cosmos DB
+https://azure.microsoft.com/en-us/services/cosmos-db/#overview
+Build or modernize scalable, high-performance apps
+
+
+Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications of any size or scale. Get guaranteed single-digit millisecond performance and 99.999-percent availability, backed by SLAs, automatic and instant scalability, enterprise-grade security, and open-source APIs for NoSQL databases including MongoDB and Cassandra. Enjoy fast writes and reads anywhere in the world with multi-region writes and data replication. Gain insight over real-time data with no-ETL (extract, transform, load) analytics using Azure Synapse Link for Azure Cosmos DB.
+
+	Guaranteed speed at any scale:
+
+	with instant and limitless elasticity, seamless burst capacity, fast reads, and multi-region writes anywhere in the world
+
+	- Fast, flexible app development:
+
+	with SDKs for popular languages plus a native Core (SQL) API, APIs for MongoDB, Cassandra, and Gremlin, and free dev/test options
+
+	- Ready for mission-critical applications:
+
+	with 99.999-percent availability, continuous backup with point-in-time restore, enterprise-level security that guarantees business continuity, and no-ETL analytics over real-time data
+
+	- Fully managed and cost-effective serverless database:
+
+	that responds to application needs by instantly and automatically scaling up and down, and offers consumption-based pricing options
+
+	- Automatic and limitless scale:
+
+	Meet your application needs and deliver high performance—even with unpredictable traffic—with a database that scales elastically, automatically, and instantly. Workloads of any size or scale are guaranteed always-on availability and single-digit millisecond reads and writes, so you’re able to run your most important applications worry-free anywhere in the world.
+
+	- Serverless database operations:
+
+	Run workloads with spiky or occasional traffic and pay for only the resources used per database operation, with no minimum charges or capacity planning needed. Serverless is a consumption-based mode that makes it easy and cost-effective to run dev/test workloads and production applications.
+
+	- Hybrid platform for Apache Cassandra data:
+
+	Gain scale and superior performance, while maintaining flexibility and control, with a fully managed NoSQL database service trusted by companies like Symantec to run Cassandra workloads. Seamlessly integrate with fully compatible Azure Managed Instance for Apache Cassandra for transparent migration, replication, and synchronization of your Cassandra data in a hybrid deployment or lift and shift to Azure.
+
+	- No-ETL analytics over real-time operational data:
+
+	Reduce time to insight by running near-real time analytics and AI on the operational data within your Azure Cosmos DB NoSQL database. Azure Synapse Link for Azure Cosmos DB seamlessly integrates with Azure Synapse Analytics without data movement or diminishing the performance of your operational data store.
