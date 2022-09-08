@@ -7883,3 +7883,12 @@ Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performan
 	- No-ETL analytics over real-time operational data:
 
 	Reduce time to insight by running near-real time analytics and AI on the operational data within your Azure Cosmos DB NoSQL database. Azure Synapse Link for Azure Cosmos DB seamlessly integrates with Azure Synapse Analytics without data movement or diminishing the performance of your operational data store.
+
+
+
+
+10 Resources to Improve Your Public Speaking Skills
+https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speaking-skills/
+
+From:  https://2022.pgconf.nyc/callforpapers/
+
