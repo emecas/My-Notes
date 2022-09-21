@@ -7892,3 +7892,12 @@ https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speak
 
 From:  https://2022.pgconf.nyc/callforpapers/
 
+
+
+
+Inside Java
+https://inside.java/
+News and views from members of the Java team at Oracle
+Shows: Podcast |  Newscast |  JEP Café |  Sip Of Java
+dev.java |  About |  Jobs
+
