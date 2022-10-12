@@ -7929,3 +7929,16 @@ We design programmes and resources specifically for delivery to young people, re
 	Generating and leveraging evidence
 	As a global network we are perfectly positioned to be a leading authority in youth entrepreneurship and address the lack of robust evidence on youth entrepreneurship. We work with our members to collect evidence and use the learnings to drive the changes needed in policy and practice.
 
+
+
+
+InboxSDK
+Repo: https://github.com/inboxSDK/inboxsdk
+Documentation: https://inboxsdk.github.io/inboxsdk-docs/
+Doc repo: https://github.com/InboxSDK/inboxsdk-docs
+The InboxSDK lets you build apps for Gmail. 
+
+InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.
+
+	Getting Started
+	https://inboxsdk.github.io/inboxsdk-docs/#quick-start
