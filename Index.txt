@@ -7956,3 +7956,69 @@ About Flathub
 
 	Flathub is the place to get and distribute apps for all of desktop Linux. It is powered by Flatpak, allowing Flathub apps to run on almost any Linux distribution.
 	Use Flathub to gain access to a growing collection of Flatpaks by following the setup instructions.
+
+
+
+
+JVMS : JDK Version Manager (JVMS) for Windows
+https://github.com/ystyle/jvms
+
+	NAME:
+	   jvms - JDK Version Manager (JVMS) for Windows
+
+	USAGE:
+	   jvms.exe [global options] command [command options] [arguments...]
+
+	VERSION:
+	   v2.1.5
+
+	COMMANDS:
+		 init        Initialize config file
+		 list, ls    List current JDK installations.
+		 install, i  Install available remote jdk
+		 switch, s   Switch to use the specified version.
+		 remove, rm  Remove a specific version.
+		 rls         Show a list of versions available for download.
+		 proxy       Set a proxy to use for downloads.
+		 help, h     Shows a list of commands or help for one command
+
+	GLOBAL OPTIONS:
+	   --help, -h     show help
+	   --version, -v  print the version
+	 
+	 
+	- Installing a new JVM from the list:
+
+		PS jvms_v2.1.5_amd64> .\jvms.exe install 20.0.0
+		Downloading jdk version 20.0.0...
+		 189.58 MB / 189.58 MB [=================================] 100.00% 70.36 MB/s 2s
+		Complete
+		Installing JDK 20.0.0 ...
+		Installation complete. If you want to use this version, type
+
+		jvms switch 20.0.0
+	 
+	 
+	- Adding existent JVM to the list: 
+	
+		see: https://github.com/ystyle/jvms#add-a-local-jdk-version
+		
+		e.g: add the jdk 17.0.1
+
+		copy jdk home folder to jvms/store
+		rename folder to 17.0.1
+		jvms list check this
+		jvms switch 17.0.1
+		java -version check jdk verison 
+	 
+	
+	- Listing the current JDK installations:
+	   
+		PS  jvms_v2.1.5_amd64> .\jvms.exe ls
+		Installed jdk (* marks in use):
+		  * 1) 20.0.0
+			2) 19.0.1
+			3) 17.0.1
+			4) 16.0.2
+			5) 11.0.12
+			6) 1.8.0_301
