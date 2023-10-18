@@ -8022,3 +8022,19 @@ https://github.com/ystyle/jvms
 			4) 16.0.2
 			5) 11.0.12
 			6) 1.8.0_301
+			
+			
+
+
+Whisper: Robust Speech Recognition via Large-Scale Weak Supervision 
+https://github.com/openai/whisper
+
+[Blog] : https://openai.com/blog/whisper
+
+[Paper] : https://arxiv.org/abs/2212.04356
+
+[Model card] : https://github.com/openai/whisper/blob/main/model-card.md
+
+[Colab example] : https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb
+
+Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
