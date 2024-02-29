@@ -8038,3 +8038,31 @@ https://github.com/openai/whisper
 [Colab example] : https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb
 
 Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+
+
+
+
+Qodana
+https://www.jetbrains.com/qodana/
+Code quality done right
+
+Static code analysis by Qodana helps development teams follow agreed quality standards, and deliver readable, maintainable, and secure code. Powered by JetBrains.
+
+	* 2,500+ code checks
+	Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.
+
+	* Third-party license audit
+	Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.
+
+	* Vulnerability checker
+	Prevent security breaches by spotting vulnerable dependencies and APIs imported into your project.
+
+	* Code coverage reporting
+	Evaluate how well your code is covered by tests and set quality gates for your desired coverage level.
+
+	* Baseline
+	Control your technical debt by adding found issues to the baseline. Prevent your team from creating new issues, while gradually reducing technical debt in a controlled manner.
+
+Ref: https://deyunarusmiland.medium.com/our-team-journey-with-sonarqube-and-qodana-5ea6a3748089
+
+
