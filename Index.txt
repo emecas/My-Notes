@@ -8066,3 +8066,20 @@ Static code analysis by Qodana helps development teams follow agreed quality sta
 Ref: https://deyunarusmiland.medium.com/our-team-journey-with-sonarqube-and-qodana-5ea6a3748089
 
 
+
+
+Redoc
+Generate beautiful API documentation from OpenAPI
+
+Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.
+
+By default Redoc offers a three-panel, responsive layout:
+
+    The left panel contains a search bar and navigation menu.
+    The central panel contains the documentation.
+    The right panel contains request and response examples.
+
+Redoc Live demo
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at https://redocly.github.io/redoc/.
+
+Ref: https://docs.api.mainstay.com/
