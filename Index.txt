@@ -8083,3 +8083,121 @@ Redoc Live demo
 If you want to see how Redoc renders your OpenAPI definition, you can try it out online at https://redocly.github.io/redoc/.
 
 Ref: https://docs.api.mainstay.com/
+
+
+
+
+Architecture Decision Record (ADR)
+https://github.com/joelparkerhenderson/architecture-decision-record
+
+
+	Joel Parker Henderson
+	https://twitter.com/joel_henderson
+	http://www.joelparkerhenderson.com/
+
+	About
+
+	Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation 
+
+	Contents:
+
+		What is an architecture decision record?
+		How to start using ADRs
+		How to start using ADRs with tools
+		How to start using ADRs with git
+		File name conventions for ADRs
+		Suggestions for writing good ADRs
+		ADR example templates
+		Teamwork advice for ADRs
+		For more information
+
+	Templates:
+
+		Decision record template by Jeff Tyree and Art Akerman
+		Decision record template by Michael Nygard
+		Decision record template by EdgeX
+		Decision record template for Alexandrian pattern
+		Decision record template for business case
+		Decision record template of the MADR project
+		Decision record template using Planguage
+		Decision record template by Paulo Merson
+		Decision record template by Olaf Zimmermann
+		Translations into more languages
+
+	Examples:
+
+		CSS framework
+		Environment variable configuration
+		Metrics, monitors, alerts
+		Microsoft Azure DevOps
+		Monorepo vs multirepo
+		Programming languages
+		Secrets storage
+		Timestamp format
+		Many more...
+
+	For more information
+
+		Introduction:
+
+			Architectural decision (wikipedia.org)
+
+			Architecturally significant requirements (wikipedia.org)
+
+		Templates:
+
+			Documenting architecture decisions - Michael Nygard (thinkrelevance.com)
+
+			Markdown Architectural Decision Records (adr.github.io)
+
+			Template for documenting architecture alternatives and decisions (stackoverflow.com)
+
+		In-depth:
+
+			ADMentor XML project (github.com)
+
+			Architectural Decision Guidance across Projects: Problem Space Modeling, Decision Backlog Management and Cloud Computing Knowledge (ifs.hsr.ch)
+
+			The Decision View's Role in Software Architecture Practice (computer.org)
+
+			Documenting Software Architectures: Views and Beyond (resources.sei.cmu.edu)
+
+			Architecture Decisions: Demystifying Architecture (utdallas.edu)
+
+			ThoughtWorks Technology Radar: Lightweight Architecture Decision Records (thoughtworks.com)
+
+			A Skeptic’s Guide to Software Architecture Decisions (infoq.com)
+
+			Architectural Decisions — The Making Of
+
+		Tools:
+
+			Command-line tools for working with Architecture Decision Records
+
+			Command line tools with python by Victor Sluiter
+
+			Architectural Design Decision Support Framework (ADvISE)
+
+		Company-Specific Guidance:
+
+			Amazon: AWS Prescriptive Guidance: ADR Process
+
+			GitHub: ADR GitHub organization
+
+			RedHat: Why you should use ADRs
+
+		Examples:
+
+			Repository of Architecture Decision Records made for the Arachne Framework
+
+		See also:
+
+			REMAP (Representation and Maintenance of Process Knowledge)
+
+			DRL (Decision Representation Language)
+
+			IBIS (Issue-Based Information System)
+
+			QOC (Questions, Options, and Criteria)
+
+			IBM’s e-Business Reference Architecture Framework
