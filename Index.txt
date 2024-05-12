@@ -8201,3 +8201,13 @@ https://github.com/joelparkerhenderson/architecture-decision-record
 			QOC (Questions, Options, and Criteria)
 
 			IBM’s e-Business Reference Architecture Framework
+
+
+
+
+adr-tools
+CLI tool for working with Architecture Decision Records
+https://formulae.brew.sh/formula/adr-tools
+repo : https://github.com/npryce/adr-tools
+
+Original ref: https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133
