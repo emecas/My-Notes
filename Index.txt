@@ -8222,3 +8222,20 @@ repo: https://github.com/mrwilson/adr-viewer
 demo: https://mrwilson.github.io/adr-viewer/index.html
 
 Ref: in https://formulae.brew.sh/formula/ index
+
+
+
+
+Democracy Lab
+https://www.democracylab.org/
+Civic Infrastructure
+
+DemocracyLab empowers people who use technology for public good by connecting tech-for-good projects with skilled volunteers and companies.
+
+Make Tech. Do Good.
+
+We connect tech-for-good projects with skilled volunteers and socially responsible companies.
+
+GitHub main repo: https://github.com/DemocracyLab/CivicTechExchange
+
+Blog: https://blog.democracylab.org/
