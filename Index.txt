@@ -8239,3 +8239,35 @@ We connect tech-for-good projects with skilled volunteers and socially responsib
 GitHub main repo: https://github.com/DemocracyLab/CivicTechExchange
 
 Blog: https://blog.democracylab.org/
+
+
+
+
+Poetry 
+https://python-poetry.org/
+Python packaging and dependency management made easy 
+REPO: https://github.com/python-poetry/poetry
+
+	- Deterministic builds Develop
+	Poetry comes with all the tools you might need to manage your projects in a deterministic way. 
+
+	- Package with ease Build
+	Easily build and package your projects with a single command.
+
+	- Share your work Publish
+	Make your work known by publishing it to PyPI.
+
+	- Check the state of your dependencies Track
+	Having an insight of your project's dependencies is just one command away.
+
+	- Dependency resolver
+	Poetry comes with an exhaustive dependency resolver, which will always find a solution if it exists.
+	And get a detailed explanation if no solution exists.
+
+	- Isolation
+	Poetry either uses your configured virtualenvs or creates its own to always be isolated from your system.
+	The behavior is configurable. 
+	
+	- Intuitive CLI
+	Poetry's commands are intuitive and easy to use, with sensible defaults while still being configurable.
+	It's also extensible with plugin system. 
