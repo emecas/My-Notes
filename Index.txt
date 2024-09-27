@@ -8271,3 +8271,104 @@ REPO: https://github.com/python-poetry/poetry
 	- Intuitive CLI
 	Poetry's commands are intuitive and easy to use, with sensible defaults while still being configurable.
 	It's also extensible with plugin system. 
+
+
+
+
+Krita 
+https://krita.org/
+Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.
+
+Features:
+
+ - Clean and Flexible Interface
+ 
+   An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.
+
+     - Customizable Layout
+     - Over 30 dockers for additional functionality
+     - Dark and light color themes
+ 
+ - All the tools you need
+ 
+     - Beautiful Brushes
+
+       Over 100 professionally made brushes that come preloaded. These brushes give a good range of effects so you can see the variety of brushes that Krita has to offer.
+
+
+     - Brush Stabilizers
+
+       Have a shaky hand? Add a stabilizer to your brush to smoothen it out. Krita includes 3 different ways to smooth and stabilize your brush strokes. There is even a dedicated Dynamic Brush tool where you can add drag and mass.
+
+     - Vector & Text
+
+	   Built-in vector tools help you create comic panels. Select a word bubble template from the vector library and drag it on your canvas. Change the anchor points to create your own shapes and libraries. Add text to your artwork as well with the text tool. Krita uses SVG to manage its vector format.
+ 
+     - Brush Engines
+
+       Customize your brushes with over 9 unique brush engines. Each engine has a large amount of settings to customize your brush. Each brush engine is made to satisfy a specific need such as the Color Smudge engine, Shape engine, Particle engine, and even a filter engine. Once you are done creating your brushes, you can save them and organize them with Krita's unique tagging system.
+
+    - Wrap-around mode
+
+      It is easy to create seamless textures and patterns now. The image will make references of itself along the x and y axis. Continue painting and watch all of the references update instantly. No more clunky offsetting to see how your image repeats itself.
+    
+	 - Resource Manager
+
+       Import brush and texture packs from other artists to expand your tool set. If you create some brushes that you love, share them with the world by creating your own bundles. Check out the brush packs that are available in the Resources area.
+ 
+ - Simple and Powerful 2D Animation
+ 
+   Turn Krita into an animation studio by switching to the animation workspace. Bring your drawings to life by layering your animations, importing audio, and fine tuning your frames. When you are finished, share with your friends by exporting your creation to a video. Or just export the images to continue working in another application.
+ 
+   Features
+
+     - Multiple layers and audio support
+     - Supports 1,000s of frames on timeline
+     - Playback controls with pausing, playing, and timeline scrubbing
+     - Onion skinning support to help with in-betweens
+     - Tweening with opacity and position changes
+     - Change start time, end time, and FPS
+     - Export results to video or still images
+     - Drag and drop frames to organize timings
+     - Shortcuts for duplicating and pulling frames
+     - Performance tweaking with drop-frame option
+ 
+ - Productivity features
+ 
+     - Drawing Assistants
+
+	    Use a drawing aid to assist you with vanishing points and straight lines. The Assistant Tool comes with unique assistants to help you make that perfect shape. These tools range from drawing ellipses to creating curvilinear perspective with the Fisheye Point tool.
+
+     - Layer Management
+
+       In addition to painting, Krita comes with vector, filter, group, and file layers. Combine, order, and flatten layers to help your artwork stay organized.
+
+     - Select & Transform
+
+       Highlight a portion of your drawing to work on. There are additional features that allow you to add and remove from the selection. You can further modify your selection by feathering and inverting it. Paint a selection with the Global Selection Mask.
+
+     - Full Color Management
+
+       Krita supports full color management through LCMS for ICC and OpenColor IO for EXR. This allows you to incorporate Krita into your existing color management pipeline. Krita comes with a wide variety of ICC working space profiles for every need.
+
+     - GPU Enhanced
+
+       With OpenGL or Direct3D enabled, you will see increased canvas rotation and zooming speed. The canvas will also look better when zoomed out. The Windows version supports Direct3D 11 in place of OpenGL.
+
+     - PSD Support
+
+       Open PSD files that even Photoshop cannot open. Load and save to PSD when you need to take your artwork across different programs.
+ 
+     - HDR Painting
+
+       Krita is the only painting application that lets you open, save, edit and author HDR and scene-referred images. With OCIO and OpenEXR support, you can manipulate the view to examine HDR images.
+
+     - Python Scripting
+
+       Powerful API for creating your own widgets and extending Krita. With using PyQt and Krita's own API, there are many possibilities. A number of plugins come pre-installed for your reference.
+
+     - Training Resources
+
+       In addition to training and educational material found on the Internet, Krita produces its own training material to help you learn all of the tools fast.
+ 
+ - All of this (and more) for FREE
