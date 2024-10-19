@@ -8387,3 +8387,32 @@ Using the same name was a mistake as it resulted in cases where binary name conf
 To preserve the name for its original owner, we renamed this project to hey.
 
 Previously known as github.com/rakyll/boom.
+
+
+
+
+oha
+https://github.com/hatoo/oha
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+
+oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.
+
+This program is written in Rust and powered by tokio and beautiful tui by ratatui.
+
+
+Installation Process:
+
+    $ winget install hatoo.oha
+    Found oha [hatoo.oha] Version 1.4.6
+    This application is licensed to you by its owner.
+    Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+    This package requires the following dependencies:
+      - Packages
+          Microsoft.VCRedist.2015+.x64
+    Downloading https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe
+      ██████████████████████████████  10.8 MB / 10.8 MB
+    Successfully verified installer hash
+    Starting package install...
+    Path environment variable modified; restart your shell to use the new value.
+    Command line alias added: "oha"
+    Successfully installed
