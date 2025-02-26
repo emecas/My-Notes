@@ -8416,3 +8416,24 @@ Installation Process:
     Path environment variable modified; restart your shell to use the new value.
     Command line alias added: "oha"
     Successfully installed
+
+
+
+
+Apache Shenyu
+Java native API Gateway for service proxy, protocol conversion and API governance.
+https://shenyu.apache.org/
+
+https://github.com/apache/shenyu
+
+Feature List
+
+   - Language: provides .NET, Python, Go, Java client for API register
+   - Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT
+   - Security: Sign, OAuth 2.0, JSON Web Tokens, WAF plugin
+   - API governance: Request, response, parameter mapping, Hystrix, RateLimiter plugin
+   - Observability: Tracing, metrics, logging plugin
+   - Extensions: Plugin hot-swapping, dynamic loading
+   - Dashboard: Dynamic traffic control, visual backend for user menu permissions
+   - Cluster: NGINX, Docker, Kubernetes
+
