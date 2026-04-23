@@ -8518,3 +8518,19 @@ Here is a breakdown of why it’s a big deal in the software world:
 4. **Baggage:** Extra metadata that travels with a request to provide more context.
 
 > **In short:** OpenTelemetry is the "universal translator" for software reliability, making it easier to see what’s happening inside your code regardless of where it runs or what tools you use to analyze it.
+
+
+
+
+xc - Simple, Convenient, Docs-based task runner.
+https://xcfile.dev/
+
+
+xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.
+
+The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.
+
+xc is designed to maximise convenience, and minimise complexity. Each xc task is defined in simple, human-readable Markdown or org-mode. This means that even people without the xc tool installed can use the README (or whatever documentation file contains the tasks) as a source of useful commands for the project.
+
+
+Repo: https://github.com/joerdav/xc
