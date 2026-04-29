@@ -8561,3 +8561,32 @@ Use Cases
 Repo: https://github.com/dnephin/dobi
 
 
+
+
+Mise
+https://mise.jdx.dev/
+Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.
+
+Everything in its place, before you code.
+In a professional kitchen, mise en place is the ritual of prep: knives sharpened, onions diced, stock warm, station clean. The work before the work.
+mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.
+
+Three dishes, one kitchen.
+
+Dev Tools
+A polyglot tool version manager. Replaces asdf, nvm, pyenv, rbenv, and more — one tool for every language.
+read more →
+
+Environments
+Switch sets of environment variables per project directory. A smarter, simpler replacement for direnv.
+read more →
+
+Tasks
+A powerful task runner that replaces make and npm scripts. Define, compose, and run with ease.
+read more →
+
+— pantry · 900+ tools, 1 toml file —
+
+Mise Versions: https://mise-versions.jdx.dev/
+
+Repo: https://github.com/jdx/mise
