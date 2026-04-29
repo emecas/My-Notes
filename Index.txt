@@ -8534,3 +8534,30 @@ xc is designed to maximise convenience, and minimise complexity. Each xc task is
 
 
 Repo: https://github.com/joerdav/xc
+
+
+
+
+dobi Documentation
+A build automation tool for Docker applications.
+https://dnephin.github.io/dobi/
+
+A build automation tool for Docker applications.
+Keep your project tasks organized, portable, repeatable, and fast with dobi. Define the resources and tasks required to build, test, and release your project in a dobi.yaml and run them with dobi TASK.
+
+
+Use Cases
+
+    examples/minimal-docker-image - building a minimal docker image, that does not contain build/compile dependencies. This is sometimes referred to as “squashing” an image.
+    examples/tag-images - tag images with metadata (git sha, git branch, datetime, and version)
+    examples/project-setup - prompt users for configuration and generate a .env file if it doesn’t exist.
+    examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.
+    examples/init-named-volume - create or update the files in a named docker volume.
+    examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.
+    examples/env-vars - populate environment variables from job task output
+
+
+
+Repo: https://github.com/dnephin/dobi
+
+
