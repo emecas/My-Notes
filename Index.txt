@@ -8221,10 +8221,11 @@ https://github.com/joelparkerhenderson/architecture-decision-record
 
 adr-tools
 CLI tool for working with Architecture Decision Records
+Keeps a project's architecture decisions as numbered Markdown files (in `doc/adr` by default), with commands to create them and to supersede earlier ones.
 https://formulae.brew.sh/formula/adr-tools
 repo : https://github.com/npryce/adr-tools
 
-Original ref: https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133
+Original ref: https://github.com/architecture-decision-record/architecture-decision-record/issues/51#issuecomment-944221133
 
 
 
