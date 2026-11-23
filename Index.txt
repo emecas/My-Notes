@@ -4357,11 +4357,17 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?vi
 Don't Measure Unit Test Code Coverage
 By James Shore
 01 Feb, 2019
+https://www.jamesshore.com/v2/blog/2019/dont-measure-unit-test-code-coverage
+> If you're using test-driven development, don't measure unit test code coverage. It's worse than a useless statistic; it will actively lead you astray.
 
- - To add tests to legacy code
- - To improve requirements code quality
- - To improve non-functional quality
- - (TDD reflexion) Here's the thing about TDD
+What should you do instead? That depends on what you want to accomplish.
+- To improve code and test practices: perform root-cause analysis of escaped defects, then improve your design and process to prevent that sort of defect from happening again
+- To improve programmer code quality: teach testing skills, speed up the test loop, refactor more, use evolutionary design, and try pairing or mobbing
+- To improve test discipline: use coaching and discipline-enhancing practices such as pairing or mobbing
+ - To add tests to legacy code: nurture a habit of adding tests as part of working on any code
+ - To improve requirements code quality: involve customer representatives early in the process
+ - To improve non-functional quality: use a mix of real-world monitoring, fail-fast code, and specialized testbeds
+ - (TDD reflexion) Here's the thing about TDD: any code you want to cover is ipso facto covered. If you're still getting defects, something else is wrong.
 
  
 
