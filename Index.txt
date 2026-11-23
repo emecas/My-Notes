@@ -2145,8 +2145,9 @@ http://gecco-2017.sigevo.org
 
 
 The Agile Landscape (V1)
-http://blog.deloitte.com.au/agile/2016/03/07/navigating-the-agile-landscape/
-http://blog.deloitte.com.au/agile/wp-content/uploads/sites/25/2016/03/Agile-Frameworks.png
+A poster by Chris Webb at Deloitte (2016) that maps the many Agile frameworks and practices as a landscape of connected zones, from ideas to delivered value.
+http://web.archive.org/web/20170422145929/http://blog.deloitte.com.au/agile/2016/03/07/navigating-the-agile-landscape/
+http://web.archive.org/web/20170422145956/http://blog.deloitte.com.au/agile/wp-content/uploads/sites/25/2016/03/Agile-Frameworks.png
 http://i.imgur.com/fR6Ynq9.gif
 
 (V3)
