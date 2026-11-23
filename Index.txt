@@ -2352,6 +2352,7 @@ https://en.wikipedia.org/wiki/Java_Code_Coverage_Tools#JaCoCo
 Ref paper: 
 A coverage analysis of Java benchmark suites (2005) 
 http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.106.8389
+https://www.researchgate.net/publication/220901322_A_Coverage_Analysis_of_Java_Benchmark_Suites
 
 
 Abstract
