@@ -4958,10 +4958,14 @@ Although this research overwhelmingly involves human subjects, some findings tha
 
 
 
-dev.to
-About dev.to
+DEV Community (dev.to)
+https://dev.to/about
 
-Where programmers share ideas and help each other grow. It is an online community for sharing and discovering great ideas, having debates, and making friends. Anyone can share articles, questions, discussions, etc. as long as they have the rights to the words they are sharing. Cross-posting from your own blog is welcome. 
+About dev.to (2019):
+> Where programmers share ideas and help each other grow. It is an online community for sharing and discovering great ideas, having debates, and making friends. Anyone can share articles, questions, discussions, etc. as long as they have the rights to the words they are sharing. Cross-posting from your own blog is welcome. 
+
+About dev.to (2026-11-23):
+> DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning. We provide a place for that to happen.
 
 
 
