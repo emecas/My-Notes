@@ -4572,6 +4572,8 @@ http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatshee
 
 
 python -m idlelib.idle
+Starts IDLE, the editor and interactive shell that comes with Python, from a terminal.
+https://docs.python.org/3/library/idle.html
 
 
 
