@@ -909,8 +909,10 @@ PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and
 
 
 Recover MySQL root Password
-http://www.cyberciti.biz/tips/recover-mysql-root-password.html
-You can recover MySQL database server password with following five easy steps.
+https://www.cyberciti.biz/tips/recover-mysql-root-password.html
+cyberciti.biz:
+> You can recover MySQL database server password with following five easy steps.
+The five steps: stop the MySQL server; start it again with `--skip-grant-tables`, so it asks for no password; connect as root with `mysql -u root`; set a new password for root; stop the server and start it normally.
 
 
 REST with Java (JAX-RS) using Jersey - Tutorial
