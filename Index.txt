@@ -5530,7 +5530,15 @@ sudo apt install gnome-tweaks
 Scoop
 https://scoop.sh/
 A command-line installer for Windows
-https://github.com/lukesampson/scoop
+Scoop installs apps from the command line with a minimal amount of friction. It:
+- Eliminates User Account Control (UAC) prompt notifications
+- Hides the graphical user interface (GUI) of wizard-style installers
+- Prevents polluting the PATH environment variable
+- Avoids unexpected side effects from installing and uninstalling apps
+- Resolves and installs dependencies automatically
+- Performs all the necessary steps to get an app to a working state
+https://github.com/ScoopInstaller/Scoop
+scoop-directory is a searchable directory of buckets (app sources), though ScoopSearch is now the official search.
 https://github.com/rasa/scoop-directory
 
 
