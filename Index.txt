@@ -146,14 +146,27 @@ JavaScript agglomerative hierarchical clustering
 clusterfck is a JavaScript library for hierarchical clustering. Clustering is used to group similar items together. Hierarchical clustering in particular is used when a hierarchy of items is needed or when the number of clusters isn't known ahead of time. An example use, clustering similar colors based on their rgb values: 
 http://harthur.github.com/clusterfck/
 
-http://stackoverflow.com/questions/15399520/a-hierarchical-clustering-in-php-or-javascript
+Git official web site
+The home of Git: what it is and why (fast, distributed, free), its documentation and downloads, and Pro Git, the whole book by Scott Chacon and Ben Straub, free to read online.
 
+# Git official web site
+About Git: https://git-scm.com/about
 
-GIT official web site 
-web
-http://git-scm.com/about
-book
-http://git-scm.com/book
+# Free Book
+Pro Git (second edition), by Scott Chacon and Ben Straub, published by Apress: https://git-scm.com/book
+- 1. Getting Started: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+- 2. Git Basics: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+- 3. Git Branching: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+- 4. Git on the Server: https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols
+- 5. Distributed Git: https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
+- 6. GitHub: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
+- 7. Git Tools: https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection
+- 8. Customizing Git: https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+- 9. Git and Other Systems: https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client
+- 10. Git Internals: https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
+- Appendix A: Git in Other Environments: https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Graphical-Interfaces
+- Appendix B: Embedding Git in your Applications: https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-Command-line-Git
+- Appendix C: Git Commands: https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Setup-and-Config
 
 
 MongoDB
