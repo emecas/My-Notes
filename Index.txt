@@ -2130,8 +2130,11 @@ by Ian Bogost http://bogost.com/
 
 
 Apache Spark: Config Cheatsheets (parts 1 & 2)
-http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/
-http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/
+How C2FO sized Spark's executors and driver by hand on AWS EMR, instead of `maximizeResourceAllocation`, which gave the driver a whole node: part 1 for cluster mode, where the driver runs on a worker node, and part 2 for client mode, where it runs on the master node.
+Part 1, cluster mode: http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/
+Archived copy (2017): https://web.archive.org/web/20170115072914/http://c2fo.io:80/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/
+Part 2, client mode: http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/
+Archived copy (2017): https://web.archive.org/web/20170112205549/http://c2fo.io:80/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/
 
 
 
