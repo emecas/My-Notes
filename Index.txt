@@ -2133,15 +2133,40 @@ http://gecco-2017.sigevo.org
 
 
 
-The Agile Landscape (V1)
+# The Agile Landscape (V1)
 A poster by Chris Webb at Deloitte (2016) that maps the many Agile frameworks and practices as a landscape of connected zones, from ideas to delivered value.
+http://blog.deloitte.com.au/agile/2016/03/07/navigating-the-agile-landscape/
 http://web.archive.org/web/20170422145929/http://blog.deloitte.com.au/agile/2016/03/07/navigating-the-agile-landscape/
+http://blog.deloitte.com.au/agile/wp-content/uploads/sites/25/2016/03/Agile-Frameworks.png
 http://web.archive.org/web/20170422145956/http://blog.deloitte.com.au/agile/wp-content/uploads/sites/25/2016/03/Agile-Frameworks.png
 http://i.imgur.com/fR6Ynq9.gif
 
-(V3)
+# The Agile Landscape (V3)
 https://c.kaskus.id/kaskus_forum_image/ohk03z_1480675296.769_.jpg
 https://www.kaskus.co.id/thread/5841500596bde67d1d8b456a/the-agile-landscape-v3/
+https://dist.krok.edu.ua/pluginfile.php/198893/mod_resource/content/1/Agile_landscape.pdf.crdownload
+
+# 7 things wrong with Deloitte's Agile tube map
+https://medium.com/tech-sojourna/7-things-wrong-with-deloittes-agile-tube-map-641192e20068
+A critique of the map: seven reasons the author doesn't consider it a valuable exercise, ending with a proposal to reduce it to the four values of the Agile Manifesto.
+
+> **Background**
+> The animated and static map has done the rounds on several twitter feeds and in most cases, the vast majority in fact, it has not been well received by viewers and twitterati alike. Indeed, I don’t consider it a valuable exercise and here’s my reasons why.
+
+> 1. Agile Practice is not that Discrete
+> 2. Separation of Strategy/Management from Delivery
+> 3. Ghost Stops
+> 4. Duplication
+> 5. Ambivalent Message
+> 6. Missing Practices
+> 7. Quick Succession Updates
+
+> **Conclusion**
+> How about we simplify all that map to these 4 stops:
+> Individuals and interactions over processes and tools
+> Working software over comprehensive documentation
+> Customer collaboration over contract negotiation
+> Responding to change over following a plan
 
 
 
