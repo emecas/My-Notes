@@ -4976,12 +4976,17 @@ About dev.to (2026-11-23):
 
 
 
+Micronaut
 https://micronaut.io/
 
-A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
+micronaut.io (2019):
+> A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.
 
-https://github.com/micronaut-projects/
-https://github.com/micronaut-projects/micronaut-core
+micronaut.io (2026-11-23):
+> A modern, JVM-based framework for fast cloud applications
+
+Organization: https://github.com/micronaut-projects/
+Core repository: https://github.com/micronaut-projects/micronaut-core
 
 
 
