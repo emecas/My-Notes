@@ -2413,10 +2413,13 @@ https://www.researchgate.net/publication/220901322_A_Coverage_Analysis_of_Java_B
 
  
 NotePad++ Compare Plugin
-Compare plugin is back! 
-https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back
-https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0
-https://github.com/pnedev/compare-plugin
+Compare plugin is back!
+Announcement on the Notepad++ forum (2017): https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back
+Archived copy (2019): https://web.archive.org/web/20190325045802/https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back
+pnedev, on the forum:
+> It’s been a year since I started working on fixing Compare plugin’s stability issues but because I like it a lot I got way further and did a serious code rework/refactoring and made many improvements/fixes. Now finally I’m pleased to announce the new ComparePlugin version 2.0.0.
+Release 2.0.0: https://github.com/pnedev/comparePlus/releases/tag/v2.0.0
+Repository: https://github.com/pnedev/comparePlus
 
 
 
