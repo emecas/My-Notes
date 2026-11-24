@@ -392,8 +392,12 @@ http://www.change.org/es/peticiones/ministerio-de-econom%C3%ADa-y-competitividad
 
 
 Proyecto Clone Wars
-http://www.reprap.org/wiki/Proyecto_Clone_Wars
-Clone Wars es un grupo dentro de la comunidad RepRap, que trata de documentar en español todo lo necesario para que puedas construir tu propia impresora 3D. Además recopilamos información como ubicación de comercios locales, miembros del grupo que tienen una impresora cerca de tí..., datos en general que te pueden ayudar con tu proyecto. 
+A group in the RepRap community that documents, in Spanish, everything needed to build your own 3D printer, and collects local shops and members with a printer nearby.
+https://www.reprap.org/wiki/Proyecto_Clone_Wars
+From the project's page on the RepRap wiki:
+> Clone Wars es un grupo dentro de la comunidad RepRap, que trata de documentar en español todo lo necesario para que puedas construir tu propia impresora 3D. Además recopilamos información como ubicación de comercios locales, miembros del grupo que tienen una impresora cerca de tí..., datos en general que te pueden ayudar con tu proyecto.
+
+> [!NOTE] In English: Clone Wars is a group within the RepRap community that tries to document, in Spanish, everything you need to build your own 3D printer. We also collect information such as the location of local shops, group members who have a printer near you..., and general facts that can help you with your project.
 
 
 
