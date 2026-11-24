@@ -495,20 +495,28 @@ La idea principal de PlanetUbuntu.es es crear una página web en la que pueda di
 
 
 
+pawfal.org: Dave Griffiths' music software and blog
 http://www.pawfal.org/
+Dave Griffiths' site: free music software from the early 2000s (SSM, the SpiralSynth Modular synthesizer, and plugins for it) and his blog on games, livecoding and art. Today the home page only links to Dan's and Dave's blogs.
 
 mi
-Music Intellegence is a collection of plugins for SSM that use artificial life to create patterns for generating innovative music.
-Built with 0.1.0b2 version of SSM. 
+> Music Intellegence is a collection of plugins for SSM that use artificial life to create patterns for generating innovative music.
+> Built with 0.1.0b2 version of SSM.
 http://www.pawfal.org/Software/mi/
 
 Spiral Synth 2
-Note: SpiralSynth isn't being supported any more due to lack of time, and the existance of SpiralSynth Modular. Which is much better featured and developed.
+> Note: SpiralSynth isn't being supported any more due to lack of time, and the existance of SpiralSynth Modular. Which is much better featured and developed.
 http://www.pawfal.org/Software/SpiralSynth/
 
 dave's blog of art and programming
 games, magic, livecoding, free software
-http://www.pawfal.org/dave/blog/about/
+About: http://www.pawfal.org/dave/blog/about/
+Archived copy (2017): https://web.archive.org/web/20170208153429/http://www.pawfal.org/dave/blog/about/
+
+# Dave Griffiths today
+The blog no longer answers. He co-founded FoAM Kernow in 2014, a studio in Cornwall combining science and art, and keeps his code on GitHub as nebogeo.
+FoAM Kernow: https://fo.am/studios/kernow/
+GitHub: https://github.com/nebogeo
 
 
 A Windows Phone 8 Run Tracking App in 100 Lines of Code!
