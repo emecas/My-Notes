@@ -2277,11 +2277,13 @@ Author Blog Post: http://samy.pl/keysweeper/
 
 
 
-PRINCIPLES OF CHAOS ENGINEERING
-principlesofchaos.org
-Chaos Engineering is the discipline of experimenting on a distributed system
-in order to build confidence in the system’s capability
-to withstand turbulent conditions in production
+Principles of Chaos Engineering
+https://principlesofchaos.org/
+principlesofchaos.org (2017):
+> Chaos Engineering is the discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production
+
+principlesofchaos.org (2026-11-24, last updated March 2019):
+> Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
 
 
 
