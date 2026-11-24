@@ -8664,3 +8664,20 @@ http://www.htcdev.com/devcenter/opensense-sdk/lock-screen/lock-sample-code/
 PowerBlue by SIMore: a Bluetooth adapter and power bank that keeps up to 4 extra SIM cards active for an iPhone, iPad or Android phone.
 http://www.simore.ch/en/two_sim_cards_in_one_mobile/dual_sim_card_powerblue.php#11
 http://web.archive.org/web/20140924065106/http://www.simore.ch:80/en/two_sim_cards_in_one_mobile/dual_sim_card_powerblue.php
+
+Jar Comparators - Identifying the Delta to Deploy
+Tools that compare two versions of a Java library or package, to see what changed between releases and whether the new one still works with code built against the old one.
+Question on Stack Overflow: https://stackoverflow.com/questions/3868803/comparing-two-jar-files
+
+CLIRR
+Clirr is a tool that checks Java libraries for binary and source compatibility with older releases
+https://clirr.sourceforge.net/
+
+pkgdiff
+A tool for visualizing changes in Linux software packages
+https://lvc.github.io/pkgdiff/
+
+japi-compliance-checker
+A tool for checking backward API/ABI compatibility of a Java library
+http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker
+https://github.com/lvc/japi-compliance-checker
