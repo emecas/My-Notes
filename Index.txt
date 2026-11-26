@@ -4750,9 +4750,20 @@ https://medium.com/@nathankpeck/microservice-principles-decentralized-data-manag
 
 
 Why You Should Turn Your Oracle Databases into RESTful API Services
-Don't Stored Procedures Already Do What You Say REST Does?
 https://blogs.oracle.com/newgendbaccess/why-use-rest
+Archived copy (2016): https://web.archive.org/web/20160310004404/https://blogs.oracle.com/newgendbaccess/entry/why_you_should_turn_your
+"Why Use REST?", by Gordon Smith (Oracle), 2015-12-09:
+> Why should you turn your Oracle Databases into RESTful API Services? RESTful APIs have many significant advantages which we will describe in this blog post. REST access, though, is very different from conventional client drivers and requires a different style of application development.
+> Oracle REST Data Services (ORDS) is a free tool that enables users to turn their Oracle databases into RESTful API Services that are highly scalable, manageable, and secure.
+> With ORDS, users can use the data management skills they possess, such as writing SQL and PL/SQL, and tools they are comfortable with, such as Oracle SQL Developer and PL/SQL, to define RESTful API services for their database.
+> No Java programming skills are needed to develop RESTful services or to run ORDS.
+On separating data access from application development:
+> Application developers then write to these RESTful APIs, which are simpler and don't take much code, and can focus on building great applications.
+> Customers tell us that people with data management skills such as SQL are harder to hire than application developers without SQL skills but that one data manager can support a large number of application developers.
+
+Don't Stored Procedures Already Do What You Say REST Does?
 https://blogs.oracle.com/newgendbaccess/dont-stored-procedures-already-do-what-you-say-rest-does
+The follow-up post on the same blog. No copy of it survives, so only its title is left.
 
 
 
