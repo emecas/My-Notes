@@ -8732,3 +8732,21 @@ japi-compliance-checker
 A tool for checking backward API/ABI compatibility of a Java library
 http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker
 https://github.com/lvc/japi-compliance-checker
+
+
+
+XStream
+XStream is a simple library to serialize objects to XML and back again.
+A Java library that turns objects into XML (or JSON) and back with no mapping files; still maintained in 2026 (1.4.21, 2024), its home moved to GitHub when Codehaus closed.
+http://xstream.codehaus.org/index.html
+Archived copy (2013): https://web.archive.org/web/20130405071919/http://xstream.codehaus.org:80/index.html
+Today: https://x-stream.github.io/
+Code: https://github.com/x-stream/xstream
+xstream.codehaus.org (2013), features:
+> Ease of use. A high level facade is supplied that simplifies common use cases.
+> No mappings required. Most objects can be serialized without need for specifying mappings.
+> Clean XML. No information is duplicated that can be obtained via reflection. This results in XML that is easier to read for humans and more compact than native Java serialization.
+> Requires no modifications to objects. Serializes internal fields, including private and final. Supports non-public and inner classes. Classes are not required to have default constructor.
+> Full object graph support. Duplicate references encountered in the object-model will be maintained. Supports circular references.
+x-stream.github.io (2026-11-27) adds one feature:
+> Security framework. Fine-control about the unmarshalled types to prevent security issues with manipulated input.
