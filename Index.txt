@@ -14,24 +14,32 @@ http://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigad
 
 
 Installing PHP on MAC OS X 1.8
-http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x
 http://php-osx.liip.ch/
+More links: SSCCE, The Foreman, an Android course
+Four links saved together in 2013: upgrading the PHP that comes with Mac OS X, how to ask for help with code (the SSCCE), The Foreman for managing servers, and an online Android course from a Spanish university.
 
+# Upgrading PHP on Mac OS X
+How do I upgrade PHP in Mac OS X? (Stack Overflow, 2010): https://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x
+> I would like to upgrade PHP, but there are several problems:
 
-
-
-Short, Self Contained, Correct Example
+# Short, Self Contained, Correct Example
 http://sscce.org/
+> If you are having a problem with some code and seeking help, preparing a Short, Self Contained, Correct Example (SSCCE) is very useful.
+- Short (Small) - Minimise bandwidth for the example, do not bore the audience.
+- Self Contained - Ensure everything is included, ready to go.
+- Correct - Copy, paste, (compile,) see is the aim.
+- Example - Displays the problem we are trying to solve.
 
-Foreman
-The Foreman is a complete lifecycle management tool for physical and virtual servers.
-http://theforeman.org/
-GitHub repo: https://github.com/theforeman
-Includes repot of website, and API in Ruby
+# Foreman
+https://theforeman.org/
+> Foreman is a complete lifecycle management tool for physical and virtual servers. We give system administrators the power to easily automate repetitive tasks, quickly deploy applications, and proactively manage servers, on-premise or in the cloud.
+GitHub: https://github.com/theforeman
+Its repositories include the website's and the API's in Ruby.
 
-
-Curso Android (ESP)
+# Curso Android (ESP)
 http://www.androidcurso.com
+Archived copy (2013): https://web.archive.org/web/20130601013638/http://www.androidcurso.com:80/
+In Spanish: the online course "Android: Programación de aplicaciones" of the Universidad Politécnica de Valencia; in 2013 its fourth edition ran from 2013-07-03 to 2013-11-20 (250 hours, 10 ECTS credits), with the book "El gran libro de Android".
 
 
 What have you tried?
