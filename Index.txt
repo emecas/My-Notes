@@ -2115,8 +2115,20 @@ https://12factor.net/
 
 GIT-FLOW Cheatsheet
 Efficient branching using git-flow by Vincent Driessen
+Daniel Kummer's one-page guide to git-flow, the git extensions for Vincent Driessen's branching model (2010): a `develop` branch next to `master`, and short-lived feature, release and hotfix branches, each started and finished with one command. Translated into about thirty languages.
 http://danielkummer.github.io/git-flow-cheatsheet/
 https://github.com/danielkummer/git-flow-cheatsheet
+> git-flow are a set of git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+- `git flow init`: set up git-flow in an existing repository (the default branch names are recommended)
+- `git flow feature start MYFEATURE` / `git flow feature finish MYFEATURE`: a feature branch from `develop`, merged back into it
+- `git flow release start RELEASE` / `git flow release finish RELEASE`: a release branch from `develop`, merged into `master`, tagged, merged back into `develop`
+- `git flow hotfix start VERSION` / `git flow hotfix finish VERSION`: a fix branched from `master`, merged into both and tagged
+
+# The model
+A successful Git branching model, Vincent Driessen (2010-01-05): https://nvie.com/posts/a-successful-git-branching-model/
+His note of reflection, added 2020-03-05:
+> If your team is doing continuous delivery of software, I would suggest to adopt a much simpler workflow (like GitHub flow) instead of trying to shoehorn git-flow into your team.
+> If, however, you are building software that is explicitly versioned, or if you need to support multiple versions of your software in the wild, then git-flow may still be as good of a fit to your team as it has been to people in the last 10 years.
 
 
 
