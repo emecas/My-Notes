@@ -2314,9 +2314,18 @@ use state-of-the-art cryptographic tools to encrypt your files, emails and insta
 
 
 Double-slit experiment
+Electrons sent through two slits land on a screen in an interference pattern, as waves would; any measurement that tells which slit each electron went through makes the pattern disappear.
 https://en.wikipedia.org/wiki/Double-slit_experiment
+> In modern physics, the double-slit experiment demonstrates that light and matter can exhibit behavior associated with both classical particles and classical waves.
+> In 1927, Davisson and Germer and, independently, George Paget Thomson and his research student Alexander Reid demonstrated that electrons show the same behavior, which was later extended to atoms and molecules.
+
 With Electrons
-https://www.physicsforums.com/threads/double-slit-experiment-with-electrons.684465/
+"Double slit experiment with electrons", a Physics Forums thread (April 2013), today titled "What does observing electrons mean in the double slit experiment":
+https://www.physicsforums.com/threads/what-does-observing-electrons-mean-in-the-double-slit-experiment.684465/
+The question (kjamha, 2013-04-09):
+> What does it mean to "look at the electrons"? Would it be more accurate to say "if the electrons interact with photons"? Or am I missing something?
+The first answer (phinds, 2013-04-09):
+> ANY interaction that would allow knowledge of which slit the electron went through destroys the interference and basically forces the electron to act like a particle instead of a wave.
 
 
 
