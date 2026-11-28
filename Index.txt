@@ -408,12 +408,27 @@ operator precedence -
 http://www.codeskulptor.org/#examples-arithmetic_expressions.py
 
 
-http://www.change.org
-La plataforma de peticiones 
-REF:
+Equal treatment for computer engineering in Spain's LSCP (change.org petition, 2013)
+A change.org petition started on 15 April 2013 by CCII - CONCITI, asking the Ministry of Economy and Competitiveness (minister Luis de Guindos) to treat computer engineering like the other engineering degrees in the future law on professional services and associations (LSCP; "LSP" in the 2013 title). It closed with 19,297 signatures.
+https://www.change.org/p/llamamiento-a-los-gobiernos-y-a-la-sociedad-sobre-los-productos-actividades-y-servicios-inform%C3%A1ticos-en-la-sociedad-de-la-informaci%C3%B3n-y-el-conocimiento
+Archived copy (2013-04-19): http://web.archive.org/web/20130419045333/http://www.change.org:80/es/peticiones/ministerio-de-econom%C3%ADa-y-competitividad-trato-igualitario-a-ingenier%C3%ADas-en-inform%C3%A1tica-en-la-futura-lsp
+
+# English
+Petition to: the Ministry of Economy and Competitiveness
+Equal treatment for computer engineering degrees in the future LSCP
+The problem, as the petition puts it (my translation):
+> Every sector of modern society relies on computer engineering to work; excluding computer engineering from the other engineering fields would keep the country from advancing and progressing as it should.
+The petition is closed, with 19,297 signatures.
+
+# Español
+Petición de change.org creada el 15 de abril de 2013 por CCII - CONCITI y dirigida al Ministerio de Economía y Competitividad (ministro Luis de Guindos), para que la ingeniería informática tenga el mismo trato que el resto de ingenierías en la futura Ley de Servicios y Colegios Profesionales (LSCP; "LSP" en el título de 2013).
 Petición dirigida a: Ministerio de Economía y Competitividad
-Ministerio de Economía y Competitividad: Trato igualitario a Ingenierías en Informática en la futura LSP
-http://www.change.org/es/peticiones/ministerio-de-econom%C3%ADa-y-competitividad-trato-igualitario-a-ingenier%C3%ADas-en-inform%C3%A1tica-en-la-futura-lsp?utm_campaign=share_button_mobile&utm_medium=facebook&utm_source=share_petition
+Trato igualitario a Ingenierías en Informática en la futura LSCP
+> Todos los sectores de la sociedad moderna se apoyan en la ingeniería informática para su funcionamiento, excluir a la ingeniería informática del resto de ingenierías supondrá impedir que el país avance y progrese en forma adecuada.
+> Esta petición ha conseguido 19.297 firmas
+
+change.org, la plataforma de peticiones
+https://www.change.org/
 
 
 
