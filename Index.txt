@@ -227,17 +227,35 @@ My new external Mac drive is read-only. How can I fix it?
 http://www.askdavetaylor.com/external_mac_hard_drive_read-only_how_to_fix_it.html
 
 
-Notas CNR 2013
+CNR 2013, day 1 (Thursday 21 March 2013)
+My notes from the first day of CNR 2013, the Congreso Nacional de Ramas: the yearly congress of the IEEE Student Branches of Spain, held from 21 to 23 March 2013 at the Escola Tècnica Superior d'Enginyeria of the Universitat de València (ETSE-UV) and organized by its IEEE Student Branch. Three topics on day 1: a neutrino telescope under the sea (ANTARES), wireless sensor networks, and an augmented mirror from IRTIC. Notes for days 2 and 3 were never written.
 
-Dia 1 jueves 21 Mar 2013
-Neutrinos -telescopio de neutrinos - Antares
+# Congreso Nacional de Ramas 2013
+CNR 2013, IEEE University of Valencia Student Branch:
+http://ieee.uv.es/index.php/cnr2013
+Archived copy (2013-06-07): http://web.archive.org/web/20130607221505/http://ieee.uv.es/index.php/cnr2013
+> El Congreso Nacional de Ramas de estudiantes del IEEE (CNR), es un evento anual que reúne durante tres días a representantes de las Ramas de estudiantes de toda España. El evento es organizado cada año por una Rama de estudiantes distinta.
+> Charlas y Talleres sobre gestión y tecnología.
+> Visitas a institutos tecnológicos de investigación.
+The event on the Universitat de València's site:
+https://www.uv.es/uvweb/medicina-odontologia/es/facultad-medicina-odontologia/congreso-nacional-ramas-del-ieee-etse-uv-1285849537235/Esdeveniment.html?id=1285874027719
+> 21 de marzo de 2013 de 16:00 a 20:00. Jueves.
+> Lugar de realización Escola Tècnica Superior d'Enginyeria (ETSE-UV)
+
+# Day 1
+Neutrinos - telescopio de neutrinos - Antares
+https://antares.in2p3.fr/
+ANTARES (Wikipedia): https://en.wikipedia.org/wiki/ANTARES_(telescope)
+> ANTARES (Astronomy with a Neutrino Telescope and Abyss environmental RESearch project) was a neutrino detector that resided 2.5 km under the Mediterranean Sea off the coast of Toulon, France.
+> The data taking of ANTARES was finished in February 2022, after 16 years of continuous operation.
+
 WSN - wireless sensor network
+https://en.wikipedia.org/wiki/Wireless_sensor_network
+> Wireless sensor networks (WSNs) refer to networks of spatially dispersed and dedicated sensors that monitor and record the physical conditions of the environment and forward the collected data to a central location.
+
 Augmented Mirror - IRTIC
-
-Dia 2
-
-
-Dia 3
+IRTIC is the Universitat de València's research institute of robotics and information and communication technologies; its ARTEC group works on 3D graphics, virtual and augmented reality.
+https://www.uv.es/uvweb/instituto-universitario-investigacion-robotica-tecnologias-informacion-comunicacion-IRTIC/es/grupos-investigacion/artec/lineas-investigacion-1285895459474.html
 
 
 
