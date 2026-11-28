@@ -540,12 +540,23 @@ JBoss redefined the application server back in 2002 when it broke apart the mono
 http://www.jboss.org/projects
 
 
-getusvpn
+getusvpn: a free US PPTP VPN (2013, gone)
+A free VPN service, as it was in May 2013: everyone used the same PPTP account to connect from Windows, OS X, iPhone, iPad, Android or a router through a server in the USA. The site no longer answers, and PPTP has been considered broken since 2012, so this note is only a record.
+
 http://www.getusvpn.com/
-Welcome to high quality USA based Free VPN!
-Feel free to use the US PPTP VPN in Windows, OSX, iPhone, iPad, Android Phones, Tablets & Routers!
+Archived copy (2013-05-09): http://web.archive.org/web/20130509025235/http://www.getusvpn.com/
+> Welcome to high quality USA based Free VPN!
+> Feel free to use the US PPTP VPN in Windows, OSX, iPhone, iPad, Android Phones, Tablets & Routers!
+> The PPTP connection involves MSCHAP-V2 for authentication and MPPE 128-bit for encryption to give users a very strong protection of their network data
 PPTP Server: getusvpn.com
-PPTP Username: free
+
+# Why not PPTP today
+Point-to-Point Tunneling Protocol, Wikipedia:
+https://en.wikipedia.org/wiki/Point-to-Point_Tunneling_Protocol
+> The Point-to-Point Tunneling Protocol (PPTP) is an obsolete method for implementing virtual private networks. PPTP has many well known security issues.
+> MS-CHAP-v2 is vulnerable to dictionary attacks on the captured challenge response packets. Tools exist to perform this process rapidly.
+Microsoft Security Advisory 2743314, "Unencapsulated MS-CHAP v2 Authentication Could Allow Information Disclosure" (2012-08-20):
+https://learn.microsoft.com/en-us/security-updates/securityadvisories/2012/2743314
 
 
 Infobright Community Edition (ICE)
