@@ -2064,9 +2064,29 @@ We are excited by this new chapter in the story of Swift. After Apple unveiled t
 
 
 
-Vert.x
-http://vertx.io/
+Vert.x - reactive applications on the JVM
+Eclipse Vert.x is a toolkit, not a framework, for event-driven, non-blocking applications on the JVM. In 2016 (version 3.3.0) it could be used from Java, JavaScript, Groovy, Ruby and Ceylon; today (5.2.3) its examples are in Java and Kotlin.
+https://vertx.io/
+Code: https://github.com/eclipse-vertx/vert.x
 Vert.x is a tool-kit for building reactive applications on the JVM.
+
+# In 2016
+Archived copy (2016-07-02): http://web.archive.org/web/20160702062634/http://vertx.io:80/
+> Vert.x is event driven and non blocking. This means your app can handle a lot of concurrency using a small number of kernel threads. Vert.x lets your app scale with minimal hardware.
+> Vert.x is not an application server. There's no monolithic Vert.x instance into which you deploy applications. You just run your apps wherever you want to.
+
+# Today
+> Vert.x is a toolkit, not a framework, so it is naturally very composable and embeddable.
+> You pick the model that works best for the task at hand: callbacks, promises, futures, reactive extensions, and (Kotlin) coroutines.
+
+Hello World, from the 2016 page:
+```
+vertx.createHttpServer().requestHandler(req -> {
+  req.response()
+    .putHeader("content-type", "text/plain")
+    .end("Hello from Vert.x!");
+}).listen(8080);
+```
 
 
 Datamill
